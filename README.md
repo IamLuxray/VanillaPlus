@@ -36,6 +36,7 @@ Dají se udržet na stabilních 60fps a to i s ass PC:<br>
 
 <img src="2025-03-27_21.57.29_4K.png?raw=true" alt="Správně" width="960" height="500"><br>
 <img src="2025-03-27_22.49.37_4K.png?raw=true" alt="Správně" width="960" height="500"><br>
+<img src="2025-03-27_22.48.08_4K.png?raw=true" alt="Správně" width="960" height="500"><br>
 
 ## Mod list:
 
