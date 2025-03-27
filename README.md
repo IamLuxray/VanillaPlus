@@ -4,7 +4,8 @@ Přes 370 modů, ale jen zaměřených na visuální stránku a QoL aspekt, za s
 
 ## Prerekvizity:
 1. otevři CMD -> java -version -> jestli uvidíš číslo menší než 22, pokračuj na krok 2. Pokud vidíš 22+ (screenshot 1) tak přeskoč na krok 4.
-2. nainstaluj JDK 24:  https://download.java.net/java/GA/jdk24/1f9ff9062db4449d8ca828c504ffae90/36/GPL/openjdk-24_windows-x64_bin.zip
+2. Start -> Upravit proměnné prostředí systému -> nahoře žáložka upřesnit -> Proměnné prostředí... -> ve spodním okně řádek začínající Path -> Upravit... -> najdi řádek, kde je jakákoliv zmínka o Java nebo Oracle (většinou na disku kde je i Windows, např. C:) -> Odstranit... -> OK -> OK -> OK -> krok 3.
+3. nainstaluj JDK 24:  https://download.java.net/java/GA/jdk24/1f9ff9062db4449d8ca828c504ffae90/36/GPL/openjdk-24_windows-x64_bin.zip
 
 ## Mod list:
 
