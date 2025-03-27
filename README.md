@@ -11,7 +11,7 @@ Přes 370 modů, ale jen zaměřených na visuální stránku a QoL aspekt, za s
    
 ## Instalace
 
-1. Stáhni celý repozitář (Code</> -> Download .ZIP) a někde si to extrahuj.
+1. Stáhni celý Archiv (Releases -> Roaming.rar) a někde si to extrahuj.
 2. Start -> %appdata% + Enter -> nacházíš se ve složce Roaming, pokud zde někde nahoře již máš složku .minecraft, někam si jí zálohuj, ale nesmí tam zůstat.
 3. Vlož sem tu mojí složku **.minecraft** co si stáhnul, a do stejné složky (Roaming) vlož i složku **sklauncher** kterou si taky stáhl.
 4. Ve složce Roaming/sklauncher si zástupce SKlauncher dej někam např. na plochu. 
