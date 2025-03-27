@@ -24,7 +24,12 @@ Přes 370 modů, ale jen zaměřených na visuální stránku a QoL aspekt, za s
 Například E:\Users\Skibidi\AppData\Roaming\sklauncher\jre\bin\javaw.exe -Xmx512M -jar "E:\Users\Skibidi\AppData\Roaming\sklauncher\SKlauncher.jar"
    <br>-> nevynech dvojtečku ani uvozovky!
 
-# Hotovo!
+## Hotovo!
+
+# Gameplay screenshots:
+
+<img src="https://github.com/IamLuxray/VanillaPlus/blob/main/screen1.PNG?raw=true" alt="Správně" width="500" height="170"><br>
+<img src="https://github.com/IamLuxray/VanillaPlus/blob/main/screen1.PNG?raw=true" alt="Správně" width="500" height="170"><br>
 
 ## Mod list:
 
