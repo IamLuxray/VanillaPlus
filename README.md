@@ -6,7 +6,7 @@ Přes 370 modů, ale jen zaměřených na visuální stránku a QoL aspekt, za s
 1. otevři CMD -> java -version -> jestli uvidíš číslo menší než 22, pokračuj na krok 2. Pokud vidíš 22+ (screenshot 1) tak přeskoč na krok 4.
 2. nainstaluj přiloženou Java JDK (
 
-Mod list:
+## Mod list:
 
 actuallyharvest-1.21.4-1.1.2.1-FABRIC.jar<br>
 additionallanterns-1.1.1-fabric-mc1.21.4.jar<br>
@@ -384,4 +384,4 @@ zombievillagersfromspawner-1.21.4-3.9.jar<br>
 Zoomify-2.14.2+1.21.3.jar<br>
 [fabric]ctov-3.5.6.jar<br>
 
-Resource pack list:
+## Resource pack list:
