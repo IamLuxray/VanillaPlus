@@ -3,15 +3,25 @@ Minecraft 1.21.4 (Fabric) Vanilla+ Modpack
 Přes 370 modů, ale jen zaměřených na visuální stránku a QoL aspekt, za současného udržení Vanilla gameplaye a feelu.
 
 ## Prerekvizity:
-1. otevři CMD -> java -version -> jestli uvidíš číslo menší než 22, pokračuj na krok 2. Pokud vidíš 22+ (screenshot 1) tak přeskoč na krok 5.
+1. otevři CMD -> java -version -> jestli uvidíš číslo menší než 22, pokračuj na krok 2. Pokud vidíš 22+ (screenshot 1) tak přeskoč na **Instalace**.
 2. Start -> Upravit proměnné prostředí systému -> nahoře žáložka upřesnit -> Proměnné prostředí... -> ve spodním okně řádek začínající Path -> Upravit... -> najdi řádek, kde je jakákoliv zmínka o Java nebo Oracle (většinou na disku kde je i Windows, např. C:) -> Odstranit... -> OK -> OK -> OK -> krok 3.
 3. nainstaluj JDK 24:  https://download.java.net/java/GA/jdk24/1f9ff9062db4449d8ca828c504ffae90/36/GPL/openjdk-24_windows-x64_bin.zip
 4. po instalaci znovu otevři CMD -> java -version -> jestli teď neuvidíš 24, tak seš v prdeli a musíš mi napsat.
-5. Start -> %appdata% + Enter -> nacházíš se ve složce Roaming, pokud zde někde nahoře již máš složku .minecraft, někam si jí zálohuj. -> krok 6.
-6. vlož sem tu mojí složku .minecraft co zde stáhneš, a do stejné složky (Roaming) vlož i složku sklauncher kterou tu taky stáhneš
-7. ve složce Roaming/sklauncher si zástupce SKlauncher dej někam např. na plochu. pokud máš hlavní disk (kde se nachází windows) jiný než C:, je ještě třeba přepsat cestu viz krok 8. Pokud máš C: tak skoč na krok 9.
-8. Pravým klikni na zástupce SKlauncher -> Vlastnosti -> nahoře záložka Zástupce -> řádek Cíl uprav tak, aby tam bylo: ** PISMENO DISKU**:\Users\**NAZEV TVEHO UCTU**\AppData\Roaming\sklauncher\jre\bin\javaw.exe -Xmx512M -jar "**PISMENO DISKU**\Users\**NAZEV TVEHO U**CTU\AppData\Roaming\sklauncher\SKlauncher.jar" -> nevynech dvojtečku ani uvozovky! 
-9. HOTOVO! -> Teď můžeš ze zástupce hrát MC. V tom SK launcheru se pak můžeš odhlásit a přihlásit se svým (warez) jménem.
+   
+## Instalace
+
+1. Stáhni celý kód a někam si to extrahuj.
+2. Start -> %appdata% + Enter -> nacházíš se ve složce Roaming, pokud zde někde nahoře již máš složku .minecraft, někam si jí zálohuj, ale nesmí tam zůstat.
+3. Vlož sem tu mojí složku **.minecraft** co si stáhnul, a do stejné složky (Roaming) vlož i složku **sklauncher** kterou si taky stáhl.
+4. Ve složce Roaming/sklauncher si zástupce SKlauncher dej někam např. na plochu. 
+10. HOTOVO! -> Teď můžeš ze zástupce hrát MC. V tom SK launcheru se pak můžeš odhlásit a přihlásit se svým (warez) jménem.
+
+## POKUD MÁŠ JINÝ DISK SE SYSTÉMEM NEŽ DISK C:/ (např. D:/, E:/ apod.) TAK JEŠTĚ MUSÍŠ PROVÉST NÁSLEDUJÍCÍ.:
+1. Pravým klikni na zástupce SKlauncher který je ve složce %appdata%\Roaming\sklauncher -> Vlastnosti -> nahoře záložka Zástupce -> řádek Cíl uprav tak, aby tam bylo:
+   ** PISMENO DISKU**:\Users\**NAZEV TVEHO UCTU**\AppData\Roaming\sklauncher\jre\bin\javaw.exe -Xmx512M -jar "**PISMENO DISKU**\Users\**NAZEV TVEHO U**CTU\AppData\Roaming\sklauncher\SKlauncher.jar"
+   -> nevynech dvojtečku ani uvozovky!
+
+# Hotovo!
 
 ## Mod list:
 
