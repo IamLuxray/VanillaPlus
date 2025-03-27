@@ -26,7 +26,7 @@ Například E:\Users\Skibidi\AppData\Roaming\sklauncher\jre\bin\javaw.exe -Xmx51
 
 ## Hotovo!
 
-# V případě stabilního výkonu přepni na **Solas** shadery pro lepší experience.<br>
+### V případě stabilního výkonu přepni na **Solas** shadery pro lepší experience.<br>
 
 # Gameplay screenshots:
 
