@@ -1,6 +1,0 @@
-{
-	// Cloud height for use for server logic. On clients the cloud height is queried directly from the worlds dimension effects
-	"ServerWorldCloudHeights": {
-		"minecraft:overworld": 182.0
-	}
-}

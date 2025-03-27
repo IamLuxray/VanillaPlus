@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = false
-  world = C:/Minecraft/.minecraft/modpacks/295ef44a-ac45-3ff9-993b-557f8e053876/saves/New World
-}
-
