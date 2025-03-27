@@ -3,6 +3,7 @@ Minecraft 1.21.4 (Fabric) Vanilla+ Modpack.<br>
 Přes 370 modů, ale jen zaměřených na visuální stránku a QoL aspekt, za současného udržení Vanilla gameplaye a feelu.
 
 ## Prerekvizity:
+### Java JDK 22+
 1. otevři CMD ->  **java -version**    -> stiskni Enter -> jestli uvidíš číslo menší než 22, pokračuj na krok 2. Pokud vidíš 22 nebo vyšší (screenshot 1) tak přeskoč na **Instalace**.
 2. <img src="https://github.com/IamLuxray/VanillaPlus/blob/main/screen1.PNG?raw=true" alt="Správně" width="500" height="170">
 3. Start -> Upravit proměnné prostředí systému -> nahoře žáložka upřesnit -> Proměnné prostředí... -> ve spodním okně řádek začínající Path -> Upravit... -> najdi řádek, kde je jakákoliv zmínka o Java nebo Oracle (většinou na disku kde je i Windows, např. C:) -> Odstranit... -> OK -> OK -> OK -> krok 3.
