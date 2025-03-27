@@ -402,3 +402,18 @@ Zoomify-2.14.2+1.21.3.jar<br>
 [fabric]ctov-3.5.6.jar<br>
 
 ## Resource pack list:
+
+Vanilla Experience.zip<br>
+AL's Creepers Revamped 1.4.zip<br>
+Better Lanterns v1.2 - 1.21.4.zip<br>
+better_flame_particles-v2.2-mc1.14x-1.21x-resourcepack.zip<br>
+Better-Leaves-9.1.zip<br>
+Fancy Crops v1.1.zip<br>
+FreshAnimations_v1.9.3.zip<br>
+Chat Reporting Helper.zip<br>
+LowOnFire 1.21.4.zip<br>
+Mod Menu Helper.zip<br>
+qrafty's-capitalized-font.zip<br>
+Simple Grass Flowers v1.9.4.zip<br>
+SodiumTranslations.zip<br>
+Unique Dark 1.20.2-1.21.x (free).zip<br>
