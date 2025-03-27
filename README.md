@@ -1,6 +1,6 @@
 # Vanilla+
 Minecraft 1.21.4 (Fabric) Vanilla+ Modpack
-Over 350 mods, mainly focused on visuals and QoL with almost zero altering of Vanilla experience.
+Over 370 mods, mainly focused on visuals and QoL with almost zero altering of Vanilla experience.
 
 ## Prerequisities:
 1. open CMD -> type "java -version" -> if you see any number below 22, go to step 2. If you have 22+ version, skip to step X.
