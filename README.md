@@ -31,6 +31,7 @@ Dají se udržet na stabilních 60fps a to i s ass PC:<br>
 **NVidia GeForce GTX 1060 6GB GDDR5** <br>
 **Ryzen 5 1600X 6core 3,6GHz** <br>
 **RAM DDR4 32GB 2666MHz** <br>
+### Pro RTX GPU lze použít sharery **Rethinking Voxels** co mají low-performance Ray Traycing<br>
 
 # Gameplay screenshoty ve 4K se Solas shadery:
 
