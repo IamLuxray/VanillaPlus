@@ -1,10 +1,10 @@
 # Vanilla+
 Minecraft 1.21.4 (Fabric) Vanilla+ Modpack
-Over 370 mods, mainly focused on visuals and QoL with almost zero altering of Vanilla experience.
+Přes 370 modů, ale jen zaměřených na visuální stránku a QoL aspekt, za současného udržení Vanilla gameplaye a feelu.
 
-## Prerequisities:
-1. open CMD -> type "java -version" -> if you see any number below 22, go to step 2. If you have 22+ version, skip to step X.
-2. install JDK.exe, then go to start -> u
+## Prerekvizity:
+1. otevři CMD -> java -version -> jestli uvidíš číslo menší než 22, pokračuj na krok 2. Pokud vidíš 22+ (screenshot 1) tak přeskoč na krok 4.
+2. nainstaluj přiloženou Java JDK (
 
 Mod list:
 
