@@ -1,0 +1,178 @@
+{
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-03-27 16:23:09 +0100"
+    },
+    "done": true
+  },
+  "wilderwild:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 16:28:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 16:28:48 +0100"
+    },
+    "done": true
+  },
+  "adorabuild_structures:overworld_structures": {
+    "criteria": {
+      "always": "2025-03-27 16:23:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-03-27 16:28:48 +0100"
+    },
+    "done": true
+  },
+  "promenade:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 16:28:48 +0100"
+    },
+    "done": true
+  },
+  "wilderwild:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 16:28:48 +0100"
+    },
+    "done": true
+  },
+  "villagepack:give_map": {
+    "criteria": {
+      "requirement": "2025-03-27 16:23:09 +0100"
+    },
+    "done": true
+  },
+  "better_babies:pack": {
+    "criteria": {
+      "trigger": "2025-03-27 16:23:16 +0100"
+    },
+    "done": true
+  },
+  "promenade:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 16:28:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 16:28:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 16:28:48 +0100"
+    },
+    "done": true
+  },
+  "lolmlmv:recipes/decorations/vanilla_loom_from_variants": {
+    "criteria": {
+      "has_variant_loom": "2025-03-27 16:23:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 16:28:48 +0100"
+    },
+    "done": true
+  },
+  "global:leash_villager": {
+    "criteria": {
+      "trigger": "2025-03-27 16:23:09 +0100"
+    },
+    "done": true
+  },
+  "wilderwild:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 16:28:48 +0100"
+    },
+    "done": true
+  },
+  "kattersstructures:root": {
+    "criteria": {
+      "requirement": "2025-03-27 16:23:09 +0100"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-03-27 16:23:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 16:28:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 16:28:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 16:28:48 +0100"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2025-03-27 16:23:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 16:28:48 +0100"
+    },
+    "done": true
+  },
+  "wilderwild:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 16:28:48 +0100"
+    },
+    "done": true
+  },
+  "promenade:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 16:28:48 +0100"
+    },
+    "done": true
+  },
+  "wilderwild:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 16:28:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-03-27 16:26:23 +0100",
+      "minecraft:river": "2025-03-27 16:28:52 +0100"
+    },
+    "done": false
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-03-27 16:23:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 16:28:48 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
+}
