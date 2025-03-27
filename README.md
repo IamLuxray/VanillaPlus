@@ -26,6 +26,8 @@ Například E:\Users\Skibidi\AppData\Roaming\sklauncher\jre\bin\javaw.exe -Xmx51
 
 ## Hotovo!
 
+# V případě stabilního výkonu přepni na **Solas** shadery pro lepší experience.<br>
+
 # Gameplay screenshots:
 
 <img src="https://github.com/IamLuxray/VanillaPlus/blob/main/screen1.PNG?raw=true" alt="Správně" width="500" height="170"><br>
