@@ -31,7 +31,7 @@ Například E:\Users\Skibidi\AppData\Roaming\sklauncher\jre\bin\javaw.exe -Xmx51
 # Gameplay screenshots:
 
 <img src="2025-03-27_21.57.29_4K.png?raw=true" alt="Správně" width="960" height="500"><br>
-<img src="https://github.com/IamLuxray/VanillaPlus/blob/main/screen1.PNG?raw=true" alt="Správně" width="500" height="170"><br>
+<img src="2025-03-27_22.49.37_4K.png?raw=true" alt="Správně" width="960" height="500"><br>
 
 ## Mod list:
 
