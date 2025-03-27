@@ -1,0 +1,5 @@
+{
+	// The chance a blaze that has spawned is a breeze entity.
+	// min: 0.0, max: 1.0
+	"chanceBlazeIsBreeze": 0.1
+}

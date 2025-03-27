@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "warningMethodEnum": "HOTBAR",
+  "showMobName": true,
+  "playSound": true,
+  "warningSoundType": "WARNING_PING",
+  "showText": true,
+  "soundVolume": 100.0
+}

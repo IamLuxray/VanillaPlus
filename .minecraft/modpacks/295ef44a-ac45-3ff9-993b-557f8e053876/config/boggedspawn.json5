@@ -1,0 +1,5 @@
+{
+	// The chance a skeleton that has spawned is of the bogged variant.
+	// min: 0.0, max: 1.0
+	"chanceSkeletonIsBogged": 0.1
+}

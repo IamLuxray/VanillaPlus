@@ -1,0 +1,11 @@
+DurabilityWoodenHammer=302 #Durability of the Wooden Hammer | default: 302
+DurabilityStoneHammer=650 #Durability of the Stone Hammer | default: 650
+DurabilityIronHammer=1300 #Durability of the Iron Hammer | default: 1300
+DurabilityGoldHammer=750 #Durability of the Gold Hammer | default: 750
+DurabilityLapisHammer=1100 #Durability of the Lapis Hammer | default: 1100
+DurabilityRedstoneHammer=1100 #Durability of the Redstone Hammer | default: 1100
+DurabilityObsidianHammer=11200 #Durability of the Obsidian Hammer | default: 11200
+DurabilityDiamondHammer=8025 #Durability of the Diamond Hammer | default: 8025
+DurabilityEmeraldHammer=9768 #Durability of the Emerald Hammer | default: 9768
+DurabilityNetheriteHammer=13675 #Durability of the Netherite Hammer | default: 13675
+

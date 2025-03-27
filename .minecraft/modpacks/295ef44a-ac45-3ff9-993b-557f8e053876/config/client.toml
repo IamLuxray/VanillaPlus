@@ -1,0 +1,2 @@
+show_hands = true
+whitelisted_items = ["minecraft:filled_map"]

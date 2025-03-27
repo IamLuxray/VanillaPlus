@@ -1,0 +1,6 @@
+{
+  "enable": true,
+  "castShadows": true,
+  "renderSidesOfItems": false,
+  "affect3DModels": true
+}
