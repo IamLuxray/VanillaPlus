@@ -1,5 +1,5 @@
 # Vanilla+
-Minecraft 1.21.4 (Fabric) Vanilla+ Modpack
+Minecraft 1.21.4 (Fabric) Vanilla+ Modpack.<br>
 Přes 370 modů, ale jen zaměřených na visuální stránku a QoL aspekt, za současného udržení Vanilla gameplaye a feelu.
 
 ## Prerekvizity:
