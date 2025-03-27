@@ -27,9 +27,12 @@ Například E:\Users\Skibidi\AppData\Roaming\sklauncher\jre\bin\javaw.exe -Xmx51
 ## Hotovo!
 
 ### V případě stabilního výkonu přepni na **Solas** shadery pro lepší experience.<br>
-Dají se udržet na stabilních 60fps s občasným dropem při renderu.
+Dají se udržet na stabilních 60fps a to i s ass PC:<br>
+**NVidia GeForce GTX 1060 6GB GDDR5** <br>
+**Ryzen 5 1600X 6core 3,6GHz** <br>
+**RAM DDR4 32GB 2666MHz** <br>
 
-# Gameplay screenshoty se Solas shadery:
+# Gameplay screenshoty ve 4K se Solas shadery:
 
 <img src="2025-03-27_21.57.29_4K.png?raw=true" alt="Správně" width="960" height="500"><br>
 <img src="2025-03-27_22.49.37_4K.png?raw=true" alt="Správně" width="960" height="500"><br>
