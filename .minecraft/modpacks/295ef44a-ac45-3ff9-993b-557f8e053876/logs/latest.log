@@ -1,0 +1,2140 @@
+[19:22:25] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
+[19:22:26] [ForkJoinPool-1-worker-10/WARN]: The mod "betterstats" contains invalid entries in its mod json:
+- Unsupported root entry "" at line 26 column 4
+- Unsupported root entry "" at line 26 column 124
+- Unsupported root entry "" at line 28 column 4
+- Unsupported root entry "" at line 28 column 24
+[19:22:26] [ForkJoinPool-1-worker-2/WARN]: Mod mr_dungeons uses the version 1.9.0b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[19:22:26] [ForkJoinPool-1-worker-3/WARN]: Mod elytra_physics uses the version 2.2_mc1.21.2+ which isn't compatible with Loader's extended semantic version format (Could not parse version number component '2_mc1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[19:22:26] [ForkJoinPool-1-worker-11/WARN]: Mod com_github_rtyley_animated-gif-lib-for-java uses the version animated-gif-lib-1.7 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'animated'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[19:22:26] [ForkJoinPool-1-worker-9/WARN]: Mod getittogetherdrops uses the version fabric-1.21-1.3.1 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[19:22:26] [ForkJoinPool-1-worker-4/WARN]: Mod promenade uses the version v5.0.0 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'v5'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[19:22:26] [ForkJoinPool-1-worker-9/WARN]: Mod mr_scorched uses the version 1.1.4b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '4b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[19:22:26] [ForkJoinPool-1-worker-11/WARN]: The mod "tcdcommons" contains invalid entries in its mod json:
+- Unsupported root entry "" at line 27 column 4
+- Unsupported root entry "" at line 27 column 198
+- Unsupported root entry "" at line 29 column 4
+- Unsupported root entry "" at line 29 column 24
+[19:22:26] [ForkJoinPool-1-worker-8/WARN]: Mod universal_ores uses the version v1.7.0 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'v1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[19:22:26] [main/INFO]: Dependencies overridden for minecraft, optigui, fabricloader
+[19:22:26] [main/WARN]: Warnings were found!
+ - Mod 'Horse Expert' (horseexpert) 21.4.1 recommends any version of accessories, which is missing!
+	 - You should install any version of accessories for the optimal experience.
+ - Mod 'Living Things' (livingthings) 1.21.4-2.2.0 recommends any version of patchouli, which is missing!
+	 - You should install any version of patchouli for the optimal experience.
+ - 'Minecraft' (minecraft) 1.21.4 recommends version 1.21.4 or later of Luxray's Vanilla+, which is missing!
+	 - You should install version 1.21.4 or later of Luxray's Vanilla+ for the optimal experience.
+ - Mod 'More Mobs' (moremobs) 1.5.4+mod recommends any version of modmenu-badges-lib, which is missing!
+	 - You should install any version of modmenu-badges-lib for the optimal experience.
+ - Mod 'Peek' (peek) 1.21.4-1.4.1 conflicts with any version of mod 'Enhanced Block Entities' (enhancedblockentities), which is present with the following versions: 0.11.3+1.21.4!
+	 - While this won't prevent you from starting the game, the developer(s) of mod 'Peek' (peek) have found that this combination may cause issues. You should remove one of the mods or check for updates that resolve the issue.
+[19:22:26] [main/INFO]: Loading 549 mods:
+	- actuallyharvest 1.1.2.1
+	   \-- spectrelib 0.17.2+1.21
+	- additionallanterns 1.1.1
+	- additionalstructures 5.0.1-fabric
+	- adorabuild_structures 2.9.1
+	- advancednetherite 2.2.2-1.21.4
+	- advancementplaques 1.6.9
+	- almanac 1.4.4
+	- ambientsounds 6.1.3
+	- animal_feeding_trough 1.1.3+1.21.4
+	- appleskin 3.0.6+mc1.21.3
+	- architectury 15.0.3
+	- areas 6.1
+	- armored-elytra 1.4.1
+	- armorstatues 21.4.0
+	   \-- statuemenus 21.4.0
+	- armortrimitemfix 2.0.0
+	- audio_engine_tweaks 1.2.6-MC1.21.1
+	- axolotlbuckets 1.4.1
+	- badoptimizations 2.2.1
+	- badpackets 0.8.2
+	- balm 21.4.22
+	   \-- kuma_api 21.4.6
+	- bedrodium 0.3.0
+	- betteradvancements 0.4.6.36
+	- betteranimationscollection 21.4.0
+	- betterbeaconplacement 3.5
+	- betterbeds 1.4.1
+	- bettergrass 1.5.1+fabric.1.21.4
+	   \-- blue_endless_jankson 1.2.3
+	- betterhurtcam 1.10.0+mc1.21.2
+	- bettermounthud 1.2.5
+	- bettersafebed 1.21.3-1
+	- betterstats 3.13.9+fabric-1.21.4
+	- betterthanmending 2.2.3
+	- bettervillage 3.3.0
+	- bigendcitiesmod 1.21.4-1.1.0
+	- biggerspongeabsorptionradius 3.7
+	- boatiview 0.0.6
+	- bobby 5.2.6+mc1.21.4
+	   |-- com_typesafe_config 1.4.2
+	   |-- io_leangen_geantyref_geantyref 1.3.13
+	   |-- org_spongepowered_configurate-core 4.1.2
+	   \-- org_spongepowered_configurate-hocon 4.1.2
+	- boggedspawn 1.1
+	- bottleyourxp 3.5
+	- bowinfinityfix 3.1.0
+	- breezespawn 1.1
+	- brokenleadwarner 1.2.0+1.21.x
+	- c2me 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-base 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-client-uncapvd 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-fixes-chunkio-threading-issues 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-fixes-general-threading-issues 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-fixes-worldgen-threading-issues 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-fixes-worldgen-vanilla-bugs 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-notickvd 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-opts-allocs 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-opts-chunkio 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-opts-dfc 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-opts-math 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-opts-scheduling 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-opts-worldgen-general 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-opts-worldgen-vanilla 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-rewrites-chunk-serializer 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-rewrites-chunk-system 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-rewrites-chunkio 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-server-utils 0.3.2+alpha.0.41+1.21.4
+	   |-- c2me-threading-lighting 0.3.2+alpha.0.41+1.21.4
+	   |-- com_ibm_async_asyncutil 0.1.0
+	   |-- io_reactivex_rxjava3_rxjava 3.1.8
+	   |-- net_objecthunter_exp4j 0.4.8
+	   |-- org_jctools_jctools-core 4.0.5
+	   \-- org_reactivestreams_reactive-streams 1.0.4
+	- carryon 2.3.0
+	- cavespiderspawn 1.2
+	- chat_heads 0.13.14
+	- chatanimation 1.0.6
+	- chatnotify 2.4.2+1.21.4
+	- chatsounds 1.1.11
+	- chunky 1.4.27
+	- cicada 0.11.4+1.21.4-and-above
+	- cinderscapes 5.2.0
+	   |-- biolith 3.2.0
+	   |-- cinderscapes-client 5.2.0
+	   |-- cinderscapes-common 5.2.0
+	   |-- cinderscapes-worldgen 5.2.0
+	   |-- mixson 0.1.4
+	   |-- terraform-biome-remapper-api-v1 13.0.0-alpha.2
+	   |-- terraform-shapes-api-v1 13.0.0-alpha.2
+	   |-- terraform-surfaces-api-v1 13.0.0-alpha.2
+	   \-- terraform-wood-api-v1 13.0.0-alpha.2
+	- clean-debug 0.4.9
+	- clickthrough 3.3+1.21.3
+	- cloth-config 17.0.144
+	   \-- cloth-basic-math 0.6.1
+	- clumps 22.0.0.1
+	- cobweb 1.3.3
+	- collective 7.94
+	- conduitspreventdrowned 3.9
+	- continuity 3.0.0+1.21.4
+	- controlify 2.0.2+1.21.4-fabric
+	   \-- mixinextras 0.5.0-beta.4
+	- coroutil 1.21.4-1.3.8
+	- crash_assistant 1.4.3
+	- creativecore 2.12.35
+	   \-- net_neoforged_bus 7.2.0
+	- cristellib 2.0.2
+	   \-- blue_endless_jankson 1.2.3
+	- cropsloverain 2.4.1
+	   \-- midnightlib 1.6.7
+	- cryingghasts 3.6
+	- ctov 3.5.6
+	- cubes-without-borders 3.0.0+mc1.21.3
+	- cullleaves 4.0.3
+	- currentgamemusictrack 2.4
+	- customizableelytra 2.2.8
+	- customlan 1.21.4-1.21.4-v2.3.2
+	   |-- com_github_alexdlaird_java-ngrok 2.3.4
+	   |-- fabric-api-base 0.4.54+b47eab6b04
+	   |-- fabric-command-api-v2 2.2.41+e496eb1504
+	   |-- org_apache_commons_commons-text 1.13.0
+	   \-- org_yaml_snakeyaml 2.3
+	- customskinloader 14.23
+	- customwindowtitle_multiloader 1.4.1
+	   \-- customwindowtitle 1.4.1
+	- cutthrough 21.4.0
+	- cyclepaintings 4.1
+	- day_dream 1.0.14
+	- debugify 1.21.4+1.1
+	- despawningeggshatch 4.5
+	- detailab 2.6.3+1.21.3-fabric
+	- dh-api 1.0
+	- diagonalfences 21.4.0
+	   \-- diagonalblocks 21.4.0
+	- diagonalwalls 21.4.0
+	   \-- diagonalblocks 21.4.0
+	- ding 1.5.0
+	- disableaccessibilityscreen 1.1.0+1.21.4
+	- disableinsecurechattoast 1.1.0
+	- distanthorizons 2.3.0-b
+	- distinguishedpotions 21.4.0
+	- do_a_barrel_roll 3.8.1
+	- dogslie 1.3.0
+	- doors-closed 1.0.0+1.19.4
+	- doubledoors 6.2
+	- draggable_lists 1.0.10
+	- drippyloadingscreen 3.0.11
+	- durabilitytooltip 1.1.5
+	- dyed 1.2.0
+	- dynamic_fps 3.9.1
+	   \-- net_lostluma_battery 1.3.0
+	- dynamiccrosshair 9.3
+	   |-- dynamiccrosshair-api 1.1
+	   \-- libbamboo 2.2
+	- dynamiccrosshaircompat 4.0
+	- e4mc_minecraft 5.3.0
+	   \-- folk_sisby_kaleido-config 0.3.1+1.3.1
+	- easyanvils 21.4.1
+	- easyelytratakeoff 4.5
+	- easymagic 21.4.1
+	- easyshulkerboxes 21.4.2
+	   \-- iteminteractions 21.4.2
+	- edibles 4.5
+	- elytra_physics 2.2_mc1.21.2+
+	- emotecraft 2.5.5
+	   \-- playeranimator 2.0.1.4+1.21.4
+	- enchantinginfuser 21.4.0
+	- enchantment_lore 1.5.1
+	   \-- server_translations_api 2.4.0+1.21.2-rc1
+	        \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	- enchantmentlevelcapindicator 1.1
+	- enchlevel-langpatch 2.2.8
+	- enhancedblockentities 0.11.3+1.21.4
+	- entity_model_features 2.4.1
+	- entity_texture_features 6.2.10
+	   \-- org_apache_httpcomponents_httpmime 4.5.10
+	- entityculling 1.7.3
+	- equipmentcompare 1.3.12
+	- euphoria_patcher 1.5.2-r5.4-fabric
+	   \-- io_sigpipe_jbsdiff 1.0
+	- expanded_armor_enchanting 1.0.12
+	- explorations 1.21.4-1.6.1
+	- explorify 1.6.2
+	- explosiveenhancement 1.3.0-1.21.4
+	- fabric-api 0.118.5+1.21.4
+	   |-- fabric-api-lookup-api-v1 1.6.86+b1caf1e904
+	   |-- fabric-biome-api-v1 15.0.6+b1c29d8e04
+	   |-- fabric-block-api-v1 1.0.31+7feeb73304
+	   |-- fabric-block-view-api-v2 1.0.19+7feeb73304
+	   |-- fabric-blockrenderlayer-v1 2.0.8+7feeb73304
+	   |-- fabric-client-tags-api-v1 1.1.29+20ea1e2304
+	   |-- fabric-command-api-v1 1.2.62+f71b366f04
+	   |-- fabric-commands-v0 0.2.79+df3654b304
+	   |-- fabric-content-registries-v0 9.1.19+25d1a67604
+	   |-- fabric-convention-tags-v1 2.1.18+7f945d5b04
+	   |-- fabric-convention-tags-v2 2.13.1+4a9c1ece04
+	   |-- fabric-crash-report-info-v1 0.3.6+7feeb73304
+	   |-- fabric-data-attachment-api-v1 1.6.1+e99da0f704
+	   |-- fabric-data-generation-api-v1 22.2.13+60b6f1b704
+	   |-- fabric-dimensions-v1 4.0.10+7feeb73304
+	   |-- fabric-entity-events-v1 2.0.15+62245bef04
+	   |-- fabric-events-interaction-v0 4.0.3+a4eebcf004
+	   |-- fabric-game-rule-api-v1 1.0.63+7d48d43904
+	   |-- fabric-item-api-v1 11.3.0+ee91fa1f04
+	   |-- fabric-item-group-api-v1 4.2.2+fcb9601404
+	   |-- fabric-key-binding-api-v1 1.0.57+7d48d43904
+	   |-- fabric-keybindings-v0 0.2.55+df3654b304
+	   |-- fabric-lifecycle-events-v1 2.5.4+bf2a60eb04
+	   |-- fabric-loot-api-v2 3.0.38+3f89f5a504
+	   |-- fabric-loot-api-v3 1.0.26+203e6b2304
+	   |-- fabric-message-api-v1 6.0.25+7feeb73304
+	   |-- fabric-model-loading-api-v1 4.3.0+ae23723504
+	   |-- fabric-networking-api-v1 4.3.10+8998135104
+	   |-- fabric-object-builder-api-v1 18.0.14+38b0d59804
+	   |-- fabric-particles-v1 4.0.14+7feeb73304
+	   |-- fabric-recipe-api-v1 8.1.0+640e77ae04
+	   |-- fabric-registry-sync-v0 6.1.10+4a9c1ece04
+	   |-- fabric-renderer-api-v1 5.0.3+50f0feb204
+	   |-- fabric-renderer-indigo 2.0.3+50f0feb204
+	   |-- fabric-rendering-data-attachment-v1 0.3.57+73761d2e04
+	   |-- fabric-rendering-fluids-v1 3.1.19+7feeb73304
+	   |-- fabric-rendering-v1 10.2.1+0d31b09f04
+	   |-- fabric-resource-conditions-api-v1 5.0.13+203e6b2304
+	   |-- fabric-resource-loader-v0 3.1.1+360374ac04
+	   |-- fabric-screen-api-v1 2.0.38+7feeb73304
+	   |-- fabric-screen-handler-api-v1 1.3.117+7feeb73304
+	   |-- fabric-sound-api-v1 1.0.32+7feeb73304
+	   |-- fabric-tag-api-v1 1.0.7+7d48d43904
+	   |-- fabric-transfer-api-v1 5.4.9+efa825c904
+	   \-- fabric-transitive-access-wideners-v1 6.3.2+56e78b9b04
+	- fabric-language-kotlin 1.13.1+kotlin.2.1.10
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.1.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.1.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.1.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.1.10
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.27.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.1
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.1
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.6.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.6.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.8.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.8.0
+	- fabricloader 0.16.10
+	- fabrictailor 2.6.3
+	   |-- config2brigadier 2.0.1
+	   |    \-- fabric-permissions-api-v0 0.3.3
+	   \-- fabric-permissions-api-v0 0.3.3
+	- fabrishot 1.14.3
+	- fallingleaves 1.17.0
+	- fallingtree 1.21.4.7
+	- fancyhealthbar 1.1.1
+	- fancymenu 3.4.6
+	   |-- com_github_keksuccino_japng 0.5.3
+	   \-- com_github_rtyley_animated-gif-lib-for-java animated-gif-lib-1.7
+	- fastconfigapi 2.1.0
+	   \-- com_moandjiezana_toml_toml4j 0.7.2
+	- fastipping 1.0.5
+	- fastitems 1.1.0-fabric+1.21.4
+	- fastquit 3.0.0+1.21.4
+	- fasttrading 0.2.2+1.21.4
+	- ferritecore 7.1.1
+	- firstjoinmessage 3.7
+	- firstperson 2.4.8
+	- fishontheline 3.5
+	- fluidvoidfading 1.2.0+1.21.4
+	- followersteleporttoo 2.7
+	- forgeconfigapiport 21.4.1
+	   |-- com_electronwill_night-config_core 3.8.1
+	   \-- com_electronwill_night-config_toml 3.8.1
+	- forgivingvoid 21.4.3
+	- furnacerecycle 2.6
+	- fzzy_config 0.6.7+1.21.3
+	   |-- blue_endless_jankson 1.2.3
+	   |-- fabric-permissions-api-v0 0.3.3
+	   \-- net_peanuuutz_tomlkt_tomlkt-jvm 0.3.7
+	- getittogetherdrops fabric-1.21-1.3.1
+	- glassbreaker 2.0.0+1.21+fabric
+	- glitchcore 2.3.0.4
+	   \-- net_jodah_typetools 0.6.3
+	- grassseeds 3.4
+	- grindenchantments 4.0.1+1.21.4
+	   \-- codec-config-api 3.0.2+1.21.4
+	- hardcorerevival 21.4.4
+	- head_in_the_clouds 1.3.0+1.21.4
+	- healingcampfire 6.2
+	- highlighter 1.1.11
+	- hopobettermineshaft 1.3.0
+	- hopobetterruinedportal 1.4.5
+	- hopobetterunderwaterruins 1.2.2
+	- horsebuff 2.2.1
+	- horseexpert 21.4.1
+	- huskspawn 3.6
+	- iceberg 1.2.13
+	- ichunutil 1.0.4
+	- immediatelyfast 1.3.6+1.21.4
+	   \-- net_lenni0451_reflect 1.3.4
+	- immersiveui 0.3.0
+	- infinitetrading 4.6
+	- inventorysorter 1.9.1-1.21.4
+	   \-- kyrptconfig 1.6.1-1.21.4
+	- inventorytotem 3.4
+	- iris 1.8.8+mc1.21.4
+	   |-- io_github_douira_glsl-transformer 2.0.1
+	   |-- org_anarres_jcpp 1.4.14
+	   \-- org_antlr_antlr4-runtime 4.13.1
+	- isxander-main-menu-credits 1.2.0
+	- itemborders 1.2.5
+	- itemphysiclite 1.6.7
+	- jade 17.2.2+fabric
+	- java 21
+	- jrftl 1.9.1
+	- keepmysoiltilled 2.5
+	- konkrete 1.9.9
+	- labellingcontainers 1.9.2
+	- lambdynlights 4.0.2+1.21.4
+	   |-- lambdynlights_api 4.0.2+1.21.4
+	   |-- pride 1.3.0+1.21.2
+	   \-- spruceui 6.2.2+1.21.4
+	- languagereload 1.7.2+1.21.4
+	- leavesbegone 21.4.0
+	- legendarytooltips 1.5.1
+	- letmedespawn 1.5.0
+	- libraryferret 4.0.0
+	- lithium 0.15.0+mc1.21.4
+	- lithostitched 1.4.4
+	- livingthings 1.21.4-2.2.0
+	- lolmblv 1.7.7
+	- lolmbv 1.0.6
+	- lolmcgt 1.8.1
+	- lolmcmv 1.8.1
+	- lolmcmv-aft 1.1.0
+	- lolmct 1.2.10
+	- lolmcv 1.5.11
+	- lolmft 1.8.2
+	- lolmgv 1.1.3
+	- lolmlmv 1.2.0
+	- lolmlv 1.8.2
+	- lolmst 1.2.0
+	- lolmsv 1.3.10
+	- lootr 1.21.4-1.12.36.89
+	- magnumtorch 21.4.0
+	- make_bubbles_pop 0.3.1-fabric
+	- marlows-crystal-optimizer 1.0.3
+	- mavapi 1.2.0
+	- mavm 1.3.1
+	- mcwpaintings 1.0.5
+	- melody 1.0.10
+	- mes 1.4.2-1.21.4-fabric
+	- milkallthemobs 3.4
+	- mine-spawners 1.5.1
+	- minecraft 1.21.4
+	- mixintrace 1.1.1+1.17
+	- mns 1.1.2-1.21.4-fabric
+	- modelfix 1.21.3-1.10
+	- modernfix 5.20.3+mc1.21.4
+	- modmenu 13.0.3
+	   \-- placeholder-api 2.5.1+1.21.3
+	- mooshroomtweaks 3.6
+	- morechathistory 1.3.1
+	- moreculling 1.2.9
+	   |-- conditional-mixin 0.6.3
+	   \-- mixinsquared 0.2.0
+	- morediscs 1.21.4-34-fabric
+	- moremobs 1.5.4+mod
+	- morezombievillagers 3.6
+	- mostructures 1.5.1+1.21.4
+	   \-- omegaconfig 1.5.1
+	- mousetweaks 2.27
+	- mr_better_babies 0.7.17
+	- mr_dungeons 1.9.0b
+	- mr_dungeons_andtaverns 1-v4.6.3
+	- mr_katters_structures 2.2.1
+	- mr_leash_villager 1.1-mc1.21.4
+	- mr_mastercutter 1.5-mc1.21.4
+	- mr_qraftys_endvillages 3.1
+	- mr_qraftys_japanesevillages 3.1
+	- mr_qraftys_junglevillages 4
+	- mr_scorched 1.1.4b
+	- mr_serversleep 1-datapack2
+	- mr_tidal_towns 1.3.4
+	- mr_tnt_timer 3.0
+	- mr_true_ending 1-v1.1.3
+	- mr_village_maponstart 1.1
+	- mru 1.0.8+1.21.4+fabric
+	- mstv-base 1.4.2
+	- mstv-masv 1.3.0
+	- mstv-mfrv 1.1.1
+	- mstv-mtoolv 1.1.2
+	- music_sync 1.4
+	- mvs 4.3.4-1.21.4-fabric
+	- namepain 1.5.3
+	- nametagtweaks 4.0
+	- nethermap 4.1.0-1.21.4
+	- netherportalspread 8.4
+	- noanimaltemptdelay 1.2
+	- nochatreports 1.21.4-v2.11.0
+	- nofeathertrample 1.3
+	- nohostilesaroundcampfire 7.2
+	- noisium 2.5.0+mc1.21.4
+	- norefreshscroll 1.0.11
+	- notenoughanimations 1.9.2
+	- nullscape 1.2.10
+	- nutritiousmilk 3.5
+	- octolib 0.5.0.1
+	- online_emotes 3.3.3.1+mc1.21.4-fabric
+	   |-- com_velocitypowered_velocity-native 3.4.0-SNAPSHOT
+	   \-- io_netty_netty-codec-http 4.1.115
+	- onlyhammers 1.21.4-0.1
+	- optigui 2.3.0-beta.7+1.21.2
+	   \-- org_ini4j_ini4j 0.5.4
+	- oreharvester 1.5
+	- owo 0.12.20+1.21.4
+	   |-- io_wispforest_endec 0.1.9
+	   |-- io_wispforest_endec_gson 0.1.6
+	   |-- io_wispforest_endec_jankson 0.1.6
+	   \-- io_wispforest_endec_netty 0.1.5
+	- packetfixer 2.1.1
+	- paginatedadvancements 2.6.1+1.21.4
+	- particle_core 0.2.5+1.21.4
+	- particular 1.1.1+1.21.4
+	- peek 1.21.4-1.4.1
+	- petnames 3.5
+	- philipsruins 1.21.4
+	- pickupnotifier 21.4.0
+	- piglinnames 1.3
+	- ping-wheel 1.10.1
+	- placeableblazerods 3.9
+	- polytone 1.21.4-3.3.2
+	   \-- net_objecthunter_exp4j 0.4.8
+	- presencefootsteps 1.11.0+1.21.4
+	   \-- kirin 1.20.3+1.21.4
+	- prism 1.0.10
+	- promenade v5.0.0
+	   \-- biolith 3.2.0
+	- puzzle 2.0.4
+	- puzzleslib 21.4.12
+	- quad 1.2.11
+	- quad-lolmbdv 1.6.1
+	- quad-lolmbhv 1.1.1
+	- quad-lolmjnv 1.0.3
+	- quad-lolmsmv 1.3.3
+	- quad-mstv-mtv 1.1.4
+	- randombonemealflowers 4.7
+	- randomvillagenames 3.8
+	- real-arrow-tip 0.1.1+mc1.21.4
+	- realisticbees 4.1
+	- reeses-sodium-options 1.8.3+mc1.21.4
+	- reinfchest 3.3.0+1.21.4
+	   \-- reinfcore 4.0.4+1.21.4
+	- repurposed_structures 7.5.15+1.21.4-fabric
+	- reputation 0.2.10+jade.1.21.4
+	- resourcepackchecker 1.21.4-1.2.2
+	- respawnablepets 1.21.4-r1
+	   \-- cardinal-components-world 6.2.0
+	- respawningshulkers 4.1
+	- rrls 5.1.1+mc1.21.4-fabric
+	- scaffoldingdropsnearby 3.4
+	- searchables 1.0.3
+	- seasonhud 1.12.5
+	- sereneseasons 10.4.0.6
+	   \-- net_jodah_typetools 0.6.3
+	- servercore 1.5.8+1.21.4
+	   |-- fabric-permissions-api-v0 0.3.3
+	   |-- placeholder-api 2.5.1+1.21.3
+	   |-- space_arim_dazzleconf_dazzleconf-core 1.3.0-M2
+	   \-- space_arim_dazzleconf_dazzleconf-ext-snakeyaml 1.3.0-M2
+	- shouldersurfing 4.10.2
+	- simple-armor-hud 1.21.4-1.5.1
+	- sit 1.21.3-29
+	- skeletonhorsespawn 4.1
+	- skinlayers3d 1.7.4
+	- smoothscroll 2.2.2.1
+	- snowundertrees 2.7.0+1.21.4
+	- snowyleavesplus 0.1.13
+	- snowysniffer 1.0.0
+	- snuffles 1.4.0+1.21.4
+	- sodium 0.6.10+mc1.21.4
+	- sodium-extra 0.6.1+mc1.21.4
+	- softerhaybales 3.4
+	- soul_fire_d 5.1.6
+	- sound_physics_remastered 1.21.4-1.4.8
+	- sparkle 2.2.0
+	- sparsestructures 2.2.1
+	- spidersproducewebs 3.6
+	- spookydoors 21.4.4
+	- stack-to-nearby-chests 0.5.12
+	   \-- libgui 12.0.1+1.21.2
+	        |-- jankson 9.0.0+j1.2.3
+	        |    \-- blue_endless_jankson 1.2.3
+	        \-- libninepatch 1.2.0
+	- status-effect-bars 1.0.7
+	- strayspawn 3.7
+	- structory 1.3.9
+	- styledplayerlist 3.6.0+1.21.2
+	   |-- player-data-api 0.6.0+1.21
+	   \-- predicate-api 0.6.0+1.21.2
+	- suggestion_tweaker 1.20.6-1.5.2
+	- superbsteeds 1.21.4-r2
+	   |-- cardinal-components-base 6.2.2
+	   \-- cardinal-components-entity 6.2.2
+	- supermartijn642configlib 1.1.8
+	- supermartijn642corelib 1.1.18+a
+	- surfacemushrooms 3.6
+	- t_and_t 1.13.5
+	- taxfreelevels 1.4.7
+	- tcdcommons 3.12.7+fabric-1.21.4
+	- terralith 2.5.8
+	- tia 1.2.2
+	- tier-tagger 1.13.2+mc1.21.4
+	- tool_trims 2.3.0
+	- toomanypaintings 24.11.29-1.21.3-fabric
+	- totally_lit 1.1.0+1.21.4
+	- trade_cycling 1.21.4-1.0.17
+	- trimmable_tools 2.0.5
+	- ukulib 1.6.0+1.21.4
+	   \-- com_moandjiezana_toml_toml4j 0.7.2
+	- ukus-armor-hud 0.7.0+mc1.21.4
+	- universal-graves 3.6.0+1.21.4
+	   |-- common-protection-api 1.0.0
+	   |-- fabric-permissions-api-v0 0.3.3
+	   |-- placeholder-api 2.5.1+1.21.3
+	   |-- polymer-core 0.11.0+1.21.4-rc1
+	   |    |-- polymer-networking 0.11.0+1.21.4-rc1
+	   |    |    \-- polymer-common 0.11.0+1.21.4-rc1
+	   |    |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   |    \-- polymer-registry-sync-manipulator 0.11.0+1.21.4-rc1
+	   |-- polymer-resource-pack 0.11.0+1.21.4-rc1
+	   |    \-- polymer-common 0.11.0+1.21.4-rc1
+	   |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   |-- polymer-virtual-entity 0.11.0+1.21.4-rc1
+	   |    \-- polymer-common 0.11.0+1.21.4-rc1
+	   |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   |-- predicate-api 0.6.0+1.21.2
+	   |-- server_translations_api 2.4.0+1.21.2-rc1
+	   |    \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   \-- sgui 1.8.0+1.21.4
+	- universal_ores v1.7.0
+	- universalbonemeal 21.4.0
+	- universalenchants 21.4.1
+	- videotape 1.0.0
+	- villagerdeathmessages 3.6
+	- villagernames 8.2
+	- vinurl 1.4.0
+	- visibletraders 0.0.7.1
+	- visuality 0.7.9+1.21.4
+	- visualoverhaul 6.0.0
+	   \-- midnightlib 1.6.7
+	- visualworkbench 21.4.1
+	- vmp 0.2.0+beta.7.192+1.21.4
+	   \-- com_ibm_async_asyncutil 0.1.0
+	- voicechat 1.21.4-2.5.28
+	- void_lib 1.1.6
+	- watut 1.21.4-1.2.5
+	- waveycapes 1.5.1
+	- waystones 21.4.10
+	- weaponmaster_ydm 4.2.7
+	- welcomemessage 2.7
+	- wilderwild 4.0.1-mc1.21.4
+	   \-- frozenlib 2.0.1-mc1.21.4
+	- wildfire_gender 4.3.3+1.21.4
+	- worldplaytime 1.2.4
+	- xxlpackets 1.0.5-1.21
+	- yeetusexperimentus 87.0.0
+	- yet_another_config_lib_v3 3.6.3+1.21.4-fabric
+	- yosbr 0.1.2
+	- zombiehorsespawn 5.2
+	- zombieproofdoors 3.5
+	- zombievillagersfromspawner 3.9
+	- zoomify 2.14.2+1.21.3
+	   \-- com_akuleshov7_ktoml-core-jvm 0.5.2
+[19:22:26] [main/INFO]: Applying default options... (YOSBR)
+[19:22:27] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Luxra/AppData/Roaming/.minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[19:22:27] [main/INFO]: Compatibility level set to JAVA_17
+[19:22:27] [main/INFO]: Compatibility level set to JAVA_21
+[19:22:27] [main/WARN]: Reference map 'armorstatues.common.refmap.json' for armorstatues.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:27] [main/WARN]: Reference map 'armorstatues.fabric.refmap.json' for armorstatues.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:27] [main/INFO]: Loading config file
+[19:22:27] [main/INFO]: Config version: 4
+[19:22:27] [main/INFO]: BadOptimizations config dump:
+[19:22:27] [main/INFO]: enable_toast_optimizations: true
+[19:22:27] [main/INFO]: ignore_mod_incompatibilities: false
+[19:22:27] [main/INFO]: lightmap_time_change_needed_for_update: 80
+[19:22:27] [main/INFO]: enable_lightmap_caching: true
+[19:22:27] [main/INFO]: enable_particle_manager_optimization: true
+[19:22:27] [main/INFO]: enable_entity_renderer_caching: true
+[19:22:27] [main/INFO]: log_config: true
+[19:22:27] [main/INFO]: enable_remove_redundant_fov_calculations: true
+[19:22:27] [main/INFO]: config_version: 4
+[19:22:27] [main/INFO]: enable_sky_angle_caching_in_worldrenderer: true
+[19:22:27] [main/INFO]: enable_block_entity_renderer_caching: true
+[19:22:27] [main/INFO]: skycolor_time_change_needed_for_update: 3
+[19:22:27] [main/INFO]: enable_entity_flag_caching: true
+[19:22:27] [main/INFO]: enable_debug_renderer_disable_if_not_needed: true
+[19:22:27] [main/INFO]: enable_sky_color_caching: true
+[19:22:27] [main/INFO]: enable_remove_tutorial_if_not_demo: true
+[19:22:27] [main/INFO]: show_f3_text: true
+[19:22:27] [main/INFO]: Note: Entity flag caching has no effect in Minecraft 1.20.5+ as the optimization is now in vanilla.
+[19:22:27] [main/INFO]: Disabled enable_sky_color_caching because mod "polytone" is present.
+[19:22:27] [main/INFO]: Disabled enable_lightmap_caching because mod "polytone" is present.
+[19:22:27] [main/WARN]: Reference map 'betteranimationscollection.fabric.refmap.json' for betteranimationscollection.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[19:22:28] [main/INFO]: Global Executor Parallelism: 6 configured, 6 evaluated, 6 default evaluated
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.client.uncapvd.mixin
+[19:22:28] [main/INFO]: Disabling config clientSideConfig.modifyMaxVDConfig.enabled: Incompatible with bobby@5.2.6+mc1.21.4 (*) (defined in c2me)
+[19:22:28] [main/INFO]: Disabling com.ishland.c2me.client.uncapvd.mixin
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[19:22:28] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@15.0.3 (*) (defined in c2me)
+[19:22:28] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[19:22:28] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[19:22:28] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'cutthrough.fabric.refmap.json' for cutthrough.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/INFO]: Preloading Debugify
+[19:22:28] [main/WARN]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'diagonalfences.fabric.refmap.json' for diagonalfences.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'diagonalwalls.common.refmap.json' for diagonalwalls.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'diagonalwalls.fabric.refmap.json' for diagonalwalls.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'distinguishedpotions.fabric.refmap.json' for distinguishedpotions.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'durabilitytooltip.mixins.refmap.json' for durabilitytooltip.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'easyshulkerboxes.common.refmap.json' for easyshulkerboxes.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'easyshulkerboxes.fabric.refmap.json' for easyshulkerboxes.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'enchantinginfuser.fabric.refmap.json' for enchantinginfuser.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'horseexpert.common.refmap.json' for horseexpert.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'horseexpert.fabric.refmap.json' for horseexpert.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'iris-fabric.refmap.json' for mixins.iris.fabric.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'iris.refmap.json' for iris-batched-entity-rendering.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.fantastic.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.vertexformat.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.bettermipmaps.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.compat.sodium.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.fixes.maxfpscrash.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'iteminteractions.fabric.refmap.json' for iteminteractions.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'leavesbegone.fabric.refmap.json' for leavesbegone.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[19:22:28] [main/INFO]: Loaded configuration file for Lithium: 149 options available, 2 override(s) found
+[19:22:28] [main/WARN]: Reference map 'magnumtorch.common.refmap.json' for magnumtorch.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'magnumtorch.fabric.refmap.json' for magnumtorch.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'mavm.refmap.json' for mavm.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/INFO]: Loaded configuration file for ModernFix 5.20.3+mc1.21.4: 54 options available, 4 override(s) found
+[19:22:28] [main/WARN]: Option 'mixin.bugfix.paper_chunk_patches' overriden (by mods [c2me]) to 'false'
+[19:22:28] [main/WARN]: Option 'mixin.perf.cache_strongholds' overriden (by mods [c2me]) to 'false'
+[19:22:28] [main/WARN]: Option 'mixin.perf.nbt_memory_usage' overriden (by mods [c2me]) to 'false'
+[19:22:28] [main/WARN]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [c2me]) to 'false'
+[19:22:28] [main/INFO]: Applying Nashorn fix
+[19:22:28] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:28] [main/WARN]: Reference map 'pickupnotifier.fabric.refmap.json' for pickupnotifier.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:29] [main/INFO]: Loaded configuration file for Sodium: 43 options available, 1 override(s) found
+[19:22:29] [main/INFO]: Loaded configuration file for Sodium Extra: 34 options available, 0 override(s) found
+[19:22:29] [main/WARN]: Reference map 'statuemenus.common.refmap.json' for statuemenus.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:29] [main/WARN]: Reference map 'statuemenus.fabric.refmap.json' for statuemenus.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:29] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:29] [main/WARN]: Reference map 'universalbonemeal.common.refmap.json' for universalbonemeal.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:29] [main/WARN]: Reference map 'universalbonemeal.fabric.refmap.json' for universalbonemeal.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:29] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:22:29] [main/INFO]: Successfully started async appender with [SysOut, ServerGuiConsole, Tracy, File]
+[19:22:29] [main/INFO]: Loading config WWMixinsConfig from wilderwild
+[19:22:29] [main/INFO]: Saving config WWMixinsConfig from wilderwild
+[19:22:29] [main/INFO]: Disabling config vanillaWorldGenOptimizations.useEndBiomeCache: Incompatible with biolith@3.2.0 (*) (defined in c2me)
+[19:22:29] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
+[19:22:29] [main/WARN]: Force disabled MC-122477 because it only applies to OS: LINUX
+[19:22:29] [main/WARN]: Force disabled MC-22882 because it only applies to OS: MAC
+[19:22:29] [main/WARN]: Force disabled MC-59810 because it only applies to OS: MAC
+[19:22:30] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/immediate/model/EntityRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/immediate/model/EntityRenderer)
+[19:22:30] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking.sleeping.campfire' (added by mods [totally_lit]) disables it and children
+[19:22:30] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.lit.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking.sleeping.campfire' (added by mods [totally_lit]) disables it and children
+[19:22:30] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.unlit.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking.sleeping.campfire' (added by mods [totally_lit]) disables it and children
+[19:22:30] [main/INFO]: Force-disabling mixin 'world.raycast.BlockGetterMixin' as rule 'mixin.world.raycast' (added by mods [wilderwild]) disables it and children
+[19:22:30] [main/INFO]: Force-disabling mixin 'world.raycast.ClipContextAccessor' as rule 'mixin.world.raycast' (added by mods [wilderwild]) disables it and children
+[19:22:31] [main/WARN]: Error loading class: com/mrcrayfish/guns/client/handler/RecoilHandler (java.lang.ClassNotFoundException: com/mrcrayfish/guns/client/handler/RecoilHandler)
+[19:22:31] [main/WARN]: Error loading class: com/cobblemon/mod/common/util/PlayerExtensionsKt (java.lang.ClassNotFoundException: com/cobblemon/mod/common/util/PlayerExtensionsKt)
+[19:22:31] [main/WARN]: Error loading class: com/cobblemon/mod/common/client/render/pokemon/PokemonRenderer (java.lang.ClassNotFoundException: com/cobblemon/mod/common/client/render/pokemon/PokemonRenderer)
+[19:22:31] [main/WARN]: Error loading class: yesman/epicfight/client/events/engine/RenderEngine (java.lang.ClassNotFoundException: yesman/epicfight/client/events/engine/RenderEngine)
+[19:22:31] [main/WARN]: Error loading class: mcjty/theoneprobe/rendering/OverlayRenderer (java.lang.ClassNotFoundException: mcjty/theoneprobe/rendering/OverlayRenderer)
+[19:22:31] [main/WARN]: Error loading class: net/tslat/tes/core/hud/TESHud (java.lang.ClassNotFoundException: net/tslat/tes/core/hud/TESHud)
+[19:22:31] [main/WARN]: Force-disabling mixin 'features.render.world.sky.FogRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[19:22:31] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientLevelMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[19:22:31] [main/WARN]: Force-disabling mixin 'features.render.world.sky.LevelRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[19:22:31] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[19:22:31] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
+[19:22:31] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
+[19:22:31] [main/INFO]: Launching CrashAssistantApp
+[19:22:32] [main/INFO]: Searching for graphics cards...
+[19:22:32] [main/INFO]: Found graphics adapter: AdapterInfo{vendor=NVIDIA, description='NVIDIA GeForce GTX 1060 6GB', adapterType=0x0000030B, openglIcdFilePath='C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_d2629211e16b69ec\nvoglv64.dll', openglIcdVersion=32.0.15.7260}
+[19:22:32] [main/WARN]: Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS_BROKEN]
+[19:22:32] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[19:22:32] [main/INFO]: Scanning jar files for annotations...
+[19:22:32] [main/INFO]: Found 2 annotated classes in mod 'actuallyharvest'
+[19:22:32] [main/INFO]: Found 23 annotated classes in mod 'spectrelib'
+[19:22:32] [main/INFO]: Found 3 annotated classes in mod 'additionallanterns'
+[19:22:32] [main/INFO]: Found 1 annotated classes in mod 'adorabuild_structures'
+[19:22:32] [main/INFO]: Found 25 annotated classes in mod 'advancednetherite'
+[19:22:32] [main/INFO]: Found 2 annotated classes in mod 'almanac'
+[19:22:32] [main/INFO]: Found 19 annotated classes in mod 'ambientsounds'
+[19:22:32] [main/INFO]: Found 7 annotated classes in mod 'animal_feeding_trough'
+[19:22:32] [main/INFO]: Found 13 annotated classes in mod 'appleskin'
+[19:22:32] [main/INFO]: Found 218 annotated classes in mod 'architectury'
+[19:22:32] [main/INFO]: Found 10 annotated classes in mod 'areas'
+[19:22:32] [main/INFO]: Found 8 annotated classes in mod 'armored-elytra'
+[19:22:32] [main/INFO]: Found 6 annotated classes in mod 'armorstatues'
+[19:22:32] [main/INFO]: Found 23 annotated classes in mod 'statuemenus'
+[19:22:32] [main/INFO]: Found 6 annotated classes in mod 'armortrimitemfix'
+[19:22:32] [main/INFO]: Found 11 annotated classes in mod 'audio_engine_tweaks'
+[19:22:32] [main/INFO]: Found 105 annotated classes in mod 'axolotlbuckets'
+[19:22:32] [main/INFO]: Found 45 annotated classes in mod 'badoptimizations'
+[19:22:32] [main/INFO]: Found 30 annotated classes in mod 'badpackets'
+[19:22:32] [main/INFO]: Found 88 annotated classes in mod 'balm'
+[19:22:32] [main/INFO]: Found 8 annotated classes in mod 'kuma_api'
+[19:22:33] [main/INFO]: Found 3 annotated classes in mod 'bedrodium'
+[19:22:33] [main/INFO]: Found 2 annotated classes in mod 'betteradvancements'
+[19:22:33] [main/INFO]: Found 12 annotated classes in mod 'betteranimationscollection'
+[19:22:33] [main/INFO]: Found 8 annotated classes in mod 'betterbeaconplacement'
+[19:22:33] [main/INFO]: Found 2 annotated classes in mod 'betterbeds'
+[19:22:33] [main/INFO]: Found 6 annotated classes in mod 'bettergrass'
+[19:22:33] [main/INFO]: Found 18 annotated classes in mod 'blue_endless_jankson'
+[19:22:33] [main/INFO]: Found 5 annotated classes in mod 'betterhurtcam'
+[19:22:33] [main/INFO]: Found 1 annotated classes in mod 'bettermounthud'
+[19:22:33] [main/INFO]: Found 1 annotated classes in mod 'bettersafebed'
+[19:22:33] [main/INFO]: Found 78 annotated classes in mod 'betterstats'
+[19:22:33] [main/INFO]: Found 2 annotated classes in mod 'betterthanmending'
+[19:22:33] [main/INFO]: Found 5 annotated classes in mod 'bettervillage'
+[19:22:33] [main/INFO]: Found 2 annotated classes in mod 'bigendcitiesmod'
+[19:22:33] [main/INFO]: Found 5 annotated classes in mod 'biggerspongeabsorptionradius'
+[19:22:33] [main/INFO]: Found 39 annotated classes in mod 'biolith'
+[19:22:33] [main/INFO]: Found 18 annotated classes in mod 'blue_endless_jankson'
+[19:22:33] [main/INFO]: Found 2 annotated classes in mod 'boatiview'
+[19:22:33] [main/INFO]: Found 24 annotated classes in mod 'bobby'
+[19:22:33] [main/INFO]: Found 1 annotated classes in mod 'org_spongepowered_configurate-hocon'
+[19:22:33] [main/INFO]: Found 114 annotated classes in mod 'org_spongepowered_configurate-core'
+[19:22:33] [main/INFO]: Found 3 annotated classes in mod 'com_typesafe_config'
+[19:22:33] [main/INFO]: Found 6 annotated classes in mod 'boggedspawn'
+[19:22:33] [main/INFO]: Found 8 annotated classes in mod 'bottleyourxp'
+[19:22:33] [main/INFO]: Found 1 annotated classes in mod 'bowinfinityfix'
+[19:22:33] [main/INFO]: Found 6 annotated classes in mod 'breezespawn'
+[19:22:33] [main/INFO]: Found 4 annotated classes in mod 'brokenleadwarner'
+[19:22:33] [main/INFO]: Found 5 annotated classes in mod 'c2me-client-uncapvd'
+[19:22:33] [main/INFO]: Found 4 annotated classes in mod 'c2me-opts-worldgen-vanilla'
+[19:22:33] [main/INFO]: Found 36 annotated classes in mod 'c2me-fixes-worldgen-threading-issues'
+[19:22:33] [main/INFO]: Found 8 annotated classes in mod 'c2me-rewrites-chunkio'
+[19:22:33] [main/INFO]: Found 7 annotated classes in mod 'c2me-rewrites-chunk-serializer'
+[19:22:33] [main/INFO]: Found 24 annotated classes in mod 'c2me-rewrites-chunk-system'
+[19:22:33] [main/INFO]: Found 3 annotated classes in mod 'c2me-threading-lighting'
+[19:22:33] [main/INFO]: Found 15 annotated classes in mod 'c2me-opts-dfc'
+[19:22:33] [main/INFO]: Found 14 annotated classes in mod 'c2me-opts-allocs'
+[19:22:33] [main/INFO]: Found 15 annotated classes in mod 'c2me-notickvd'
+[19:22:33] [main/INFO]: Found 2 annotated classes in mod 'c2me-opts-chunkio'
+[19:22:33] [main/INFO]: Found 61 annotated classes in mod 'c2me-base'
+[19:22:33] [main/INFO]: Found 3 annotated classes in mod 'c2me-opts-worldgen-general'
+[19:22:33] [main/INFO]: Found 1 annotated classes in mod 'c2me-fixes-worldgen-vanilla-bugs'
+[19:22:33] [main/INFO]: Found 269 annotated classes in mod 'io_reactivex_rxjava3_rxjava'
+[19:22:33] [main/INFO]: Found 3 annotated classes in mod 'c2me-fixes-general-threading-issues'
+[19:22:33] [main/INFO]: Found 10 annotated classes in mod 'org_jctools_jctools-core'
+[19:22:33] [main/INFO]: Found 3 annotated classes in mod 'c2me-opts-math'
+[19:22:33] [main/INFO]: Found 15 annotated classes in mod 'c2me-opts-scheduling'
+[19:22:33] [main/INFO]: Found 1 annotated classes in mod 'c2me-server-utils'
+[19:22:33] [main/INFO]: Found 1 annotated classes in mod 'com_ibm_async_asyncutil'
+[19:22:33] [main/INFO]: Found 1 annotated classes in mod 'c2me-fixes-chunkio-threading-issues'
+[19:22:33] [main/INFO]: Found 61 annotated classes in mod 'c2me-base'
+[19:22:33] [main/INFO]: Found 5 annotated classes in mod 'c2me-client-uncapvd'
+[19:22:33] [main/INFO]: Found 1 annotated classes in mod 'c2me-fixes-chunkio-threading-issues'
+[19:22:33] [main/INFO]: Found 3 annotated classes in mod 'c2me-fixes-general-threading-issues'
+[19:22:33] [main/INFO]: Found 36 annotated classes in mod 'c2me-fixes-worldgen-threading-issues'
+[19:22:33] [main/INFO]: Found 1 annotated classes in mod 'c2me-fixes-worldgen-vanilla-bugs'
+[19:22:33] [main/INFO]: Found 15 annotated classes in mod 'c2me-notickvd'
+[19:22:33] [main/INFO]: Found 14 annotated classes in mod 'c2me-opts-allocs'
+[19:22:33] [main/INFO]: Found 2 annotated classes in mod 'c2me-opts-chunkio'
+[19:22:33] [main/INFO]: Found 15 annotated classes in mod 'c2me-opts-dfc'
+[19:22:33] [main/INFO]: Found 3 annotated classes in mod 'c2me-opts-math'
+[19:22:33] [main/INFO]: Found 15 annotated classes in mod 'c2me-opts-scheduling'
+[19:22:33] [main/INFO]: Found 3 annotated classes in mod 'c2me-opts-worldgen-general'
+[19:22:33] [main/INFO]: Found 4 annotated classes in mod 'c2me-opts-worldgen-vanilla'
+[19:22:33] [main/INFO]: Found 7 annotated classes in mod 'c2me-rewrites-chunk-serializer'
+[19:22:33] [main/INFO]: Found 24 annotated classes in mod 'c2me-rewrites-chunk-system'
+[19:22:33] [main/INFO]: Found 8 annotated classes in mod 'c2me-rewrites-chunkio'
+[19:22:33] [main/INFO]: Found 1 annotated classes in mod 'c2me-server-utils'
+[19:22:33] [main/INFO]: Found 3 annotated classes in mod 'c2me-threading-lighting'
+[19:22:33] [main/INFO]: Found 37 annotated classes in mod 'cardinal-components-base'
+[19:22:33] [main/INFO]: Found 18 annotated classes in mod 'cardinal-components-entity'
+[19:22:33] [main/INFO]: Found 10 annotated classes in mod 'cardinal-components-world'
+[19:22:33] [main/INFO]: Found 27 annotated classes in mod 'carryon'
+[19:22:33] [main/INFO]: Found 6 annotated classes in mod 'cavespiderspawn'
+[19:22:33] [main/INFO]: Found 21 annotated classes in mod 'chat_heads'
+[19:22:33] [main/INFO]: Found 3 annotated classes in mod 'chatanimation'
+[19:22:33] [main/INFO]: Found 54 annotated classes in mod 'chatnotify'
+[19:22:33] [main/INFO]: Found 8 annotated classes in mod 'chatsounds'
+[19:22:33] [main/INFO]: Found 5 annotated classes in mod 'chunky'
+[19:22:33] [main/INFO]: Found 16 annotated classes in mod 'cicada'
+[19:22:33] [main/INFO]: Found 3 annotated classes in mod 'terraform-biome-remapper-api-v1'
+[19:22:33] [main/INFO]: Found 2 annotated classes in mod 'terraform-shapes-api-v1'
+[19:22:33] [main/INFO]: Found 1 annotated classes in mod 'terraform-surfaces-api-v1'
+[19:22:33] [main/INFO]: Found 16 annotated classes in mod 'terraform-wood-api-v1'
+[19:22:33] [main/INFO]: Found 16 annotated classes in mod 'cinderscapes-common'
+[19:22:33] [main/INFO]: Found 8 annotated classes in mod 'mixson'
+[19:22:33] [main/INFO]: Found 39 annotated classes in mod 'biolith'
+[19:22:33] [main/INFO]: Found 4 annotated classes in mod 'cinderscapes-client'
+[19:22:33] [main/INFO]: Found 4 annotated classes in mod 'cinderscapes-client'
+[19:22:33] [main/INFO]: Found 16 annotated classes in mod 'cinderscapes-common'
+[19:22:33] [main/INFO]: Found 4 annotated classes in mod 'clean-debug'
+[19:22:33] [main/INFO]: Found 10 annotated classes in mod 'clickthrough'
+[19:22:34] [main/INFO]: Found 223 annotated classes in mod 'cloth-config'
+[19:22:34] [main/INFO]: Found 2 annotated classes in mod 'clumps'
+[19:22:34] [main/INFO]: Found 21 annotated classes in mod 'cobweb'
+[19:22:34] [main/INFO]: Found 1 annotated classes in mod 'codec-config-api'
+[19:22:34] [main/INFO]: Found 201 annotated classes in mod 'collective'
+[19:22:34] [main/INFO]: Found 103 annotated classes in mod 'com_akuleshov7_ktoml-core-jvm'
+[19:22:34] [main/INFO]: Found 48 annotated classes in mod 'com_electronwill_night-config_core'
+[19:22:34] [main/INFO]: Found 4 annotated classes in mod 'com_github_alexdlaird_java-ngrok'
+[19:22:34] [main/INFO]: Found 1 annotated classes in mod 'com_ibm_async_asyncutil'
+[19:22:34] [main/INFO]: Found 3 annotated classes in mod 'com_typesafe_config'
+[19:22:34] [main/INFO]: Found 1 annotated classes in mod 'com_velocitypowered_velocity-native'
+[19:22:34] [main/INFO]: Found 3 annotated classes in mod 'common-protection-api'
+[19:22:34] [main/INFO]: Found 7 annotated classes in mod 'conditional-mixin'
+[19:22:34] [main/INFO]: Found 8 annotated classes in mod 'conduitspreventdrowned'
+[19:22:34] [main/INFO]: Found 4 annotated classes in mod 'config2brigadier'
+[19:22:34] [main/INFO]: Found 66 annotated classes in mod 'continuity'
+[19:22:34] [main/INFO]: Found 231 annotated classes in mod 'controlify'
+[19:22:34] [main/INFO]: Found 4 annotated classes in mod 'coroutil'
+[19:22:34] [main/INFO]: Found 21 annotated classes in mod 'crash_assistant'
+[19:22:34] [main/INFO]: Found 133 annotated classes in mod 'creativecore'
+[19:22:34] [main/INFO]: Found 9 annotated classes in mod 'net_neoforged_bus'
+[19:22:34] [main/INFO]: Found 20 annotated classes in mod 'cristellib'
+[19:22:34] [main/INFO]: Found 9 annotated classes in mod 'cropsloverain'
+[19:22:34] [main/INFO]: Found 14 annotated classes in mod 'midnightlib'
+[19:22:34] [main/INFO]: Found 8 annotated classes in mod 'cryingghasts'
+[19:22:34] [main/INFO]: Found 25 annotated classes in mod 'cubes-without-borders'
+[19:22:34] [main/INFO]: Found 6 annotated classes in mod 'cullleaves'
+[19:22:34] [main/INFO]: Found 11 annotated classes in mod 'currentgamemusictrack'
+[19:22:34] [main/INFO]: Found 22 annotated classes in mod 'customizableelytra'
+[19:22:34] [main/INFO]: Found 20 annotated classes in mod 'customlan'
+[19:22:34] [main/INFO]: Found 19 annotated classes in mod 'org_apache_commons_commons-text'
+[19:22:34] [main/INFO]: Found 1 annotated classes in mod 'org_yaml_snakeyaml'
+[19:22:34] [main/INFO]: Found 4 annotated classes in mod 'com_github_alexdlaird_java-ngrok'
+[19:22:34] [main/INFO]: Found 22 annotated classes in mod 'customskinloader'
+[19:22:34] [main/INFO]: Found 2 annotated classes in mod 'customwindowtitle'
+[19:22:34] [main/INFO]: Found 2 annotated classes in mod 'customwindowtitle'
+[19:22:34] [main/INFO]: Found 2 annotated classes in mod 'cutthrough'
+[19:22:34] [main/INFO]: Found 10 annotated classes in mod 'cyclepaintings'
+[19:22:34] [main/INFO]: Found 7 annotated classes in mod 'day_dream'
+[19:22:34] [main/INFO]: Found 80 annotated classes in mod 'debugify'
+[19:22:34] [main/INFO]: Found 8 annotated classes in mod 'despawningeggshatch'
+[19:22:34] [main/INFO]: Found 5 annotated classes in mod 'detailab'
+[19:22:34] [main/INFO]: Found 14 annotated classes in mod 'dh-api'
+[19:22:34] [main/INFO]: Found 13 annotated classes in mod 'diagonalblocks'
+[19:22:34] [main/INFO]: Found 13 annotated classes in mod 'diagonalblocks'
+[19:22:34] [main/INFO]: Found 2 annotated classes in mod 'ding'
+[19:22:34] [main/INFO]: Found 1 annotated classes in mod 'disableaccessibilityscreen'
+[19:22:34] [main/INFO]: Found 1 annotated classes in mod 'disableinsecurechattoast'
+[19:22:34] [main/INFO]: Found 239 annotated classes in mod 'distanthorizons'
+[19:22:34] [main/INFO]: Found 8 annotated classes in mod 'distinguishedpotions'
+[19:22:34] [main/INFO]: Found 25 annotated classes in mod 'do_a_barrel_roll'
+[19:22:34] [main/INFO]: Found 6 annotated classes in mod 'dogslie'
+[19:22:34] [main/INFO]: Found 1 annotated classes in mod 'doors-closed'
+[19:22:34] [main/INFO]: Found 17 annotated classes in mod 'doubledoors'
+[19:22:34] [main/INFO]: Found 36 annotated classes in mod 'draggable_lists'
+[19:22:34] [main/INFO]: Found 25 annotated classes in mod 'drippyloadingscreen'
+[19:22:34] [main/INFO]: Found 3 annotated classes in mod 'dyed'
+[19:22:34] [main/INFO]: Found 24 annotated classes in mod 'dynamic_fps'
+[19:22:34] [main/INFO]: Found 10 annotated classes in mod 'net_lostluma_battery'
+[19:22:34] [main/INFO]: Found 93 annotated classes in mod 'dynamiccrosshair'
+[19:22:34] [main/INFO]: Found 40 annotated classes in mod 'libbamboo'
+[19:22:34] [main/INFO]: Found 1 annotated classes in mod 'dynamiccrosshair-api'
+[19:22:34] [main/INFO]: Found 1 annotated classes in mod 'dynamiccrosshair-api'
+[19:22:34] [main/INFO]: Found 17 annotated classes in mod 'dynamiccrosshaircompat'
+[19:22:34] [main/INFO]: Found 45 annotated classes in mod 'e4mc_minecraft'
+[19:22:34] [main/INFO]: Found 47 annotated classes in mod 'folk_sisby_kaleido-config'
+[19:22:34] [main/INFO]: Found 20 annotated classes in mod 'easyanvils'
+[19:22:34] [main/INFO]: Found 4 annotated classes in mod 'easyelytratakeoff'
+[19:22:34] [main/INFO]: Found 12 annotated classes in mod 'easymagic'
+[19:22:34] [main/INFO]: Found 1 annotated classes in mod 'easyshulkerboxes'
+[19:22:34] [main/INFO]: Found 38 annotated classes in mod 'iteminteractions'
+[19:22:34] [main/INFO]: Found 8 annotated classes in mod 'edibles'
+[19:22:34] [main/INFO]: Found 2 annotated classes in mod 'elytra_physics'
+[19:22:34] [main/INFO]: Found 66 annotated classes in mod 'emotecraft'
+[19:22:34] [main/INFO]: Found 85 annotated classes in mod 'playeranimator'
+[19:22:34] [main/INFO]: Found 15 annotated classes in mod 'enchantinginfuser'
+[19:22:34] [main/INFO]: Found 3 annotated classes in mod 'enchantment_lore'
+[19:22:34] [main/INFO]: Found 18 annotated classes in mod 'server_translations_api'
+[19:22:34] [main/INFO]: Found 19 annotated classes in mod 'packet_tweaker'
+[19:22:34] [main/INFO]: Found 15 annotated classes in mod 'enchantmentlevelcapindicator'
+[19:22:34] [main/INFO]: Found 16 annotated classes in mod 'enchlevel-langpatch'
+[19:22:34] [main/INFO]: Found 30 annotated classes in mod 'enhancedblockentities'
+[19:22:34] [main/INFO]: Found 80 annotated classes in mod 'entity_model_features'
+[19:22:35] [main/INFO]: Found 160 annotated classes in mod 'entity_texture_features'
+[19:22:35] [main/INFO]: Found 9 annotated classes in mod 'org_apache_httpcomponents_httpmime'
+[19:22:35] [main/INFO]: Found 8 annotated classes in mod 'entityculling'
+[19:22:35] [main/INFO]: Found 5 annotated classes in mod 'equipmentcompare'
+[19:22:35] [main/INFO]: Found 1 annotated classes in mod 'euphoria_patcher'
+[19:22:35] [main/INFO]: Found 6 annotated classes in mod 'expanded_armor_enchanting'
+[19:22:35] [main/INFO]: Found 4 annotated classes in mod 'explorations'
+[19:22:35] [main/INFO]: Found 18 annotated classes in mod 'explosiveenhancement'
+[19:22:35] [main/INFO]: Found 1102 annotated classes in mod 'org_jetbrains_kotlin_kotlin-reflect'
+[19:22:35] [main/INFO]: Found 39 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm'
+[19:22:35] [main/INFO]: Found 25 annotated classes in mod 'org_jetbrains_kotlinx_atomicfu-jvm'
+[19:22:35] [main/INFO]: Found 68 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-io-core-jvm'
+[19:22:35] [main/INFO]: Found 136 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-serialization-json-jvm'
+[19:22:35] [main/INFO]: Found 226 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-serialization-core-jvm'
+[19:22:35] [main/INFO]: Found 1 annotated classes in mod 'org_jetbrains_kotlin_kotlin-stdlib-jdk7'
+[19:22:35] [main/INFO]: Found 831 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm'
+[19:22:35] [main/INFO]: Found 919 annotated classes in mod 'org_jetbrains_kotlin_kotlin-stdlib'
+[19:22:35] [main/INFO]: Found 11 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm'
+[19:22:35] [main/INFO]: Found 442 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-datetime-jvm'
+[19:22:35] [main/INFO]: Found 1 annotated classes in mod 'org_jetbrains_kotlin_kotlin-stdlib-jdk8'
+[19:22:35] [main/INFO]: Found 6 annotated classes in mod 'fabric-permissions-api-v0'
+[19:22:35] [main/INFO]: Found 23 annotated classes in mod 'fabrictailor'
+[19:22:35] [main/INFO]: Found 4 annotated classes in mod 'config2brigadier'
+[19:22:35] [main/INFO]: Found 6 annotated classes in mod 'fabric-permissions-api-v0'
+[19:22:35] [main/INFO]: Found 4 annotated classes in mod 'fabrishot'
+[19:22:35] [main/INFO]: Found 21 annotated classes in mod 'fallingleaves'
+[19:22:35] [main/INFO]: Found 142 annotated classes in mod 'fallingtree'
+[19:22:35] [main/INFO]: Found 3 annotated classes in mod 'fancyhealthbar'
+[19:22:35] [main/INFO]: Found 895 annotated classes in mod 'fancymenu'
+[19:22:35] [main/INFO]: Found 8 annotated classes in mod 'fastconfigapi'
+[19:22:35] [main/INFO]: Found 3 annotated classes in mod 'fastipping'
+[19:22:35] [main/INFO]: Found 4 annotated classes in mod 'fastitems'
+[19:22:35] [main/INFO]: Found 19 annotated classes in mod 'fastquit'
+[19:22:35] [main/INFO]: Found 6 annotated classes in mod 'fasttrading'
+[19:22:35] [main/INFO]: Found 28 annotated classes in mod 'ferritecore'
+[19:22:35] [main/INFO]: Found 8 annotated classes in mod 'firstjoinmessage'
+[19:22:35] [main/INFO]: Found 21 annotated classes in mod 'firstperson'
+[19:22:35] [main/INFO]: Found 8 annotated classes in mod 'fishontheline'
+[19:22:35] [main/INFO]: Found 5 annotated classes in mod 'fluidvoidfading'
+[19:22:35] [main/INFO]: Found 47 annotated classes in mod 'folk_sisby_kaleido-config'
+[19:22:35] [main/INFO]: Found 8 annotated classes in mod 'followersteleporttoo'
+[19:22:35] [main/INFO]: Found 50 annotated classes in mod 'forgeconfigapiport'
+[19:22:35] [main/INFO]: Found 48 annotated classes in mod 'com_electronwill_night-config_core'
+[19:22:35] [main/INFO]: Found 7 annotated classes in mod 'forgivingvoid'
+[19:22:35] [main/INFO]: Found 557 annotated classes in mod 'frozenlib'
+[19:22:35] [main/INFO]: Found 2 annotated classes in mod 'furnacerecycle'
+[19:22:35] [main/INFO]: Found 647 annotated classes in mod 'fzzy_config'
+[19:22:35] [main/INFO]: Found 139 annotated classes in mod 'net_peanuuutz_tomlkt_tomlkt-jvm'
+[19:22:35] [main/INFO]: Found 4 annotated classes in mod 'getittogetherdrops'
+[19:22:35] [main/INFO]: Found 1 annotated classes in mod 'glassbreaker'
+[19:22:35] [main/INFO]: Found 15 annotated classes in mod 'glitchcore'
+[19:22:35] [main/INFO]: Found 4 annotated classes in mod 'grassseeds'
+[19:22:35] [main/INFO]: Found 20 annotated classes in mod 'grindenchantments'
+[19:22:35] [main/INFO]: Found 1 annotated classes in mod 'codec-config-api'
+[19:22:35] [main/INFO]: Found 12 annotated classes in mod 'hardcorerevival'
+[19:22:35] [main/INFO]: Found 6 annotated classes in mod 'head_in_the_clouds'
+[19:22:35] [main/INFO]: Found 8 annotated classes in mod 'healingcampfire'
+[19:22:35] [main/INFO]: Found 4 annotated classes in mod 'highlighter'
+[19:22:35] [main/INFO]: Found 18 annotated classes in mod 'horsebuff'
+[19:22:35] [main/INFO]: Found 5 annotated classes in mod 'horseexpert'
+[19:22:35] [main/INFO]: Found 6 annotated classes in mod 'huskspawn'
+[19:22:35] [main/INFO]: Found 35 annotated classes in mod 'iceberg'
+[19:22:35] [main/INFO]: Found 94 annotated classes in mod 'ichunutil'
+[19:22:35] [main/INFO]: Found 39 annotated classes in mod 'immediatelyfast'
+[19:22:35] [main/INFO]: Found 20 annotated classes in mod 'net_lenni0451_reflect'
+[19:22:35] [main/INFO]: Found 12 annotated classes in mod 'immersiveui'
+[19:22:35] [main/INFO]: Found 8 annotated classes in mod 'infinitetrading'
+[19:22:35] [main/INFO]: Found 12 annotated classes in mod 'inventorysorter'
+[19:22:35] [main/INFO]: Found 29 annotated classes in mod 'kyrptconfig'
+[19:22:35] [main/INFO]: Found 4 annotated classes in mod 'inventorytotem'
+[19:22:35] [main/INFO]: Found 8 annotated classes in mod 'io_github_douira_glsl-transformer'
+[19:22:35] [main/INFO]: Found 63 annotated classes in mod 'io_netty_netty-codec-http'
+[19:22:35] [main/INFO]: Found 269 annotated classes in mod 'io_reactivex_rxjava3_rxjava'
+[19:22:35] [main/INFO]: Found 22 annotated classes in mod 'io_wispforest_endec'
+[19:22:35] [main/INFO]: Found 2 annotated classes in mod 'io_wispforest_endec_gson'
+[19:22:35] [main/INFO]: Found 2 annotated classes in mod 'io_wispforest_endec_jankson'
+[19:22:35] [main/INFO]: Found 1 annotated classes in mod 'io_wispforest_endec_netty'
+[19:22:35] [main/INFO]: Found 243 annotated classes in mod 'iris'
+[19:22:35] [main/INFO]: Found 8 annotated classes in mod 'io_github_douira_glsl-transformer'
+[19:22:35] [main/INFO]: Found 21 annotated classes in mod 'org_anarres_jcpp'
+[19:22:35] [main/INFO]: Found 17 annotated classes in mod 'org_antlr_antlr4-runtime'
+[19:22:35] [main/INFO]: Found 4 annotated classes in mod 'isxander-main-menu-credits'
+[19:22:35] [main/INFO]: Found 2 annotated classes in mod 'itemborders'
+[19:22:35] [main/INFO]: Found 38 annotated classes in mod 'iteminteractions'
+[19:22:35] [main/INFO]: Found 5 annotated classes in mod 'itemphysiclite'
+[19:22:35] [main/INFO]: Found 141 annotated classes in mod 'jade'
+[19:22:35] [main/INFO]: Found 3 annotated classes in mod 'jrftl'
+[19:22:35] [main/INFO]: Found 4 annotated classes in mod 'keepmysoiltilled'
+[19:22:35] [main/INFO]: Found 30 annotated classes in mod 'kirin'
+[19:22:36] [main/INFO]: Found 69 annotated classes in mod 'konkrete'
+[19:22:36] [main/INFO]: Found 8 annotated classes in mod 'kuma_api'
+[19:22:36] [main/INFO]: Found 29 annotated classes in mod 'kyrptconfig'
+[19:22:36] [main/INFO]: Found 21 annotated classes in mod 'labellingcontainers'
+[19:22:36] [main/INFO]: Found 140 annotated classes in mod 'lambdynlights'
+[19:22:36] [main/INFO]: Found 4 annotated classes in mod 'pride'
+[19:22:36] [main/INFO]: Found 27 annotated classes in mod 'lambdynlights_api'
+[19:22:36] [main/INFO]: Found 41 annotated classes in mod 'spruceui'
+[19:22:36] [main/INFO]: Found 27 annotated classes in mod 'lambdynlights_api'
+[19:22:36] [main/INFO]: Found 29 annotated classes in mod 'languagereload'
+[19:22:36] [main/INFO]: Found 4 annotated classes in mod 'leavesbegone'
+[19:22:36] [main/INFO]: Found 4 annotated classes in mod 'legendarytooltips'
+[19:22:36] [main/INFO]: Found 1 annotated classes in mod 'letmedespawn'
+[19:22:36] [main/INFO]: Found 40 annotated classes in mod 'libbamboo'
+[19:22:36] [main/INFO]: Found 74 annotated classes in mod 'libgui'
+[19:22:36] [main/INFO]: Found 4 annotated classes in mod 'libninepatch'
+[19:22:36] [main/INFO]: Found 4 annotated classes in mod 'libninepatch'
+[19:22:36] [main/INFO]: Found 3 annotated classes in mod 'libraryferret'
+[19:22:36] [main/INFO]: Found 418 annotated classes in mod 'lithium'
+[19:22:36] [main/INFO]: Found 41 annotated classes in mod 'lithostitched'
+[19:22:36] [main/INFO]: Found 11 annotated classes in mod 'livingthings'
+[19:22:36] [main/INFO]: Found 3 annotated classes in mod 'lolmblv'
+[19:22:36] [main/INFO]: Found 2 annotated classes in mod 'lolmcgt'
+[19:22:36] [main/INFO]: Found 1 annotated classes in mod 'lolmcmv'
+[19:22:36] [main/INFO]: Found 3 annotated classes in mod 'lolmcmv-aft'
+[19:22:36] [main/INFO]: Found 1 annotated classes in mod 'lolmct'
+[19:22:36] [main/INFO]: Found 6 annotated classes in mod 'lolmcv'
+[19:22:36] [main/INFO]: Found 1 annotated classes in mod 'lolmft'
+[19:22:36] [main/INFO]: Found 2 annotated classes in mod 'lolmgv'
+[19:22:36] [main/INFO]: Found 2 annotated classes in mod 'lolmlmv'
+[19:22:36] [main/INFO]: Found 6 annotated classes in mod 'lolmlv'
+[19:22:36] [main/INFO]: Found 2 annotated classes in mod 'lolmst'
+[19:22:36] [main/INFO]: Found 9 annotated classes in mod 'lolmsv'
+[19:22:36] [main/INFO]: Found 65 annotated classes in mod 'lootr'
+[19:22:36] [main/INFO]: Found 3 annotated classes in mod 'magnumtorch'
+[19:22:36] [main/INFO]: Found 12 annotated classes in mod 'make_bubbles_pop'
+[19:22:36] [main/INFO]: Found 6 annotated classes in mod 'marlows-crystal-optimizer'
+[19:22:36] [main/INFO]: Found 5 annotated classes in mod 'mavapi'
+[19:22:36] [main/INFO]: Found 2 annotated classes in mod 'mavm'
+[19:22:36] [main/INFO]: Found 11 annotated classes in mod 'melody'
+[19:22:36] [main/INFO]: Found 22 annotated classes in mod 'mes'
+[19:22:36] [main/INFO]: Found 14 annotated classes in mod 'midnightlib'
+[19:22:36] [main/INFO]: Found 4 annotated classes in mod 'milkallthemobs'
+[19:22:36] [main/INFO]: Found 10 annotated classes in mod 'mine-spawners'
+[19:22:36] [main/INFO]: Found 3 annotated classes in mod 'mixinsquared'
+[19:22:36] [main/INFO]: Found 2 annotated classes in mod 'mixintrace'
+[19:22:36] [main/INFO]: Found 8 annotated classes in mod 'mixson'
+[19:22:36] [main/INFO]: Found 22 annotated classes in mod 'mns'
+[19:22:36] [main/INFO]: Found 9 annotated classes in mod 'modelfix'
+[19:22:36] [main/INFO]: Found 105 annotated classes in mod 'modernfix'
+[19:22:36] [main/INFO]: Found 24 annotated classes in mod 'modmenu'
+[19:22:36] [main/INFO]: Found 8 annotated classes in mod 'mooshroomtweaks'
+[19:22:36] [main/INFO]: Found 1 annotated classes in mod 'morechathistory'
+[19:22:36] [main/INFO]: Found 80 annotated classes in mod 'moreculling'
+[19:22:36] [main/INFO]: Found 7 annotated classes in mod 'conditional-mixin'
+[19:22:36] [main/INFO]: Found 3 annotated classes in mod 'mixinsquared'
+[19:22:36] [main/INFO]: Found 1 annotated classes in mod 'morediscs'
+[19:22:36] [main/INFO]: Found 6 annotated classes in mod 'moremobs'
+[19:22:36] [main/INFO]: Found 6 annotated classes in mod 'morezombievillagers'
+[19:22:36] [main/INFO]: Found 6 annotated classes in mod 'mostructures'
+[19:22:36] [main/INFO]: Found 4 annotated classes in mod 'omegaconfig'
+[19:22:36] [main/INFO]: Found 4 annotated classes in mod 'mousetweaks'
+[19:22:36] [main/INFO]: Found 1 annotated classes in mod 'mru'
+[19:22:36] [main/INFO]: Found 1 annotated classes in mod 'mstv-base'
+[19:22:36] [main/INFO]: Found 6 annotated classes in mod 'mstv-masv'
+[19:22:36] [main/INFO]: Found 4 annotated classes in mod 'mstv-mfrv'
+[19:22:36] [main/INFO]: Found 2 annotated classes in mod 'mstv-mtoolv'
+[19:22:36] [main/INFO]: Found 7 annotated classes in mod 'music_sync'
+[19:22:36] [main/INFO]: Found 21 annotated classes in mod 'mvs'
+[19:22:36] [main/INFO]: Found 10 annotated classes in mod 'namepain'
+[19:22:36] [main/INFO]: Found 8 annotated classes in mod 'nametagtweaks'
+[19:22:36] [main/INFO]: Found 20 annotated classes in mod 'net_lenni0451_reflect'
+[19:22:36] [main/INFO]: Found 10 annotated classes in mod 'net_lostluma_battery'
+[19:22:36] [main/INFO]: Found 9 annotated classes in mod 'net_neoforged_bus'
+[19:22:36] [main/INFO]: Found 139 annotated classes in mod 'net_peanuuutz_tomlkt_tomlkt-jvm'
+[19:22:36] [main/INFO]: Found 4 annotated classes in mod 'nethermap'
+[19:22:36] [main/INFO]: Found 8 annotated classes in mod 'netherportalspread'
+[19:22:36] [main/INFO]: Found 5 annotated classes in mod 'noanimaltemptdelay'
+[19:22:36] [main/INFO]: Found 50 annotated classes in mod 'nochatreports'
+[19:22:36] [main/INFO]: Found 5 annotated classes in mod 'nofeathertrample'
+[19:22:36] [main/INFO]: Found 8 annotated classes in mod 'nohostilesaroundcampfire'
+[19:22:36] [main/INFO]: Found 6 annotated classes in mod 'noisium'
+[19:22:36] [main/INFO]: Found 3 annotated classes in mod 'norefreshscroll'
+[19:22:36] [main/INFO]: Found 13 annotated classes in mod 'notenoughanimations'
+[19:22:36] [main/INFO]: Found 8 annotated classes in mod 'nutritiousmilk'
+[19:22:36] [main/INFO]: Found 17 annotated classes in mod 'octolib'
+[19:22:36] [main/INFO]: Found 4 annotated classes in mod 'omegaconfig'
+[19:22:36] [main/INFO]: Found 8 annotated classes in mod 'online_emotes'
+[19:22:36] [main/INFO]: Found 63 annotated classes in mod 'io_netty_netty-codec-http'
+[19:22:36] [main/INFO]: Found 1 annotated classes in mod 'com_velocitypowered_velocity-native'
+[19:22:36] [main/INFO]: Found 2 annotated classes in mod 'onlyhammers'
+[19:22:36] [main/INFO]: Found 145 annotated classes in mod 'optigui'
+[19:22:36] [main/INFO]: Found 13 annotated classes in mod 'oreharvester'
+[19:22:36] [main/INFO]: Found 21 annotated classes in mod 'org_anarres_jcpp'
+[19:22:36] [main/INFO]: Found 17 annotated classes in mod 'org_antlr_antlr4-runtime'
+[19:22:36] [main/INFO]: Found 19 annotated classes in mod 'org_apache_commons_commons-text'
+[19:22:36] [main/INFO]: Found 9 annotated classes in mod 'org_apache_httpcomponents_httpmime'
+[19:22:36] [main/INFO]: Found 10 annotated classes in mod 'org_jctools_jctools-core'
+[19:22:36] [main/INFO]: Found 1102 annotated classes in mod 'org_jetbrains_kotlin_kotlin-reflect'
+[19:22:36] [main/INFO]: Found 919 annotated classes in mod 'org_jetbrains_kotlin_kotlin-stdlib'
+[19:22:36] [main/INFO]: Found 1 annotated classes in mod 'org_jetbrains_kotlin_kotlin-stdlib-jdk7'
+[19:22:36] [main/INFO]: Found 1 annotated classes in mod 'org_jetbrains_kotlin_kotlin-stdlib-jdk8'
+[19:22:36] [main/INFO]: Found 25 annotated classes in mod 'org_jetbrains_kotlinx_atomicfu-jvm'
+[19:22:36] [main/INFO]: Found 831 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm'
+[19:22:36] [main/INFO]: Found 442 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-datetime-jvm'
+[19:22:36] [main/INFO]: Found 11 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm'
+[19:22:36] [main/INFO]: Found 68 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-io-core-jvm'
+[19:22:36] [main/INFO]: Found 39 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm'
+[19:22:36] [main/INFO]: Found 226 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-serialization-core-jvm'
+[19:22:36] [main/INFO]: Found 136 annotated classes in mod 'org_jetbrains_kotlinx_kotlinx-serialization-json-jvm'
+[19:22:36] [main/INFO]: Found 114 annotated classes in mod 'org_spongepowered_configurate-core'
+[19:22:36] [main/INFO]: Found 1 annotated classes in mod 'org_spongepowered_configurate-hocon'
+[19:22:36] [main/INFO]: Found 1 annotated classes in mod 'org_yaml_snakeyaml'
+[19:22:36] [main/INFO]: Found 239 annotated classes in mod 'owo'
+[19:22:36] [main/INFO]: Found 2 annotated classes in mod 'io_wispforest_endec_jankson'
+[19:22:36] [main/INFO]: Found 2 annotated classes in mod 'io_wispforest_endec_gson'
+[19:22:36] [main/INFO]: Found 22 annotated classes in mod 'io_wispforest_endec'
+[19:22:36] [main/INFO]: Found 1 annotated classes in mod 'io_wispforest_endec_netty'
+[19:22:36] [main/INFO]: Found 19 annotated classes in mod 'packet_tweaker'
+[19:22:36] [main/INFO]: Found 15 annotated classes in mod 'packetfixer'
+[19:22:36] [main/INFO]: Found 11 annotated classes in mod 'paginatedadvancements'
+[19:22:36] [main/INFO]: Found 18 annotated classes in mod 'particle_core'
+[19:22:36] [main/INFO]: Found 45 annotated classes in mod 'particular'
+[19:22:36] [main/INFO]: Found 60 annotated classes in mod 'peek'
+[19:22:36] [main/INFO]: Found 8 annotated classes in mod 'petnames'
+[19:22:36] [main/INFO]: Found 3 annotated classes in mod 'philipsruins'
+[19:22:36] [main/INFO]: Found 6 annotated classes in mod 'pickupnotifier'
+[19:22:36] [main/INFO]: Found 8 annotated classes in mod 'piglinnames'
+[19:22:36] [main/INFO]: Found 4 annotated classes in mod 'ping-wheel'
+[19:22:36] [main/INFO]: Found 7 annotated classes in mod 'placeableblazerods'
+[19:22:37] [main/INFO]: Found 36 annotated classes in mod 'placeholder-api'
+[19:22:37] [main/INFO]: Found 4 annotated classes in mod 'player-data-api'
+[19:22:37] [main/INFO]: Found 85 annotated classes in mod 'playeranimator'
+[19:22:37] [main/INFO]: Found 23 annotated classes in mod 'polymer-common'
+[19:22:37] [main/INFO]: Found 196 annotated classes in mod 'polymer-core'
+[19:22:37] [main/INFO]: Found 41 annotated classes in mod 'polymer-networking'
+[19:22:37] [main/INFO]: Found 9 annotated classes in mod 'polymer-registry-sync-manipulator'
+[19:22:37] [main/INFO]: Found 41 annotated classes in mod 'polymer-networking'
+[19:22:37] [main/INFO]: Found 9 annotated classes in mod 'polymer-registry-sync-manipulator'
+[19:22:37] [main/INFO]: Found 15 annotated classes in mod 'polymer-resource-pack'
+[19:22:37] [main/INFO]: Found 23 annotated classes in mod 'polymer-common'
+[19:22:37] [main/INFO]: Found 47 annotated classes in mod 'polymer-virtual-entity'
+[19:22:37] [main/INFO]: Found 109 annotated classes in mod 'polytone'
+[19:22:37] [main/INFO]: Found 5 annotated classes in mod 'predicate-api'
+[19:22:37] [main/INFO]: Found 23 annotated classes in mod 'presencefootsteps'
+[19:22:37] [main/INFO]: Found 30 annotated classes in mod 'kirin'
+[19:22:37] [main/INFO]: Found 4 annotated classes in mod 'pride'
+[19:22:37] [main/INFO]: Found 4 annotated classes in mod 'prism'
+[19:22:37] [main/INFO]: Found 40 annotated classes in mod 'promenade'
+[19:22:37] [main/INFO]: Found 5 annotated classes in mod 'puzzle'
+[19:22:37] [main/INFO]: Found 495 annotated classes in mod 'puzzleslib'
+[19:22:37] [main/INFO]: Found 20 annotated classes in mod 'quad'
+[19:22:37] [main/INFO]: Found 4 annotated classes in mod 'quad-lolmbdv'
+[19:22:37] [main/INFO]: Found 2 annotated classes in mod 'quad-lolmbhv'
+[19:22:37] [main/INFO]: Found 6 annotated classes in mod 'quad-lolmjnv'
+[19:22:37] [main/INFO]: Found 3 annotated classes in mod 'quad-lolmsmv'
+[19:22:37] [main/INFO]: Found 1 annotated classes in mod 'quad-mstv-mtv'
+[19:22:37] [main/INFO]: Found 4 annotated classes in mod 'randombonemealflowers'
+[19:22:37] [main/INFO]: Found 4 annotated classes in mod 'randomvillagenames'
+[19:22:37] [main/INFO]: Found 7 annotated classes in mod 'real-arrow-tip'
+[19:22:37] [main/INFO]: Found 23 annotated classes in mod 'realisticbees'
+[19:22:37] [main/INFO]: Found 16 annotated classes in mod 'reeses-sodium-options'
+[19:22:37] [main/INFO]: Found 13 annotated classes in mod 'reinfchest'
+[19:22:37] [main/INFO]: Found 9 annotated classes in mod 'reinfcore'
+[19:22:37] [main/INFO]: Found 9 annotated classes in mod 'reinfcore'
+[19:22:37] [main/INFO]: Found 54 annotated classes in mod 'repurposed_structures'
+[19:22:37] [main/INFO]: Found 9 annotated classes in mod 'reputation'
+[19:22:37] [main/INFO]: Found 34 annotated classes in mod 'resourcepackchecker'
+[19:22:37] [main/INFO]: Found 2 annotated classes in mod 'respawnablepets'
+[19:22:37] [main/INFO]: Found 10 annotated classes in mod 'cardinal-components-world'
+[19:22:37] [main/INFO]: Found 8 annotated classes in mod 'respawningshulkers'
+[19:22:37] [main/INFO]: Found 15 annotated classes in mod 'rrls'
+[19:22:37] [main/INFO]: Found 4 annotated classes in mod 'scaffoldingdropsnearby'
+[19:22:37] [main/INFO]: Found 14 annotated classes in mod 'searchables'
+[19:22:37] [main/INFO]: Found 14 annotated classes in mod 'seasonhud'
+[19:22:37] [main/INFO]: Found 12 annotated classes in mod 'sereneseasons'
+[19:22:37] [main/INFO]: Found 18 annotated classes in mod 'server_translations_api'
+[19:22:37] [main/INFO]: Found 19 annotated classes in mod 'packet_tweaker'
+[19:22:37] [main/INFO]: Found 84 annotated classes in mod 'servercore'
+[19:22:37] [main/INFO]: Found 31 annotated classes in mod 'space_arim_dazzleconf_dazzleconf-core'
+[19:22:37] [main/INFO]: Found 4 annotated classes in mod 'space_arim_dazzleconf_dazzleconf-ext-snakeyaml'
+[19:22:37] [main/INFO]: Found 26 annotated classes in mod 'sgui'
+[19:22:37] [main/INFO]: Found 48 annotated classes in mod 'shouldersurfing'
+[19:22:37] [main/INFO]: Found 14 annotated classes in mod 'simple-armor-hud'
+[19:22:37] [main/INFO]: Found 2 annotated classes in mod 'sit'
+[19:22:37] [main/INFO]: Found 8 annotated classes in mod 'skeletonhorsespawn'
+[19:22:37] [main/INFO]: Found 17 annotated classes in mod 'skinlayers3d'
+[19:22:37] [main/INFO]: Found 11 annotated classes in mod 'smoothscroll'
+[19:22:37] [main/INFO]: Found 2 annotated classes in mod 'snowundertrees'
+[19:22:37] [main/INFO]: Found 2 annotated classes in mod 'snowyleavesplus'
+[19:22:37] [main/INFO]: Found 4 annotated classes in mod 'snowysniffer'
+[19:22:37] [main/INFO]: Found 19 annotated classes in mod 'snuffles'
+[19:22:37] [main/INFO]: Found 180 annotated classes in mod 'sodium'
+[19:22:37] [main/INFO]: Found 40 annotated classes in mod 'sodium-extra'
+[19:22:37] [main/INFO]: Found 4 annotated classes in mod 'softerhaybales'
+[19:22:37] [main/INFO]: Found 37 annotated classes in mod 'soul_fire_d'
+[19:22:37] [main/INFO]: Found 53 annotated classes in mod 'sound_physics_remastered'
+[19:22:37] [main/INFO]: Found 31 annotated classes in mod 'space_arim_dazzleconf_dazzleconf-core'
+[19:22:37] [main/INFO]: Found 4 annotated classes in mod 'space_arim_dazzleconf_dazzleconf-ext-snakeyaml'
+[19:22:37] [main/INFO]: Found 4 annotated classes in mod 'sparkle'
+[19:22:37] [main/INFO]: Found 3 annotated classes in mod 'sparsestructures'
+[19:22:37] [main/INFO]: Found 23 annotated classes in mod 'spectrelib'
+[19:22:37] [main/INFO]: Found 8 annotated classes in mod 'spidersproducewebs'
+[19:22:37] [main/INFO]: Found 5 annotated classes in mod 'spookydoors'
+[19:22:37] [main/INFO]: Found 41 annotated classes in mod 'spruceui'
+[19:22:37] [main/INFO]: Found 42 annotated classes in mod 'stack-to-nearby-chests'
+[19:22:37] [main/INFO]: Found 74 annotated classes in mod 'libgui'
+[19:22:37] [main/INFO]: Found 4 annotated classes in mod 'libninepatch'
+[19:22:37] [main/INFO]: Found 23 annotated classes in mod 'statuemenus'
+[19:22:37] [main/INFO]: Found 8 annotated classes in mod 'status-effect-bars'
+[19:22:37] [main/INFO]: Found 6 annotated classes in mod 'strayspawn'
+[19:22:37] [main/INFO]: Found 16 annotated classes in mod 'styledplayerlist'
+[19:22:37] [main/INFO]: Found 4 annotated classes in mod 'player-data-api'
+[19:22:37] [main/INFO]: Found 5 annotated classes in mod 'suggestion_tweaker'
+[19:22:37] [main/INFO]: Found 11 annotated classes in mod 'superbsteeds'
+[19:22:37] [main/INFO]: Found 18 annotated classes in mod 'cardinal-components-entity'
+[19:22:37] [main/INFO]: Found 37 annotated classes in mod 'cardinal-components-base'
+[19:22:37] [main/INFO]: Found 48 annotated classes in mod 'supermartijn642corelib'
+[19:22:37] [main/INFO]: Found 4 annotated classes in mod 'surfacemushrooms'
+[19:22:37] [main/INFO]: Found 1 annotated classes in mod 't_and_t'
+[19:22:37] [main/INFO]: Found 13 annotated classes in mod 'taxfreelevels'
+[19:22:37] [main/INFO]: Found 190 annotated classes in mod 'tcdcommons'
+[19:22:37] [main/INFO]: Found 3 annotated classes in mod 'terraform-biome-remapper-api-v1'
+[19:22:37] [main/INFO]: Found 2 annotated classes in mod 'terraform-shapes-api-v1'
+[19:22:37] [main/INFO]: Found 1 annotated classes in mod 'terraform-surfaces-api-v1'
+[19:22:37] [main/INFO]: Found 16 annotated classes in mod 'terraform-wood-api-v1'
+[19:22:37] [main/INFO]: Found 5 annotated classes in mod 'tia'
+[19:22:37] [main/INFO]: Found 13 annotated classes in mod 'tier-tagger'
+[19:22:37] [main/INFO]: Found 40 annotated classes in mod 'totally_lit'
+[19:22:37] [main/INFO]: Found 32 annotated classes in mod 'trade_cycling'
+[19:22:37] [main/INFO]: Found 8 annotated classes in mod 'trimmable_tools'
+[19:22:37] [main/INFO]: Found 19 annotated classes in mod 'ukulib'
+[19:22:37] [main/INFO]: Found 9 annotated classes in mod 'ukus-armor-hud'
+[19:22:37] [main/INFO]: Found 61 annotated classes in mod 'universal-graves'
+[19:22:37] [main/INFO]: Found 3 annotated classes in mod 'common-protection-api'
+[19:22:37] [main/INFO]: Found 36 annotated classes in mod 'placeholder-api'
+[19:22:37] [main/INFO]: Found 5 annotated classes in mod 'predicate-api'
+[19:22:37] [main/INFO]: Found 15 annotated classes in mod 'polymer-resource-pack'
+[19:22:37] [main/INFO]: Found 23 annotated classes in mod 'polymer-common'
+[19:22:37] [main/INFO]: Found 26 annotated classes in mod 'sgui'
+[19:22:37] [main/INFO]: Found 47 annotated classes in mod 'polymer-virtual-entity'
+[19:22:37] [main/INFO]: Found 196 annotated classes in mod 'polymer-core'
+[19:22:37] [main/INFO]: Found 41 annotated classes in mod 'polymer-networking'
+[19:22:37] [main/INFO]: Found 9 annotated classes in mod 'polymer-registry-sync-manipulator'
+[19:22:37] [main/INFO]: Found 3 annotated classes in mod 'universal_ores'
+[19:22:37] [main/INFO]: Found 5 annotated classes in mod 'universalbonemeal'
+[19:22:37] [main/INFO]: Found 8 annotated classes in mod 'universalenchants'
+[19:22:37] [main/INFO]: Found 2 annotated classes in mod 'videotape'
+[19:22:37] [main/INFO]: Found 8 annotated classes in mod 'villagerdeathmessages'
+[19:22:37] [main/INFO]: Found 11 annotated classes in mod 'villagernames'
+[19:22:37] [main/INFO]: Found 3 annotated classes in mod 'vinurl'
+[19:22:37] [main/INFO]: Found 8 annotated classes in mod 'visibletraders'
+[19:22:37] [main/INFO]: Found 9 annotated classes in mod 'visuality'
+[19:22:37] [main/INFO]: Found 19 annotated classes in mod 'visualoverhaul'
+[19:22:37] [main/INFO]: Found 6 annotated classes in mod 'visualworkbench'
+[19:22:37] [main/INFO]: Found 49 annotated classes in mod 'vmp'
+[19:22:37] [main/INFO]: Found 182 annotated classes in mod 'voicechat'
+[19:22:37] [main/INFO]: Found 28 annotated classes in mod 'watut'
+[19:22:37] [main/INFO]: Found 12 annotated classes in mod 'waveycapes'
+[19:22:37] [main/INFO]: Found 43 annotated classes in mod 'waystones'
+[19:22:37] [main/INFO]: Found 29 annotated classes in mod 'weaponmaster_ydm'
+[19:22:37] [main/INFO]: Found 8 annotated classes in mod 'welcomemessage'
+[19:22:37] [main/INFO]: Found 678 annotated classes in mod 'wilderwild'
+[19:22:37] [main/INFO]: Found 557 annotated classes in mod 'frozenlib'
+[19:22:37] [main/INFO]: Found 64 annotated classes in mod 'wildfire_gender'
+[19:22:37] [main/INFO]: Found 8 annotated classes in mod 'worldplaytime'
+[19:22:37] [main/INFO]: Found 4 annotated classes in mod 'xxlpackets'
+[19:22:37] [main/INFO]: Found 2 annotated classes in mod 'yeetusexperimentus'
+[19:22:37] [main/INFO]: Found 172 annotated classes in mod 'yet_another_config_lib_v3'
+[19:22:37] [main/INFO]: Found 8 annotated classes in mod 'zombiehorsespawn'
+[19:22:37] [main/INFO]: Found 4 annotated classes in mod 'zombieproofdoors'
+[19:22:37] [main/INFO]: Found 6 annotated classes in mod 'zombievillagersfromspawner'
+[19:22:37] [main/INFO]: Found 125 annotated classes in mod 'zoomify'
+[19:22:37] [main/INFO]: Found 103 annotated classes in mod 'com_akuleshov7_ktoml-core-jvm'
+[19:22:37] [main/INFO]: Scan completed in 5226 ms!
+[19:22:37] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-beta.4).
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.dune_armor_trim_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.eye_armor_trim_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.flow_armor_trim_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.bolt_armor_trim_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.host_armor_trim_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.netherite_upgrade_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.raiser_armor_trim_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.rib_armor_trim_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.sentry_armor_trim_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.shaper_armor_trim_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.silence_armor_trim_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.snout_armor_trim_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.spire_armor_trim_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.tide_armor_trim_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.vex_armor_trim_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.ward_armor_trim_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.wayfinder_armor_trim_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.wild_armor_trim_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.coast_armor_trim_smithing_template.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.creeper_banner_pattern.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.flow_banner_pattern.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.flower_banner_pattern.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.globe_banner_pattern.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.guster_banner_pattern.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.mojang_banner_pattern.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.piglin_banner_pattern.new
+[19:22:38] [main/WARN]: Missing translation key for rename: item.minecraft.skull_banner_pattern.new
+[19:22:38] [main/WARN]: Missing translation key for rename: lanServer.port.unavailable.new
+[19:22:38] [main/WARN]: Missing translation key for rename: lanServer.port.invalid.new
+[19:22:38] [main/WARN]: Missing translation key for rename: multiplayer.disconnect.invalid_public_key_signature.new
+[19:22:38] [main/WARN]: Missing translation key for rename: selectWorld.allowCommands.new
+[19:22:38] [main/WARN]: Missing translation key for rename: gui.abuseReport.reason.generic
+[19:22:38] [main/WARN]: Missing translation key for rename: gui.abuseReport.reason.generic.description
+[19:22:38] [main/WARN]: Missing translation key for rename: commands.drop.no_loot_table
+[19:22:38] [main/WARN]: Missing translation key for rename: item.op_block_warning.line1
+[19:22:38] [main/WARN]: Missing translation key for rename: item.op_block_warning.line2
+[19:22:38] [main/WARN]: Missing translation key for rename: item.op_block_warning.line3
+[19:22:40] [Datafixer Bootstrap/INFO]: 245 Datafixer optimizations took 319 milliseconds
+[19:22:40] [main/INFO]: EuphoriaPatcher: [UPDATE CHECKER] The EuphoriaPatcher Mod is up to date
+[19:22:40] [main/INFO]: EuphoriaPatcher: Rebooting your server... it’s therapy for the machine.
+[19:22:40] [main/INFO]: EuphoriaPatcher: EuphoriaPatches_1.5.2 is already installed.
+[19:22:40] [main/INFO]: 
+
+EuphoriaPatcher: Thank you for using Euphoria Patches - SpacEagle17
+
+[19:22:43] [main/INFO]: Loading config WWBlockConfig from wilderwild
+[19:22:43] [main/INFO]: Saving config WWBlockConfig from wilderwild
+[19:22:44] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[19:22:44] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[19:22:46] [main/INFO]: Loading config WWEntityConfig from wilderwild
+[19:22:46] [main/INFO]: Saving config WWEntityConfig from wilderwild
+[19:22:48] [main/INFO]: particular.mixins.json:InvokerViewerCountManager from mod particular->@Invoker[METHOD_PROXY]::invokeScheduleBlockTick(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;)V should be static as its target is
+[19:22:49] [main/ERROR]: Mod with id explorify only has an old path for subPath data/cristellib/structure_config. New Path for Cristel Lib >=2.0.1 is missing! Maybe contact the mod author to let them know.
+[19:22:50] [main/INFO]: Vanilla bootstrap took 9121 milliseconds
+[19:22:50] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on ukus-armor-hud.mixins.json:InGameHudMixin from mod ukus-armor-hud::handler$jji000$ukus-armor-hud$calculateStatusEffectIconsOffset exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[19:22:51] [Render thread/WARN]: Discarding @Unique public method addSource in cobweb.fabric.mixins.json:PackRepositoryMixin from mod cobweb because it already exists in net.minecraft.class_3283
+[19:22:51] [Render thread/WARN]: Method overwrite conflict for addSource in voicechat.mixins.json:PackRepositoryMixin from mod voicechat, previously written by de.maxhenkel.resourcepackchecker.mixin.PackRepositoryMixin. Skipping method.
+[19:22:51] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:22:51] [Render thread/INFO]: Setting user: Luxray
+[19:22:52] [Render thread/INFO]: fabric loader environment detected
+[19:22:53] [Render thread/INFO]: Initializing platform helper for Advanced Netherite!
+[19:22:53] [Render thread/INFO]: [Animal Feeding Trough] Load Complete! Enjoy :D
+[19:22:53] [Render thread/INFO]: [Collective] JSON file 'area_names.json' generation requested by mod 'areas'.
+[19:22:53] [Render thread/INFO]: Constructing common components for armorstatues:main
+[19:22:53] [Render thread/INFO]: Dispatching loading event for config armorstatues-client.toml
+[19:22:53] [Render thread/INFO]: Constructing common components for betteranimationscollection:main
+[19:22:53] [Render thread/WARN]: Method overwrite conflict for getEntity in wildfire_gender.mixins.json:renderstate.LivingEntityRenderStateMixin from mod wildfire_gender, previously written by dev.tr7zw.notenoughanimations.mixins.LivingRenderStateMixin. Skipping method.
+[19:22:53] [Render thread/WARN]: Method overwrite conflict for setEntity in wildfire_gender.mixins.json:renderstate.LivingEntityRenderStateMixin from mod wildfire_gender, previously written by dev.tr7zw.notenoughanimations.mixins.LivingRenderStateMixin. Skipping method.
+[19:22:53] [Render thread/INFO]: Dispatching loading event for config betteranimationscollection-client.toml
+[19:22:53] [Render thread/INFO]: [STDOUT]: All 6 have been set properly
+[19:22:53] [Render thread/INFO]: Biolith for Fabric is initializing...
+[19:22:54] [Render thread/INFO]: ChatAnimation initialized!
+[19:22:54] [Cicada thread 0/INFO]: [cicada] Hello, anyone there?
+[19:22:54] [Cicada thread 0/INFO]: [do_a_barrel_roll] I'm here, ready to rumble!
+[19:22:54] [Render thread/INFO]: Enabling Cinderscapes' Biolith worldgen module.
+[19:22:54] [Render thread/INFO]: Loading Collective version 7.94.
+[19:22:54] [Render thread/INFO]: Constructing common components for cutthrough:main
+[19:22:54] [Render thread/INFO]: Dispatching loading event for config cutthrough-client.toml
+[19:22:54] [Render thread/INFO]: Enabled 10 bug fixes: [MC-577, MC-22882, MC-59810, MC-89146, MC-90683, MC-112730, MC-122477, MC-199467, MC-237493, MC-263865]
+[19:22:54] [Render thread/INFO]: Successfully Debugify'd your game!
+[19:22:54] [Render thread/INFO]: Constructing common components for diagonalblocks:main
+[19:22:54] [Render thread/INFO]: Constructing common components for diagonalfences:main
+[19:22:54] [Render thread/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 28ms
+[19:22:54] [Render thread/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 25ms
+[19:22:54] [Render thread/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 66ms
+[19:22:55] [Render thread/INFO]: Constructing common components for diagonalwalls:main
+[19:22:55] [Render thread/INFO]: Constructing shapes for DiagonalWallBlock[NodeWidth=0.0,ExtensionWidth=3.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 16ms
+[19:22:55] [Render thread/INFO]: Constructing shapes for DiagonalWallBlock[NodeWidth=0.0,ExtensionWidth=3.0,NodeTop=0.0,ExtensionBottom=0.0,ExtensionTop=14.0] took 44ms
+[19:22:55] [Render thread/INFO]: Constructing shapes for DiagonalWallBlock[NodeWidth=4.0,ExtensionWidth=3.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=14.0] took 91ms
+[19:22:55] [Render thread/INFO]: Constructing shapes for DiagonalWallBlock[NodeWidth=4.0,ExtensionWidth=3.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 22ms
+[19:22:56] [Render thread/INFO]: Constructing common components for distinguishedpotions:main
+[19:22:56] [Render thread/INFO]: Dispatching loading event for config distinguishedpotions-client.toml
+[19:22:56] [Render thread/INFO]: Dispatching loading event for config distinguishedpotions-common.toml
+[19:22:56] [Render thread/INFO]: [DRIPPY LOADING SCREEN] Loading v3.0.11 in client-side mode on FABRIC!
+[19:22:56] [Render thread/INFO]: Constructing common components for easyanvils:main
+[19:22:56] [Render thread/INFO]: Dispatching loading event for config easyanvils-common.toml
+[19:22:56] [Render thread/INFO]: Dispatching loading event for config easyanvils-client.toml
+[19:22:56] [Render thread/INFO]: Constructing common components for easymagic:main
+[19:22:56] [Render thread/INFO]: Dispatching loading event for config easymagic-common.toml
+[19:22:56] [Render thread/INFO]: Dispatching loading event for config easymagic-client.toml
+[19:22:56] [Render thread/INFO]: Constructing common components for easyshulkerboxes:main
+[19:22:56] [Render thread/INFO]: Loading config...
+[19:22:56] [Render thread/INFO]: Constructing common components for enchantinginfuser:main
+[19:22:56] [Render thread/INFO]: [FANCYMENU] Loading v3.4.6 in client-side mode on FABRIC!
+[19:22:56] [Render thread/INFO]: FastConfigAPI has been initialized
+[19:22:56] [Render thread/INFO]: ping & connect fast!
+[19:22:56] [Render thread/INFO]: Loading config FrozenLibConfig from frozenlib
+[19:22:56] [Render thread/INFO]: Saving config FrozenLibConfig from frozenlib
+[19:22:56] [Render thread/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[19:22:56] [Render thread/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[19:22:57] [Render thread/INFO]: Horse Buff Initialized
+[19:22:57] [Render thread/INFO]: Constructing common components for horseexpert:main
+[19:22:57] [Render thread/INFO]: Dispatching loading event for config horseexpert-client.toml
+[19:22:57] [Render thread/INFO]: Constructing common components for iteminteractions:main
+[19:22:57] [Render thread/INFO]: Dispatching loading event for config iteminteractions-client.toml
+[19:22:57] [Render thread/INFO]: [KONKRETE] Loading v1.9.9 in client-side mode on FABRIC!
+[19:22:57] [Render thread/INFO]: ---------------------------
+[19:22:57] [Render thread/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
+[19:22:57] [Render thread/INFO]:  
+[19:22:57] [Render thread/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
+[19:22:57] [Render thread/INFO]: Open Imaging is licensed under Apache-2.0.
+[19:22:57] [Render thread/INFO]:  
+[19:22:57] [Render thread/INFO]: JsonPath Copyright © 2017 Jayway.
+[19:22:57] [Render thread/INFO]: JsonPath is licensed under Apache-2.0.
+[19:22:57] [Render thread/INFO]:  
+[19:22:57] [Render thread/INFO]: Json-smart Copyright © netplex.
+[19:22:57] [Render thread/INFO]: Json-smart is licensed under Apache-2.0.
+[19:22:57] [Render thread/INFO]:  
+[19:22:57] [Render thread/INFO]: Exp4j Copyright © Frank Asseg.
+[19:22:57] [Render thread/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
+[19:22:57] [Render thread/INFO]: ---------------------------
+[19:22:57] [Render thread/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
+[19:22:57] [Render thread/INFO]: Initializing mod...
+[19:22:57] [Render thread/INFO]: Registering S2C receiver with id labellingcontainers:preferences_config_update_packet
+[19:22:57] [Render thread/INFO]: Registering S2C receiver with id labellingcontainers:sync_taggable_blocks_config_packet
+[19:22:57] [Render thread/INFO]: Registering S2C receiver with id labellingcontainers:add_id_taggable_blocks_config_packet
+[19:22:57] [Render thread/INFO]: Registering S2C receiver with id labellingcontainers:add_tag_taggable_blocks_config_packet
+[19:22:57] [Render thread/INFO]: Registering S2C receiver with id labellingcontainers:remove_id_taggable_blocks_config_packet
+[19:22:57] [Render thread/INFO]: Registering S2C receiver with id labellingcontainers:remove_tag_taggable_blocks_config_packet
+[19:22:57] [Render thread/INFO]: Registering C2S receiver with id labellingcontainers:label_printer_save_packet
+[19:22:57] [Render thread/INFO]: Registering C2S receiver with id labellingcontainers:request_taggable_blocks_config_packet
+[19:22:57] [Render thread/INFO]: Constructing common components for leavesbegone:main
+[19:22:57] [Render thread/INFO]: Initialize mod Library Ferret
+[19:22:57] [Render thread/INFO]: Initialized mod Library Ferret
+[19:22:57] [Render thread/INFO]: Loaded FabricRegistrationFactory for service Factory
+[19:22:57] [Render thread/INFO]: Loaded FabricPlatformHelper for service IPlatformHelper
+[19:22:57] [Render thread/INFO]: Config 'livingthings.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'penguin.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'elephant.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'giraffe.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'lion.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'shark.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'ostrich.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'flamingo.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'crab.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'mantaray.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'raccoon.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'owl.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'ancient_blaze.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'koala.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'snail.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'monkey.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'nether_knight.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'shroomie.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'seahorse.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'baby_ender_dragon.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Config 'peacock.json' was successfully loaded.
+[19:22:57] [Render thread/INFO]: Registering MobAttributes
+[19:22:57] [Render thread/INFO]: Registering SpawnPlacements
+[19:22:57] [Render thread/INFO]: MCMV-AFT:"AFT loaded."
+[19:22:57] [Render thread/INFO]: Registered: acacia_shield
+[19:22:57] [Render thread/INFO]: Registered: bamboo_shield
+[19:22:57] [Render thread/INFO]: Registered: birch_shield
+[19:22:57] [Render thread/INFO]: Registered: cherry_shield
+[19:22:57] [Render thread/INFO]: Registered: crimson_shield
+[19:22:57] [Render thread/INFO]: Registered: dark_oak_shield
+[19:22:57] [Render thread/INFO]: Registered: pale_oak_shield
+[19:22:57] [Render thread/INFO]: Registered: jungle_shield
+[19:22:57] [Render thread/INFO]: Registered: mangrove_shield
+[19:22:57] [Render thread/INFO]: Registered: oak_shield
+[19:22:57] [Render thread/INFO]: Registered: warped_shield
+[19:22:57] [Render thread/INFO]: Constructing common components for magnumtorch:main
+[19:22:57] [Render thread/INFO]: MidnightLib detected!
+[19:22:57] [Render thread/INFO]: Make Bubbles Pop by Tschipcraft initialized!
+[19:22:57] [Render thread/INFO]: [MELODY] Loading v1.0.10 on FABRIC...
+[19:22:57] [Render thread/INFO]: [More Mobs] MidnightLib detected!
+[19:22:57] [Render thread/INFO]: [More Mobs] Registering server started event...
+[19:22:57] [Render thread/INFO]: [More Mobs] Loaded More Mobs by Tschipcraft successfully!
+[19:22:57] [Render thread/INFO]: Registered: acacia_armor_stand
+[19:22:57] [Render thread/INFO]: Registered: bamboo_armor_stand
+[19:22:57] [Render thread/INFO]: Registered: birch_armor_stand
+[19:22:57] [Render thread/INFO]: Registered: cherry_armor_stand
+[19:22:57] [Render thread/INFO]: Registered: crimson_armor_stand
+[19:22:57] [Render thread/INFO]: Registered: dark_oak_armor_stand
+[19:22:57] [Render thread/INFO]: Registered: pale_oak_armor_stand
+[19:22:57] [Render thread/INFO]: Registered: jungle_armor_stand
+[19:22:57] [Render thread/INFO]: Registered: mangrove_armor_stand
+[19:22:57] [Render thread/INFO]: Registered: spruce_armor_stand
+[19:22:57] [Render thread/INFO]: Registered: warped_armor_stand
+[19:22:57] [Render thread/INFO]: Loading Noisium.
+[19:22:57] [Render thread/INFO]: Main class initialised.
+[19:22:57] [Render thread/INFO]: Registering S2C receiver with id octolib:config_sync
+[19:22:57] [Render thread/INFO]: [STDOUT]: All 10 have been set properly
+[19:22:57] [Render thread/INFO]: chyz: bro, can you stop breathing
+[19:22:57] [Render thread/INFO]: Packet Fixer has been initialized successfully
+[19:22:57] [Render thread/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'petnames'.
+[19:22:57] [Render thread/INFO]: [STDOUT]: Running Fabric.
+[19:22:57] [Render thread/INFO]: Constructing common components for pickupnotifier:main
+[19:22:57] [Render thread/INFO]: Dispatching loading event for config pickupnotifier\pickupnotifier-client.toml
+[19:22:57] [Render thread/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'piglinnames'.
+[19:22:57] [Render thread/INFO]: [Ping-Wheel] Init
+[19:22:57] [Render thread/INFO]: [Ping-Wheel] Loaded ServerConfig(defaultChannelMode=auto, playerTrackingEnabled=true, msToRegenerate=1000, rateLimit=5)
+[19:22:58] [Render thread/INFO]: Constructing common components for puzzleslib:main
+[19:22:58] [Render thread/INFO]: [Quad] Initialising the Quad mod power! >:P
+[19:22:58] [Render thread/INFO]: VinURL loaded.
+[19:22:58] [Render thread/INFO]: [ServerCore] Loaded V1.5.8+1.21.4!
+[19:22:58] [Render thread/INFO]: Deserializing SnowUnderTreesConfig from 'C:\Minecraft\.minecraft\modpacks\295ef44a-ac45-3ff9-993b-557f8e053876\config\snowundertrees.config.json'
+[19:22:58] [Render thread/INFO]: Serene Seasons detected!
+[19:22:58] [Render thread/INFO]: Deserializing SnufflesConfig from 'C:\Minecraft\.minecraft\modpacks\295ef44a-ac45-3ff9-993b-557f8e053876\config\snuffles.json'
+[19:22:58] [Render thread/INFO]: Constructing common components for statuemenus:main
+[19:22:59] [Render thread/INFO]: Constructing common components for universalbonemeal:main
+[19:22:59] [Render thread/INFO]: Constructing common components for universalenchants:main
+[19:22:59] [Render thread/INFO]: VideoTape initialized
+[19:22:59] [Render thread/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[19:22:59] [Render thread/INFO]: Constructing common components for visualworkbench:main
+[19:22:59] [Render thread/INFO]: Dispatching loading event for config visualworkbench-common.toml
+[19:22:59] [Render thread/INFO]: Dispatching loading event for config visualworkbench-client.toml
+[19:22:59] [Render thread/INFO]: [voicechat] Compatibility version 18
+[19:22:59] [ForkJoinPool.commonPool-worker-1/INFO]: Found latest version 1.13.2+mc1.21.4
+[19:22:59] [Render thread/INFO]: [voicechat] Loading plugins
+[19:22:59] [Render thread/INFO]: [voicechat] Loaded 1 plugin(s)
+[19:22:59] [Render thread/INFO]: [voicechat] Initializing plugins
+[19:22:59] [Render thread/INFO]: Initializing Simple Voice Chat integration
+[19:22:59] [Render thread/INFO]: [voicechat] Initialized 1 plugin(s)
+[19:22:59] [Render thread/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
+[19:22:59] [Render thread/INFO]: Void Lib successfully started!
+[19:22:59] [Render thread/INFO]: [STDOUT]: Initialize WeaponMaster
+[19:22:59] [Render thread/INFO]: Applying Minecraft-Version-Based DataFixes for Wilder Wild with Data Version 3
+[19:22:59] [FrozenLib Quilt Datafixer Bootstrap/INFO]: 2 Datafixer optimizations took 2 milliseconds
+[19:22:59] [Render thread/INFO]: Minecraft-Version-Specific DataFixes for Wilder Wild have been applied
+[19:22:59] [Render thread/INFO]: Applying DataFixes for Wilder Wild with Data Version 28
+[19:22:59] [FrozenLib Quilt Datafixer Bootstrap/INFO]: 27 Datafixer optimizations took 7 milliseconds
+[19:22:59] [Render thread/INFO]: DataFixes for Wilder Wild have been applied
+[19:22:59] [Render thread/ERROR]: No data fixer registered for wilderwild:icicle
+[19:22:59] [Render thread/INFO]: Adding Music And Ambience for wilderwild
+[19:22:59] [Render thread/INFO]: Overriding Water Colors for wilderwild
+[19:22:59] [Render thread/WARN]: Encountered duplicate API provider registration for block: wilderwild:stone_chest
+[19:23:00] [Render thread/INFO]: Registering S2C receiver with id architectury:spawn_entity_packet
+[19:23:00] [Render thread/INFO]: Constructing client components for armorstatues:main
+[19:23:00] [Render thread/INFO]: Audio Priority Loaded!
+[19:23:00] [Render thread/INFO]: Loaded
+[19:23:00] [Render thread/INFO]: Constructing client components for betteranimationscollection:main
+[19:23:00] [Render thread/INFO]: [BetterGrassify] Better Grass is disabled.
+[19:23:00] [Render thread/WARN]: [BetterGrassify] WilderWild detected. 'Better Snowy Grass' and 'Better Snow' features have been disabled.
+[19:23:00] [Render thread/INFO]: Initializing 'Better Statistics Screen' as 'BetterStatsClient'.
+[19:23:00] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 14920 players and 700237 unknown
+[19:23:01] [Render thread/INFO]: Successfully initialized ClickThrough Plus. Signs are now out of the way!
+[19:23:01] [Render thread/INFO]: Pre-initializing Controlify...
+[19:23:01] [Render thread/INFO]: Constructing client components for cutthrough:main
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-577
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-2025
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-4490
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-7569
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-8187
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-22882
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-30391
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-46766
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-59810
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-69216
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-79545
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-80859
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-88371
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-89146
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-90683
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-93018
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-93384
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-100991
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-105068
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-108948
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-112730
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-116379
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-119417
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-119754
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-121706
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-121903
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-122477
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-122627
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-127970
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-129909
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-132878
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-143474
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-155509
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-159163
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-160095
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-165381
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-176559
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-179072
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-183776
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-183990
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-197260
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-199467
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-200418
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-206922
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-215530
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-215531
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-217716
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-223153
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-224729
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-231097
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-231743
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-232869
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-237493
+[19:23:01] [Render thread/INFO]: Caching description for bug MC-263865
+[19:23:01] [Render thread/INFO]: Successfully registered 'minecraft:netherite_chestplate' and 3 more items!
+[19:23:01] [Render thread/INFO]: Successfully registered 'minecraft:diamond_helmet' and 3 more items!
+[19:23:01] [Render thread/INFO]: Successfully registered 'minecraft:turtle_helmet'!
+[19:23:01] [Render thread/INFO]: Successfully registered 'minecraft:iron_helmet' and 3 more items!
+[19:23:01] [Render thread/INFO]: Successfully registered 'minecraft:chainmail_helmet' and 3 more items!
+[19:23:01] [Render thread/INFO]: Successfully registered 'minecraft:golden_helmet' and 3 more items!
+[19:23:01] [Render thread/INFO]: Successfully registered 'minecraft:leather_helmet' and 3 more items!
+[19:23:01] [Render thread/INFO]: Successfully registered 'minecraft:elytra'!
+[19:23:01] [Render thread/INFO]: Constructing client components for diagonalblocks:main
+[19:23:01] [Render thread/INFO]: Constructing client components for diagonalfences:main
+[19:23:01] [Render thread/INFO]: Constructing client components for diagonalwalls:main
+[19:23:01] [Render thread/INFO]: Initializing Distant Horizons client.
+[19:23:01] [Render thread/INFO]: Distant Horizons, Version: 2.3.0-b
+[19:23:01] [Render thread/INFO]: Registering Fabric Client Events
+[19:23:01] [Render thread/INFO]: Registering Fabric Server Events
+[19:23:01] [Render thread/INFO]: Registered mod compatibility accessor for: [Sodium-Fabric].
+[19:23:01] [Render thread/INFO]: Registered mod compatibility accessor for: [iris].
+[19:23:01] [Render thread/INFO]: Distant Horizons client Initialized.
+[19:23:01] [Render thread/INFO]: Initialising config for DistantHorizons
+[19:23:01] [Render thread/INFO]: Config for DistantHorizons initialised
+[19:23:01] [Render thread/WARN]: Partially Incompatible Distant Horizons mod detected: [Chunky] Chunky can cause DH LODs to have holes since Chunky can generate chunks faster than DH can process them. 
+Using DH's distant generator instead of chunky or increasing DH's CPU thread count can resolve the issue.
+[19:23:01] [Render thread/INFO]: Constructing client components for distinguishedpotions:main
+[19:23:01] [Render thread/INFO]: Dynamic FPS 3.9.1 active on Fabric!
+[19:23:01] [Render thread/INFO]: Deserializing Config from 'C:\Minecraft\.minecraft\modpacks\295ef44a-ac45-3ff9-993b-557f8e053876\config\dynamiccrosshair.json5'
+[19:23:01] [Render thread/INFO]: Constructing client components for easyanvils:main
+[19:23:01] [Render thread/INFO]: Constructing client components for easymagic:main
+[19:23:01] [Render thread/INFO]: Constructing client components for easyshulkerboxes:main
+[19:23:01] [Render thread/INFO]: Attempting to parse file C:\Minecraft\.minecraft\modpacks\295ef44a-ac45-3ff9-993b-557f8e053876\config\elytra-physics-config.json
+[19:23:01] [Render thread/INFO]: Class 'com.illusivesoulworks.colytra.client.ColytraLayer' not found
+[19:23:01] [Render thread/INFO]: Class 'com.illusivesoulworks.elytraslot.client.ElytraSlotLayer' not found
+[19:23:01] [Render thread/INFO]: Class 'com.kyanite.deeperdarker.client.render.SoulElytraRenderer' not found
+[19:23:01] [Render thread/INFO]: Class 'pw.lakuna.elytra_trinket.ElytraTrinketFeatureRenderer' not found
+[19:23:01] [Render thread/INFO]: Class 'org.betterx.betterend.client.render.ArmoredElytraLayer' not found
+[19:23:01] [Render thread/INFO]: Successfully added class 'net.minecraft.class_979' to layer inject list
+[19:23:01] [Render thread/INFO]: Constructing client components for enchantinginfuser:main
+[19:23:01] [Render thread/INFO]: Loading Entity Model Features, the ETA is a lie.
+[19:23:01] [Render thread/INFO]: [ETF]: 6 new ETF Random Properties registered by entity_model_features.
+[19:23:01] [Render thread/INFO]: Loading Entity Texture Features, 0% Opti, 100% Fine.
+[19:23:02] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[19:23:02] [Render thread/INFO]: Registering leaf particles.
+[19:23:02] [Render thread/INFO]: Deserializing FancyHealthBarConfig from 'C:\Minecraft\.minecraft\modpacks\295ef44a-ac45-3ff9-993b-557f8e053876\config\fancyhealthbar.json5'
+[19:23:02] [Render thread/INFO]: [FastQuit] Initialized
+[19:23:02] [Render thread/INFO]: Waste your hard-earned emeralds with ease!
+[19:23:02] [Render thread/INFO]: Loading FirstPerson Mod
+[19:23:02] [Render thread/INFO]: Loaded config fzzy_config:keybinds in 318ms
+[19:23:02] [Render thread/INFO]: Constructing client components for horseexpert:main
+[19:23:02] [Render thread/WARN]: Method overwrite conflict for getCullingBox in sodium-common.mixins.json:core.render.world.EntityRendererAccessor from mod sodium, previously written by dev.tr7zw.entityculling.mixin.EntityRendererMixin. Skipping method.
+[19:23:02] [Render thread/INFO]: Constructing client components for iteminteractions:main
+[19:23:02] [Render thread/INFO]: [LambDynLights] Initializing LambDynamicLights...
+[19:23:02] [Render thread/INFO]: [LambDynLights] Configuration loaded.
+[19:23:02] [Render thread/INFO]: Constructing client components for leavesbegone:main
+[19:23:02] [Render thread/INFO]: Constructing client components for magnumtorch:main
+[19:23:02] [Render thread/INFO]: [MarlowCrystal] Mod initialized
+[19:23:03] [Render thread/INFO]: Loaded config modelfix-client.json
+[19:23:03] [Render thread/INFO]: Using Cloth Config GUI
+[19:23:03] [Render thread/WARN]: Using Cloth Config GUI
+[19:23:03] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Main.initialize()
+[19:23:03] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Initialized.
+[19:23:04] [Render thread/INFO]: Creative Mode Item Tab registered.
+[19:23:04] [Render thread/INFO]: Client initialised. Hello!
+[19:23:04] [Render thread/INFO]: Loaded config :particle_core_config in 26ms
+[19:23:04] [Render thread/INFO]: I am quite particular about the effects I choose to add :3
+[19:23:04] [Render thread/INFO]: Constructing client components for pickupnotifier:main
+[19:23:04] [Render thread/INFO]: [Ping-Wheel] Loaded ClientConfig(pingVolume=100, pingDuration=7, pingDistance=2048, correctionPeriod=1.0, itemIconVisible=true, directionIndicatorVisible=true, nameLabelForced=false, pingSize=100, channel=, removeRadius=10, raycastDistance=1024, safeZoneLeft=5, safeZoneRight=5, safeZoneTop=5, safeZoneBottom=60)
+[19:23:04] [Render thread/INFO]: Constructing client components for puzzleslib:main
+[19:23:04] [Render thread/INFO]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[19:23:04] [Render thread/INFO]: Simple Armor Hud loaded!
+[19:23:04] [Render thread/INFO]: Better mount hud found!
+[19:23:04] [Render thread/INFO]: Armor accessor implementation: VanillaArmorAccessor
+[19:23:04] [Render thread/INFO]: Reloading reverb parameters
+[19:23:04] [DH-ApplyConfigPresetTimer/INFO]: changing preset to: BALANCED
+[19:23:04] [DH-ApplyConfigPresetTimer/INFO]: preset active: BALANCED
+[19:23:04] [DH-ApplyConfigPresetTimer/INFO]: changing preset to: MEDIUM
+[19:23:04] [Render thread/INFO]: Unknown sound in allowed sound config: snuffles:entity.snuffle.step
+[19:23:04] [Render thread/INFO]: Unknown sound in allowed sound config: snuffles:entity.snuffle.shear
+[19:23:04] [Render thread/INFO]: Unknown sound in allowed sound config: snuffles:entity.snuffle.eat
+[19:23:04] [Render thread/INFO]: Unknown sound in allowed sound config: snuffles:entity.snuffle.style
+[19:23:04] [Render thread/INFO]: Unknown sound in allowed sound config: snuffles:block.frosty_fluff.thaw
+[19:23:04] [Render thread/INFO]: Unknown sound in allowed sound config: snuffles:entity.snuffle.death
+[19:23:04] [Render thread/INFO]: Unknown sound in allowed sound config: snuffles:entity.snuffle.shake
+[19:23:04] [Render thread/INFO]: Unknown sound in allowed sound config: snuffles:entity.snuffle.ambient
+[19:23:04] [DH-ApplyConfigPresetTimer/INFO]: preset active: MEDIUM
+[19:23:04] [Render thread/INFO]: Unknown sound in allowed sound config: snuffles:entity.snuffle.hurt
+[19:23:04] [Render thread/INFO]: Unknown sound in allowed sound config: snuffles:entity.snuffle.thaw
+[19:23:04] [Render thread/INFO]: Constructing client components for statuemenus:main
+[19:23:04] [Render thread/INFO]: Initializing 'TCD Commons API' 3.12.7+fabric-1.21.4 as 'TCDCommonsClient'.
+[19:23:04] [Render thread/INFO]: Constructing client components for universalbonemeal:main
+[19:23:04] [Render thread/INFO]: Constructing client components for universalenchants:main
+[19:23:05] [Render thread/INFO]: Constructing client components for visualworkbench:main
+[19:23:05] [Render thread/INFO]: [voicechat] Loading Opus
+[19:23:05] [Render thread/INFO]: [voicechat] Using Cloth Config GUI
+[19:23:05] [Render thread/INFO]: Wavey Capes loaded PlayerAnimator support!
+[19:23:05] [Render thread/INFO]: Loading config WWAmbienceAndMiscConfig from wilderwild
+[19:23:05] [Render thread/INFO]: Saving config WWAmbienceAndMiscConfig from wilderwild
+[19:23:05] [Render thread/INFO]: Deserializing YACLConfig from 'C:\Minecraft\.minecraft\modpacks\295ef44a-ac45-3ff9-993b-557f8e053876\config\yacl.json5'
+[19:23:05] [Render thread/INFO]: Loading config WWWorldgenConfig from wilderwild
+[19:23:05] [Render thread/INFO]: Saving config WWWorldgenConfig from wilderwild
+[19:23:05] [Render thread/INFO]: Saving config WWMixinsConfig from wilderwild
+[19:23:05] [Render thread/INFO]: Saving config WWBlockConfig from wilderwild
+[19:23:05] [Render thread/INFO]: Saving config WWEntityConfig from wilderwild
+[19:23:05] [Render thread/INFO]: Saving config FrozenLibConfig from frozenlib
+[19:23:05] [Render thread/INFO]: Saving config WWAmbienceAndMiscConfig from wilderwild
+[19:23:05] [Render thread/INFO]: Saving config WWWorldgenConfig from wilderwild
+[19:23:06] [Render thread/INFO]: Queuing DH event binding...
+[19:23:06] [Render thread/INFO]: DH Ready, binding Iris event handlers...
+[19:23:06] [Render thread/INFO]: DH Iris events bound.
+[19:23:06] [Render thread/INFO]: Backend library: LWJGL version 3.3.3-snapshot
+[19:23:06] [Render thread/INFO]: Modifying process environment to apply workarounds for the NVIDIA graphics driver...
+[19:23:06] [Render thread/INFO]: OpenGL Vendor: NVIDIA Corporation
+[19:23:06] [Render thread/INFO]: OpenGL Renderer: NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2
+[19:23:06] [Render thread/INFO]: OpenGL Version: 3.2.0 NVIDIA 572.60
+[19:23:06] [Render thread/INFO]: Modifying OpenGL context to apply workarounds for the NVIDIA graphics driver...
+[19:23:06] [Render thread/INFO]: Enabling GL_DEBUG_OUTPUT_SYNCHRONOUS to force the NVIDIA driver to disable threadedcommand submission
+[19:23:07] [Render thread/INFO]: Initializing ImmediatelyFast 1.3.6+1.21.4 on NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2 (NVIDIA Corporation) with OpenGL 3.2.0 NVIDIA 572.60
+[19:23:07] [Render thread/INFO]: Found Iris/Oculus 1.8.8+mc1.21.4. Enabling compatibility.
+[19:23:07] [Render thread/INFO]: Debug functionality is disabled.
+[19:23:07] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[19:23:07] [Render thread/INFO]: Block minecraft:jungle_leaves had its color provider replaced with io.github.therookiecoder.snowyleavesplus.SnowyLeavesPlusClient$$Lambda/0x0000000801ef1c28@57b80d1c and will not use per-vertex coloring
+[19:23:07] [Render thread/INFO]: Block minecraft:spruce_leaves had its color provider replaced with io.github.therookiecoder.snowyleavesplus.SnowyLeavesPlusClient$$Lambda/0x0000000801ef1c28@57b80d1c and will not use per-vertex coloring
+[19:23:07] [Render thread/INFO]: Block minecraft:oak_leaves had its color provider replaced with io.github.therookiecoder.snowyleavesplus.SnowyLeavesPlusClient$$Lambda/0x0000000801ef1c28@57b80d1c and will not use per-vertex coloring
+[19:23:07] [Render thread/INFO]: Block minecraft:dark_oak_leaves had its color provider replaced with io.github.therookiecoder.snowyleavesplus.SnowyLeavesPlusClient$$Lambda/0x0000000801ef1c28@57b80d1c and will not use per-vertex coloring
+[19:23:07] [Render thread/INFO]: Block minecraft:birch_leaves had its color provider replaced with io.github.therookiecoder.snowyleavesplus.SnowyLeavesPlusClient$$Lambda/0x0000000801ef1c28@57b80d1c and will not use per-vertex coloring
+[19:23:07] [Render thread/INFO]: Block minecraft:acacia_leaves had its color provider replaced with io.github.therookiecoder.snowyleavesplus.SnowyLeavesPlusClient$$Lambda/0x0000000801ef1c28@57b80d1c and will not use per-vertex coloring
+[19:23:07] [Render thread/INFO]: Block minecraft:mangrove_leaves had its color provider replaced with io.github.therookiecoder.snowyleavesplus.SnowyLeavesPlusClient$$Lambda/0x0000000801ef1c28@57b80d1c and will not use per-vertex coloring
+[19:23:07] [Render thread/INFO]: Block minecraft:lily_pad had its color provider replaced with eu.midnightdust.visualoverhaul.fabric.VisualOverhaulClientFabric$$Lambda/0x0000000801f41588@20e5987a and will not use per-vertex coloring
+[19:23:08] [Render thread/INFO]: Hardware information:
+[19:23:08] [Render thread/INFO]: CPU: 12x AMD Ryzen 5 1600X Six-Core Processor 
+[19:23:08] [Render thread/INFO]: GPU: NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 572.60)
+[19:23:08] [Render thread/INFO]: OS: Windows 10 (10.0)
+[19:23:08] [Render thread/WARN]: @Inject(@At("INVOKE")) Shift.BY=4 on ukus-armor-hud.mixins.json:SubtitlesHudMixin from mod ukus-armor-hud::handler$jjj000$ukus-armor-hud$calculateOffset exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[19:23:08] [Render thread/INFO]: [FANCYMENU] Registering resource reload listener..
+[19:23:08] [Render thread/INFO]: Invalidating pack caches
+[19:23:08] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, additionallanterns, additionalstructures, adorabuild_structures, advancednetherite, advancementplaques, almanac, ambientsounds, animal_feeding_trough, appleskin, armored-elytra, armorstatues, armortrimitemfix, axolotlbuckets, badoptimizations, balm, bedrodium, betteradvancements, betterbeds, bettergrass, betterhurtcam, bettermounthud, bettersafebed, betterstats, bettervillage, bigendcitiesmod, biolith, boatiview, bobby, brokenleadwarner, c2me, cardinal-components-base, cardinal-components-entity, cardinal-components-world, carryon, chat_heads, chatanimation, chatnotify, chatsounds, chunky, cicada, cinderscapes, cinderscapes-client, cinderscapes-common, cinderscapes-worldgen, clean-debug, clickthrough, cloth-config, codec-config-api, conditional-mixin, config2brigadier, continuity, controlify, creativecore, cristellib, cropsloverain, ctov, cubes-without-borders, cullleaves, customizableelytra, customlan, day_dream, debugify, detailab, ding, disableaccessibilityscreen, distanthorizons, distinguishedpotions, do_a_barrel_roll, dogslie, doors-closed, draggable_lists, drippyloadingscreen, durabilitytooltip, dyed, dynamic_fps, dynamiccrosshair, dynamiccrosshair-api, dynamiccrosshaircompat, e4mc_minecraft, easyanvils, easymagic, elytra_physics, emotecraft, enchantinginfuser, enchantment_lore, enchlevel-langpatch, enhancedblockentities, entity_model_features, entity_texture_features, entityculling, equipmentcompare, euphoria_patcher, expanded_armor_enchanting, explosiveenhancement, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, fabrictailor, fabrishot, fallingleaves, fallingtree, fancyhealthbar, fancymenu, fastconfigapi, fastipping, fastitems, fastquit, fasttrading, firstperson, fluidvoidfading, forgeconfigapiport, forgivingvoid, frozenlib, fzzy_config, getittogetherdrops, grindenchantments, hardcorerevival, head_in_the_clouds, highlighter, horsebuff, horseexpert, ichunutil, immediatelyfast, immersiveui, inventorysorter, iris, iteminteractions, jade, jankson, jrftl, konkrete, kyrptconfig, labellingcontainers, lambdynlights, lambdynlights_api, languagereload, legendarytooltips, letmedespawn, libbamboo, libgui, libraryferret, lithium, livingthings, lolmblv, lolmbv, lolmcgt, lolmcmv, lolmcmv-aft, lolmct, lolmcv, lolmft, lolmgv, lolmlmv, lolmlv, lolmst, lolmsv, lootr, magnumtorch, make_bubbles_pop, marlows-crystal-optimizer, mavapi, mavm, mcwpaintings, mes, midnightlib, mine-spawners, mixintrace, mixson, mns, modernfix, modmenu, morechathistory, moreculling, morediscs, moremobs, mostructures, mr_better_babies, mr_dungeons_andtaverns, mr_katters_structures, mr_true_ending, mru, mstv-base, mstv-masv, mstv-mfrv, mstv-mtoolv, music_sync, mvs, namepain, nethermap, nochatreports, noisium, norefreshscroll, notenoughanimations, online_emotes, onlyhammers, optigui, owo, paginatedadvancements, particle_core, particular, peek, ping-wheel, placeableblazerods, placeholder-api, playeranimator, polymer-core, polymer-resource-pack, polytone, presencefootsteps, pride, prism, promenade, puzzle, quad-lolmbdv, quad-lolmbhv, quad-lolmjnv, quad-lolmsmv, quad-mstv-mtv, real-arrow-tip, realisticbees, reeses-sodium-options, reinfchest, reinfcore, repurposed_structures, reputation, resourcepackchecker, respawnablepets, rrls, searchables, seasonhud, sereneseasons, shouldersurfing, simple-armor-hud, sit, skinlayers3d, smoothscroll, snowundertrees, snowyleavesplus, snowysniffer, snuffles, sodium, sodium-extra, soul_fire_d, sound_physics_remastered, sparkle, spectrelib, spookydoors, spruceui, stack-to-nearby-chests, statuemenus, status-effect-bars, styledplayerlist, suggestion_tweaker, superbsteeds, supermartijn642corelib, taxfreelevels, tcdcommons, terraform-biome-remapper-api-v1, terraform-shapes-api-v1, terraform-surfaces-api-v1, terraform-wood-api-v1, tier-tagger, tool_trims, toomanypaintings, totally_lit, trade_cycling, trimmable_tools, ukulib, ukus-armor-hud, universal-graves, universal_ores, vinurl, visibletraders, visuality, visualoverhaul, visualworkbench, vmp, voicechat, void_lib, watut, waveycapes, waystones, weaponmaster_ydm, wilderwild, wildfire_gender, worldplaytime, xxlpackets, yet_another_config_lib_v3, yosbr, zoomify, continuity:glass_pane_culling_fix, continuity:default, file/SodiumTranslations.zip, file/Mod Menu Helper.zip, file/Chat Reporting Helper.zip, visualoverhaul:nobrewingbottles, visualoverhaul:coloredwaterbucket, wilderwild:wilder_extra_music, totally_lit:unlit_campfire, file/Fancy Crops v1.1.zip, file/LowOnFire 1.21.4.zip, file/Unique Dark 1.20.2-1.21.x (free).zip, file/qrafty's-capitalized-font.zip, file/better_flame_particles-v2.2-mc1.14x-1.21x-resourcepack.zip, file/Better-Leaves-9.1.zip, cullleaves:smartleaves, file/AL's Creepers Revamped 1.4.zip, file/Better Lanterns v1.2 - 1.21.4.zip
+[19:23:09] [Worker-ResourceReload-2/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[19:23:09] [Worker-ResourceReload-4/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[19:23:09] [Render thread/WARN]: Invalid path in datapack: movingelevators:textures/gui/gui concept.png, ignoring
+[19:23:09] [ForkJoinPool.commonPool-worker-2/INFO]: Registered 0 extra models
+[19:23:09] [Render thread/INFO]: [FANCYMENU] Initializing screen customization engine! Addons should NOT REGISTER TO REGISTRIES anymore now!
+[19:23:10] [Render thread/INFO]: [DRIPPY LOADING SCREEN] Creating DrippyOverlayScreen instance..
+[19:23:10] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: drippy_loading_overlay
+[19:23:10] [Render thread/INFO]: [FANCYMENU] Starting late client initialization phase..
+[19:23:10] [Render thread/INFO]: [KONKRETE] Client-side modules initialized and ready to use!
+[19:23:10] [Render thread/INFO]: Cached all modded block culling states
+[19:23:10] [Render thread/INFO]: Registering S2C receiver with id omegaconfig:sync
+[19:23:11] [Render thread/INFO]: [STDERR]: java.lang.ClassNotFoundException: new.blay09.mods.hardcorerevival.compat.InventoryTotemAddon
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:226)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.Class.forName0(Native Method)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.Class.forName(Class.java:421)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.Class.forName(Class.java:412)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at knot//net.blay09.mods.balm.fabric.client.FabricBalmClientRuntime.lambda$new$0(FabricBalmClientRuntime.java:46)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at knot//net.blay09.mods.balm.fabric.event.FabricBalmEvents.fireEventHandler(FabricBalmEvents.java:42)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at knot//net.blay09.mods.balm.fabric.event.FabricBalmEvents.lambda$fireEventHandlers$0(FabricBalmEvents.java:37)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at knot//net.blay09.mods.balm.fabric.event.FabricBalmEvents.fireEventHandlers(FabricBalmEvents.java:37)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at knot//net.blay09.mods.balm.fabric.event.client.FabricBalmClientEvents.lambda$registerEvents$5(FabricBalmClientEvents.java:92)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at knot//net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientLifecycleEvents.lambda$static$0(ClientLifecycleEvents.java:35)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_310.handler$dai000$fabric-lifecycle-events-v1$onStart(class_310.java:20092)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at knot//net.minecraft.class_310.method_1514(class_310.java:903)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at knot//net.minecraft.client.main.Main.main(Main.java:267)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+[19:23:11] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[19:23:11] [Render thread/INFO]: Post-Initializing Mod
+[19:23:11] [Render thread/INFO]: Mod Post-Initialized
+[19:23:11] [Render thread/INFO]: [Quilt DFU API] Clientside DataFixer Registry is about to freeze
+[19:23:11] [Render thread/INFO]: [Quilt DFU API] Clientside DataFixer Registry was frozen
+[19:23:11] [Render thread/INFO]: [Grind Enchantments] Reading client config.
+[19:23:11] [Render thread/INFO]: [Grind Enchantments] Reading server config.
+[19:23:11] [Render thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
+[19:23:11] [Render thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[19:23:11] [Render thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[19:23:11] [Render thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[19:23:11] [Render thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[19:23:11] [Render thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[19:23:11] [Render thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
+[19:23:11] [Render thread/INFO]: Start loading plugin from Your Reputation: atonkish.reputation.ReputationPlugin
+[19:23:11] [Render thread/INFO]: Start loading plugin from Shoulder Surfing Reloaded: com.github.exopandora.shouldersurfing.integration.ShoulderSurfingJadePlugin
+[19:23:11] [Render thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
+[19:23:12] [Render thread/INFO]: Loaded AmbientEngine 'basic' v3.1.0. 11 dimension(s), 11 features, 11 blockgroups, 2 sound collections, 37 regions, 58 sounds, 11 sound categories, 4 solids and 2 biome types
+[19:23:12] [Render thread/INFO]: Loading PlayerAnimator support!
+[19:23:12] [Render thread/INFO]: Loaded Vanilla Hands items: []
+[19:23:12] [Render thread/INFO]: Loaded Auto Disable items: []
+[19:23:13] [Render thread/INFO]: Profile: Custom (+9 options changed by user)
+[19:23:14] [Render thread/INFO]: Using shaderpack: ComplementaryUnbound_r5.4.zip
+[19:23:14] [Render thread/INFO]: [DRIPPY LOADING SCREEN] Reloading fonts for text rendering..
+[19:23:14] [Render thread/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[19:23:15] [Render thread/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[19:23:15] [Worker-ResourceReload-0/WARN]: Missing block model: 'minecraft:block/cube_bottom_all'
+[19:23:15] [Worker-ResourceReload-0/WARN]: Missing block model: 'quad-lolmbhv:block/warped_beehive'
+[19:23:15] [Worker-ResourceReload-0/WARN]: Missing block model: 'quad-lolmbhv:block/spruce_beehive'
+[19:23:15] [Worker-ResourceReload-0/WARN]: Missing block model: 'quad-lolmbhv:block/mangrove_beehive'
+[19:23:15] [Worker-ResourceReload-0/WARN]: Missing block model: 'quad-lolmbhv:block/dark_oak_beehive'
+[19:23:15] [Worker-ResourceReload-0/WARN]: Missing block model: 'quad-lolmbhv:block/bamboo_beehive'
+[19:23:15] [Worker-ResourceReload-0/WARN]: Missing block model: 'quad-lolmbhv:block/cherry_beehive'
+[19:23:15] [Worker-ResourceReload-0/WARN]: Missing block model: 'quad-lolmbhv:block/crimson_beehive'
+[19:23:15] [Worker-ResourceReload-0/WARN]: Missing block model: 'quad-lolmbhv:block/jungle_beehive'
+[19:23:15] [Worker-ResourceReload-0/WARN]: Missing block model: 'quad-lolmbhv:block/birch_beehive'
+[19:23:15] [Worker-ResourceReload-0/WARN]: Missing block model: 'quad-lolmbhv:block/acacia_beehive'
+[19:23:15] [Worker-ResourceReload-0/WARN]: Missing block model: 'minecraft:builtin/entity'
+[19:23:16] [Worker-ResourceReload-0/WARN]: Missing block model: 'tooltrims:item/trims/bow_tracks_amethyst'
+[19:23:16] [Worker-ResourceReload-0/WARN]: Missing block model: 'tooltrims:item/trims/bow_tracks_copper'
+[19:23:16] [Worker-ResourceReload-0/WARN]: Missing block model: 'tooltrims:item/trims/bow_tracks_diamond'
+[19:23:16] [Worker-ResourceReload-0/WARN]: Missing block model: 'tooltrims:item/trims/bow_tracks_emerald'
+[19:23:16] [Worker-ResourceReload-0/WARN]: Missing block model: 'tooltrims:item/trims/bow_tracks_gold'
+[19:23:16] [Worker-ResourceReload-0/WARN]: Missing block model: 'tooltrims:item/trims/bow_tracks_iron'
+[19:23:16] [Worker-ResourceReload-0/WARN]: Missing block model: 'tooltrims:item/trims/bow_tracks_lapis'
+[19:23:16] [Worker-ResourceReload-0/WARN]: Missing block model: 'tooltrims:item/trims/bow_tracks_netherite'
+[19:23:16] [Worker-ResourceReload-0/WARN]: Missing block model: 'tooltrims:item/trims/bow_tracks_quartz'
+[19:23:16] [Worker-ResourceReload-0/WARN]: Missing block model: 'tooltrims:item/trims/bow_tracks_redstone'
+[19:23:16] [Worker-ResourceReload-0/WARN]: Missing block model: 'tooltrims:item/trims/bow_tracks_resin'
+[19:23:16] [Worker-ResourceReload-0/WARN]: Missing block model: 'promenade:block/blueberry_bush'
+[19:23:20] [Worker-ResourceReload-0/WARN]: Unresolved texture references in better_babies:entity/baby_bee#inventory:
+	#0-> #texture
+
+[19:23:20] [Worker-ResourceReload-0/WARN]: Unresolved texture references in better_babies:entity/baby_bee#inventory:
+	#0-> #texture
+
+[19:23:23] [Worker-ResourceReload-0/WARN]: Unresolved texture references in better_babies:entity/baby_bee_angry#inventory:
+	#0-> #texture
+
+[19:23:23] [Worker-ResourceReload-0/WARN]: Unresolved texture references in better_babies:entity/baby_bee_angry#inventory:
+	#0-> #texture
+
+[19:23:26] [Worker-ResourceReload-0/WARN]: Missing textures in model totally_lit:unlit_lantern#hanging=false,waterlogged=false:
+    minecraft:textures/atlas/blocks.png:minecraft:block/
+[19:23:26] [Worker-ResourceReload-0/WARN]: Missing textures in model totally_lit:unlit_lantern#hanging=true,waterlogged=false:
+    minecraft:textures/atlas/blocks.png:minecraft:block/
+[19:23:26] [Worker-ResourceReload-0/WARN]: Missing textures in model minecraft:soul_lantern#inventory:
+    minecraft:textures/atlas/blocks.png:minecraft:block/
+[19:23:26] [Worker-ResourceReload-0/WARN]: Missing textures in model totally_lit:unlit_soul_lantern#hanging=true,waterlogged=true:
+    minecraft:textures/atlas/blocks.png:minecraft:block/
+[19:23:26] [Worker-ResourceReload-0/WARN]: Missing textures in model minecraft:lantern#inventory:
+    minecraft:textures/atlas/blocks.png:minecraft:block/
+[19:23:26] [Worker-ResourceReload-0/WARN]: Missing textures in model totally_lit:glowstone_lantern#hanging=true,waterlogged=false:
+    minecraft:textures/atlas/blocks.png:minecraft:block/
+[19:23:26] [Worker-ResourceReload-0/WARN]: Missing textures in model totally_lit:unlit_soul_lantern#hanging=false,waterlogged=true:
+    minecraft:textures/atlas/blocks.png:minecraft:block/
+[19:23:26] [Worker-ResourceReload-0/WARN]: Missing textures in model totally_lit:glowstone_lantern#hanging=false,waterlogged=true:
+    minecraft:textures/atlas/blocks.png:minecraft:block/
+[19:23:26] [Worker-ResourceReload-0/WARN]: Missing texture references in model minecraft:decorated_pot#cracked=true,facing=east,waterlogged=false:
+    particle
+[19:23:26] [Worker-ResourceReload-0/WARN]: Missing texture references in model minecraft:decorated_pot#cracked=true,facing=west,waterlogged=true:
+    particle
+[19:23:26] [Worker-ResourceReload-0/WARN]: Missing texture references in model minecraft:decorated_pot#cracked=true,facing=south,waterlogged=true:
+    particle
+[19:23:26] [Worker-ResourceReload-0/WARN]: Missing texture references in model minecraft:structure_block#inventory:
+    particle
+[19:23:26] [Worker-ResourceReload-0/WARN]: Missing texture references in model minecraft:decorated_pot#cracked=true,facing=north,waterlogged=false:
+    particle
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=0,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=0,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=1,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=1,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=2,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=2,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=3,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=3,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=4,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=4,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=5,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=5,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=6,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=6,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=7,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=7,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=8,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=8,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=9,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=9,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=10,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=10,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=11,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=11,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=12,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=12,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=13,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=13,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=14,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=14,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=15,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=true,rotation=15,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=0,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=0,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=1,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=1,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=2,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=2,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=3,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=3,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=4,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=4,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=5,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=5,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=6,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=6,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=7,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=7,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=8,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=8,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=9,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=9,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=10,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=10,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=11,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=11,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=12,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=12,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=13,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=13,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=14,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=14,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=15,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:grave#is_locked=false,rotation=15,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=0,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=0,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=1,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=1,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=2,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=2,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=3,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=3,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=4,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=4,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=5,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=5,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=6,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=6,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=7,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=7,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=8,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=8,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=9,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=9,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=10,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=10,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=11,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=11,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=12,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=12,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=13,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=13,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=14,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=14,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=15,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=true,rotation=15,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=0,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=0,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=1,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=1,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=2,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=2,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=3,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=3,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=4,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=4,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=5,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=5,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=6,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=6,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=7,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=7,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=8,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=8,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=9,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=9,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=10,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=10,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=11,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=11,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=12,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=12,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=13,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=13,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=14,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=14,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=15,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:visual_grave#is_locked=false,rotation=15,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=0,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=0,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=1,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=1,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=2,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=2,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=3,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=3,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=4,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=4,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=5,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=5,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=6,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=6,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=7,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=7,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=8,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=8,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=9,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=9,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=10,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=10,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=11,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=11,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=12,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=12,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=13,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=13,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=14,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=14,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=15,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=true,rotation=15,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=0,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=0,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=1,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=1,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=2,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=2,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=3,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=3,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=4,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=4,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=5,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=5,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=6,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=6,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=7,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=7,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=8,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=8,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=9,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=9,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=10,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=10,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=11,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=11,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=12,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=12,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=13,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=13,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=14,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=14,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=15,waterlogged=true'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:container_grave#is_locked=false,rotation=15,waterlogged=false'
+[19:23:27] [Worker-ResourceReload-0/WARN]: Missing model for variant: 'universal_graves:temp_block#'
+[19:23:27] [Render thread/WARN]: Core shader modifications detected. Temporarily disabling some parts of ImmediatelyFast.
+[19:23:27] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Reproduktory (High Definition Audio Device)
+[19:23:27] [Render thread/INFO]: Initializing Sound Physics
+[19:23:27] [Render thread/INFO]: EFX Extension recognized
+[19:23:27] [Render thread/INFO]: Max auxiliary sends: 4
+[19:23:27] [Render thread/INFO]: Aux slot 1 created
+[19:23:27] [Render thread/INFO]: Aux slot 2 created
+[19:23:27] [Render thread/INFO]: Aux slot 3 created
+[19:23:27] [Render thread/INFO]: Aux slot 4 created
+[19:23:27] [Render thread/INFO]: EFX ready
+[19:23:27] [Render thread/INFO]: Sound engine started
+[19:23:27] [Render thread/INFO]: [FANCYMENU] Reloading AudioResourceHandler after Minecraft SoundEngine reload..
+[19:23:27] [Render thread/INFO]: Created: 4096x4096x0 minecraft:textures/atlas/blocks.png-atlas
+[19:23:27] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/signs.png-atlas
+[19:23:27] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
+[19:23:27] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
+[19:23:27] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/armor_trims.png-atlas
+[19:23:27] [Render thread/INFO]: Created: 1024x1024x0 customizableelytra:textures/atlas/elytra_patterns.png-atlas
+[19:23:27] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/chest.png-atlas
+[19:23:27] [Render thread/INFO]: Created: 128x64x0 minecraft:textures/atlas/decorated_pot.png-atlas
+[19:23:27] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/beds.png-atlas
+[19:23:27] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/shulker_boxes.png-atlas
+[19:23:27] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[19:23:28] [Render thread/WARN]: @Redirect conflict. Skipping shouldersurfing.common.mixins.json:MixinCapeLayer from mod shouldersurfing->@Redirect::entitySolid(Lnet/minecraft/class_2960;)Lnet/minecraft/class_1921; with priority 500, already redirected by mixins.customskinloader.json:MixinLayerCape from mod customskinloader->@Redirect::redirect_doRenderLayer(Lnet/minecraft/class_2960;)Lnet/minecraft/class_1921; with priority 990
+[19:23:28] [Render thread/INFO]: [STDOUT]: WeaponMaster Feature is OK!
+[19:23:28] [Render thread/INFO]: [STDOUT]: WeaponMaster Feature is OK!
+[19:23:28] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/particles.png-atlas
+[19:23:28] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/paintings.png-atlas
+[19:23:28] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[19:23:28] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/gui.png-atlas
+[19:23:31] [Render thread/INFO]: [FANCYMENU] Reloading resources..
+[19:23:31] [Render thread/INFO]: [FANCYMENU] Pre-loading resources..
+[19:23:31] [Render thread/INFO]: Config 'compatible-containers-common.json' was successfully loaded
+[19:23:31] [Render thread/INFO]: Config 'player-preferences-client.json' was successfully loaded
+[19:23:31] [Render thread/INFO]: Forcing leaf culling as requested by resourcepack
+[19:23:32] [Render thread/WARN]: Invalid path in datapack: movingelevators:textures/gui/gui concept.png, ignoring
+[19:23:32] [Render thread/WARN]: Invalid path in datapack: movingelevators:textures/gui/gui concept.png, ignoring
+[19:23:32] [Render thread/INFO]: Successfully loaded image 'zoomify:textures/demo/third-person-hud.webp'
+[19:23:32] [Render thread/INFO]: Successfully loaded image 'zoomify:textures/demo/third-person-view.webp'
+[19:23:32] [Render thread/INFO]: Successfully loaded image 'zoomify:textures/demo/zoom-hand.webp'
+[19:23:32] [Render thread/INFO]: Successfully loaded image 'zoomify:textures/demo/zoom-world.webp'
+[19:23:32] [Render thread/INFO]: Successfully loaded image 'snowundertrees:textures/gui/options/enablebiomefeature.webp'
+[19:23:32] [Render thread/INFO]: Successfully loaded image 'snowundertrees:textures/gui/options/enablewhensnowing.webp'
+[19:23:32] [Render thread/INFO]: Successfully loaded image 'bettergrass:textures/images/bettergrassmode.webp'
+[19:23:32] [Render thread/INFO]: Successfully loaded image 'controlify:textures/screenshots/reach-around-placement.webp'
+[19:23:32] [Render thread/INFO]: Successfully loaded image 'controlify:textures/screenshots/reduce-aim-sensitivity.webp'
+[19:23:32] [Render thread/INFO]: Successfully loaded image 'controlify:textures/screenshots/screen-button-guide.webp'
+[19:23:32] [Render thread/INFO]: [FANCYMENU] Minecraft resource reload: FINISHED
+[19:23:32] [Render thread/INFO]: [ETF]: reloading ETF data.
+[19:23:32] [Render thread/INFO]: [ETF]: emissive suffixes loaded: {_e}.
+[19:23:32] [Render thread/INFO]: [ETF]: emissive suffixes loaded: {_e}.
+[19:23:32] [Render thread/INFO]: Checking for Distant Horizons update
+[19:23:32] [Render thread/INFO]: Distant Horizons already up to date.
+[19:23:32] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: title_screen
+[19:23:32] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
+[19:23:33] [IO-Worker-1/INFO]: Could not authorize you against Realms server: Invalid session id
+[19:23:33] [IO-Worker-1/ERROR]: Couldn't connect to realms
+net.minecraft.class_4355: Realms authentication error with message 'Invalid session id'
+	at knot/net.minecraft.class_4341.method_20998(class_4341.java:445) ~[client-intermediary.jar:?]
+	at knot/net.minecraft.class_4341.method_21027(class_4341.java:232) ~[client-intermediary.jar:?]
+	at knot/net.minecraft.class_8647.method_52627(class_8647.java:51) ~[client-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[19:23:34] [Render thread/WARN]: Type is VERTEX
+[19:23:34] [Render thread/WARN]: Type is FRAGMENT
+[19:23:34] [Render thread/WARN]: Type is VERTEX
+[19:23:34] [Render thread/WARN]: Type is FRAGMENT
+[19:23:34] [Render thread/WARN]: Type is VERTEX
+[19:23:34] [Render thread/WARN]: Type is FRAGMENT
+[19:23:35] [Render thread/INFO]: Initializing Controlify...
+[19:23:35] [Render thread/INFO]: Loading Controlify config...
+[19:23:36] [Render thread/INFO]: Steam Deck state: NOT_STEAM_DECK
+[19:23:38] [Render thread/INFO]: watut: xaero minimap not installed or mod structure changed
+[19:23:38] [Render thread/WARN]: Game took 74.877 seconds to start
+[19:24:26] [Render thread/INFO]: Stopping!
+[19:24:26] [CullThread/INFO]: [STDOUT]: Shutting down culling task!
+[19:24:26] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: progress_screen
+[19:24:26] [Render thread/INFO]: [FastQuit] Exiting FastQuit.

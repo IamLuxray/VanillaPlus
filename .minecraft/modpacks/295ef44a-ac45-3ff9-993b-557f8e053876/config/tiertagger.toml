@@ -1,0 +1,7 @@
+enabled = true
+gameMode = "VANILLA"
+showRetired = true
+highestMode = "NOT_FOUND"
+shownStatistic = "TIER"
+showIcons = true
+baseUrl = "https://api.uku3lig.net/tiers"
