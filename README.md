@@ -98,14 +98,14 @@ Pokud máš systémový disk **D: / E: / apod.**, proveď navíc tento krok:
 
 ## ❗ **Známé problémy**  
 
-- **První spawn** je **ve velké výšce**, což může znamenat **pádovou smrt**. Další respawny už jsou v pohodě.  
-- **Distant Horizons mod** (větší vykreslovaná vzdálenost) **někdy přestane renderovat chunky** po změně nastavení.  
+- **První spawn** je **ve velké výšce**, což může znamenat **smrt pádem z  výšky**. Další respawny už jsou ale v pohodě.  
+- **Distant Horizons mod** (mod na větší vykreslovanou vzdálenost) **někdy přestane renderovat chunky** po změně jeho nastavení.  
   - **Fix:** Restartuj svět nebo hru.  
 - **Některé keybindy se kryjí**, ale to si můžeš snadno upravit.  
 
 ---
 
-## 📜 **Seznam modů (výběr)**  
+## 📜 **Seznam modů**  
 
 ```sh
  accessories-fabric-1.2.19-beta+1.21.4.jar<br>
