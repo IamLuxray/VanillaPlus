@@ -43,7 +43,7 @@ Dají se udržet na stabilních 60fps a to i s ass PC:<br>
 
 ## Zatím známé problémy:
 - Úplně první spawn po vytvoření světa je ve velké výšce, což může znamenat i fall death, ale pak respawny už jsou OK.<br>
-- Distant horizons mod (velká vykraslovaná vzdálenost) se po změně nastavení často rozbije a přestává renderovat chunky, takže je lepší to nastavit a reloadnout svět / restartovat hru.<br>
+- Distant horizons mod (velká vykraslovaná vzdálenost) se po změně nastavení často rozbije a přestává renderovat chunky, v takovém případě stačí po nastavení reloadnout svět / restartovat hru.<br>
 - některé keybindy se vzájemně kryjí, ale to se dá ez fixnout když človek není lazy (sry)<br>
 
 ## Mod list:
