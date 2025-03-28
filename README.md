@@ -93,6 +93,10 @@ Pokud máš systémový disk **D: / E: / apod.**, proveď navíc tento krok:
 ![Screenshot 3](2025-03-27_22.48.08_4K.png?raw=true)  
 
 ---
+![Screenshot 3](2025-03-28_18.58.48_4K.png?raw=true)  
+![Screenshot 3](2025-03-28_19.01.48_4K.png?raw=true)  
+   
+---
 
 ## ❗ **Známé problémy**  
 
