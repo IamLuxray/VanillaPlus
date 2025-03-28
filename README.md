@@ -127,10 +127,4 @@ better-babies-0.7.17.jar
 better-lush-caves-1.3.3.jar
 ...
 ```
-📁 _(Kompletní seznam je dostupný ve složce modpacku.)_  
-
----
-
-📩 **Pokud máš jakékoliv problémy, napiš mi!** 🚀  
-
-Tady máš README vylepšené pro lepší čitelnost, s čistým GitHub markdownem a ikonami pro rychlou orientaci. Pokud chceš další úpravy, dej vědět! 🚀
+📁 _(Kompletní seznam je dostupný ve složce modpacku.)_
