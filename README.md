@@ -24,7 +24,7 @@
    - Ve spodním okně najdi řádek začínající **Path** → Klikni na **Upravit...**  
    - Najdi **jakoukoliv zmínku o Java nebo Oracle** (většinou na disku, kde je Windows, např. C:).  
    - **Odstraň ji** → Klikni na **OK** → Zavři všechna okna.  
-4. Stáhni a nainstaluj [**JDK 24**](https://download.oracle.com/java/24/latest/jdk-24_windows-x64_bin.exe).  
+4. Stáhni a nainstaluj **JDK 24**(https://download.oracle.com/java/24/latest/jdk-24_windows-x64_bin.exe).  
 5. Po instalaci znovu spusť **CMD** a napiš:  
    ```sh
    java -version
