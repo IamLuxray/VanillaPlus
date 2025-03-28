@@ -41,6 +41,11 @@ Dají se udržet na stabilních 60fps a to i s ass PC:<br>
 <img src="2025-03-27_23.18.06_4K.png?raw=true" alt="Správně"><br>
 <img src="2025-03-27_23.19.32_4K.png?raw=true" alt="Správně"><br>
 
+## Zatím známé problémy:
+- Úplně první spawn po vytvoření světa je ve velké výšce, což může znamenat i fall death, ale pak respawny už jsou OK.<br>
+- Distant horizons mod (velká vykraslovaná vzdálenost) se po změně nastaví často rozbije a přestává renderovat chunky, takže je lepší to nastavit a reloadnout svět / restartovat hru.<br>
+- některé keybindy se vzájemně kryjí, ale to se dá ez fixnout když človek není lazy (sry)<br>
+
 ## Mod list:
 
 actuallyharvest-1.21.4-1.1.2.1-FABRIC.jar<br>
