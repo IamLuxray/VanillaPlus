@@ -19,7 +19,7 @@ Přes 370 modů, ale jen zaměřených na visuální stránku a QoL aspekt, za s
 10. HOTOVO! -> Teď můžeš ze zástupce hrát MC. V tom SK launcheru se pak můžeš odhlásit a přihlásit se svým (warez) jménem.
 
 ## POKUD MÁŠ JINÝ DISK SE SYSTÉMEM NEŽ DISK C:/ (např. D:/, E:/ apod.) TAK JEŠTĚ MUSÍŠ PROVÉST NÁSLEDUJÍCÍ.:
-1. Pravým klikni na zástupce SKlauncher který je ve složce %appdata%\Roaming\sklauncher -> Vlastnosti -> nahoře záložka Zástupce -> řádek Cíl uprav tak, aby tam bylo:
+1. Pravým klikni na zástupce SKlauncher který sis dal na plochu nebo je ve složce %appdata%\Roaming\sklauncher -> Vlastnosti -> nahoře záložka Zástupce -> řádek Cíl uprav tak, aby tam bylo:
    **PISMENO DISKU**:\Users\ **NAZEV UCTU**\AppData\Roaming\sklauncher\jre\bin\javaw.exe -Xmx512M -jar "**PISMENO DISKU**\Users\ **NAZEV UCTU**\AppData\Roaming\sklauncher\SKlauncher.jar"<br>
 Například E:\Users\Skibidi\AppData\Roaming\sklauncher\jre\bin\javaw.exe -Xmx512M -jar "E:\Users\Skibidi\AppData\Roaming\sklauncher\SKlauncher.jar"
    <br>-> nevynech dvojtečku ani uvozovky!
