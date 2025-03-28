@@ -86,7 +86,7 @@ Pokud máš systémový disk **D: / E: / apod.**, proveď navíc tento krok:
 
 ---
 
-## 📷 **Gameplay screenshoty (4K, Solas Shaders)**  
+## 📷 **Gameplay screenshoty (4K, 3x Solas Shaders High preset a 2x BSL shaders High preset)**  
 
 ![Screenshot 1](2025-03-27_21.57.29_4K.png?raw=true)  
 ![Screenshot 2](2025-03-27_22.49.37_4K.png?raw=true)  
