@@ -8,7 +8,7 @@ Přes 370 modů, ale jen zaměřených na visuální stránku a QoL aspekt, za s
 2. <img src="https://github.com/IamLuxray/VanillaPlus/blob/main/screen1.PNG?raw=true" alt="Správně">
 3. Start -> Upravit proměnné prostředí systému -> nahoře žáložka upřesnit -> Proměnné prostředí... -> ve spodním okně řádek začínající Path -> Upravit... -> najdi řádek, kde je jakákoliv zmínka o Java nebo Oracle (většinou na disku kde je i Windows, např. C:) -> Odstranit... -> OK -> OK -> OK.
 4. nainstaluj JDK 24: https://download.oracle.com/java/24/latest/jdk-24_windows-x64_bin.exe
-5. po instalaci znovu otevři CMD -> **java -version**   -> stiskni Enter -> jestli teď neuvidíš 24, tak seš v prdeli a musíš mi napsat.
+5. po instalaci znovu otevři CMD -> **java -version**   -> stiskni Enter -> jestli teď neuvidíš 24, tak mi napiš na Messenger a fixnem to.
    
 ## Instalace
 
