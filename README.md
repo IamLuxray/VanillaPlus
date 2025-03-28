@@ -2,7 +2,7 @@
 
 # **Vanilla+ Minecraft 1.21.4 (Fabric) – Modpack**  
 
-💎 **Více než 370 modů** zaměřených pouze na **vizuální stránku a QoL vylepšení**, přičemž zachovávají **Vanilla gameplay a feel**.  
+💎 **Více než 390 modů** zaměřených pouze na **vizuální stránku a QoL vylepšení**, přičemž zachovávají **Vanilla gameplay a feel**.  
 
 ---
 
