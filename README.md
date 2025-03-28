@@ -101,30 +101,5 @@ Pokud máš systémový disk **D: / E: / apod.**, proveď navíc tento krok:
 ## 📜 **Seznam modů (výběr)**  
 
 ```sh
-accessories-fabric-1.2.19-beta+1.21.4.jar
-actuallyharvest-1.21.4-1.1.2.1-FABRIC.jar
-additionallanterns-1.1.1-fabric-mc1.21.4.jar
-AdditionalStructures-1.21.x-(v.5.0.1-fabric).jar
-adorabuild-structures-2.9.1-fabric-1.21.4.jar
-advancednetherite-fabric-2.2.2-1.21.4.jar
-AdvancementPlaques-1.21.4-fabric-1.6.9.jar
-Almanac-1.21.3-fabric-1.4.4.jar
-AmbientSounds_FABRIC_v6.1.3_mc1.21.4.jar
-animal_feeding_trough-1.1.3+1.21.4.jar
-appleskin-fabric-mc1.21.3-3.0.6.jar
-architectury-15.0.3-fabric.jar
-areas-1.21.4-6.1.jar
-armored-elytra-1.4.1.jar
-ArmorStatues-v21.4.0-1.21.4-Fabric.jar
-ArmorTrimItemFix-fabric-1.21.4-2.0.0.jar
-audio_engine_tweaks-1.2.6-MC1.21.1 build 22.jar
-axolotlbuckets-1.4.1+1.21.4.jar
-BadOptimizations-2.2.1-1.21.2-21.4.jar
-badpackets-fabric-0.8.2.jar
-balm-fabric-1.21.4-21.4.22.jar
-Bedrodium-0.3.0.jar
-better-babies-0.7.17.jar
-better-lush-caves-1.3.3.jar
-...
+ accessories-fabric-1.2.19-beta+1.21.4.jar actuallyharvest-1.21.4-1.1.2.1-FABRIC.jar additionallanterns-1.1.1-fabric-mc1.21.4.jar AdditionalStructures-1.21.x-(v.5.0.1-fabric).jar adorabuild-structures-2.9.1-fabric-1.21.4.jar advancednetherite-fabric-2.2.2-1.21.4.jar AdvancementPlaques-1.21.4-fabric-1.6.9.jar Almanac-1.21.3-fabric-1.4.4.jar AmbientSounds_FABRIC_v6.1.3_mc1.21.4.jar animal_feeding_trough-1.1.3+1.21.4.jar appleskin-fabric-mc1.21.3-3.0.6.jar architectury-15.0.3-fabric.jar areas-1.21.4-6.1.jar armored-elytra-1.4.1.jar ArmorStatues-v21.4.0-1.21.4-Fabric.jar ArmorTrimItemFix-fabric-1.21.4-2.0.0.jar audio_engine_tweaks-1.2.6-MC1.21.1 build 22.jar axolotlbuckets-1.4.1+1.21.4.jar BadOptimizations-2.2.1-1.21.2-21.4.jar badpackets-fabric-0.8.2.jar balm-fabric-1.21.4-21.4.22.jar Bedrodium-0.3.0.jar better-babies-0.7.17.jar better-lush-caves-1.3.3.jar BetterAdvancements-Fabric-1.21.4-0.4.6.36.jar BetterAnimationsCollection-v21.4.0-1.21.4-Fabric.jar betterbeaconplacement-1.21.4-3.5.jar betterbeds-fabric-1.4.1.jar BetterGrassify-1.5.1+fabric.1.21.4.jar betterhurtcam-1.10.0+mc1.21.2.jar bettermounthud-1.2.5.jar bettersafebed-fabric-1.21.3-1.jar betterstats-3.13.9+fabric-1.21.4.jar BetterThanMending-2.2.3.jar bettervillage-fabric-1.21.4-3.3.0.jar biggerspongeabsorptionradius-1.21.4-3.7.jar bigger_end_cities-1.21.4-1.1.0.jar blooming-biospshere
 ```
-📁 _(Kompletní seznam je dostupný ve složce modpacku.)_
