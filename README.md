@@ -75,15 +75,14 @@ Pokud máš systémový disk **D: / E: / apod.**, proveď navíc tento krok:
    ```sh
    E:\Users\Skibidi\AppData\Roaming\sklauncher\jre\bin\javaw.exe -Xmx512M -jar "E:\Users\Skibidi\AppData\Roaming\sklauncher\SKlauncher.jar"
    ```
-
-   4. Uprav i řádek **Spustit v** aby také obsahoval správnou cestu na disk:
+4. Uprav i řádek **Spustit v** aby také obsahoval správnou cestu na disk:
   
    ```sh
    E:\Users\Skibidi\AppData\Roaming\sklauncher
    ```
    
    - **Nezapomeň na dvojtečky a uvozovky!** (doporučuji to zkopírovat a jen upravit nezbytné)
-   - Dej **Použít** a **OK**.
+5. Dej **Použít** a **OK**.
 ---
 
 ## 🛠️ **Manuální instalace**  (Ignoruj, pokud fungoval instalátor)
