@@ -82,7 +82,8 @@ Pokud máš systémový disk **D: / E: / apod.**, proveď navíc tento krok:
    E:\Users\Skibidi\AppData\Roaming\sklauncher
    ```
    
-   - **Nezapomeň na dvojtečky a uvozovky!** (doporučuji to zkopírovat a jen upravit nezbytné) 
+   - **Nezapomeň na dvojtečky a uvozovky!** (doporučuji to zkopírovat a jen upravit nezbytné)
+   - Dej **Použít** a **OK**.
 ---
 
 ## 🛠️ **Manuální instalace**  (Ignoruj, pokud fungoval instalátor)
