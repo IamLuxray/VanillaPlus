@@ -1,7 +1,7 @@
 ---
 
 # **Vanilla+ Minecraft 1.21.4 (Fabric) – Modpack**  
-### Stabilní **Release 2.1** je venku!
+### Stabilní **Release 2.2** včetně **automatizovaného instalátoru** je venku!
 
 💎 **Více než 390 modů** zaměřených primárně na **vizuální stránku, QoL vylepšení a exploration**, přičemž zachovávají **Vanilla gameplay a feel**.  
 
@@ -41,18 +41,11 @@
 
 ## 🛠️ **Instalace**  
 
-1. Stáhni celý **Archiv** (**Releases → Roaming.rar**) a extrahuj ho.  
-2. Otevři:  
-   ```sh
-   Start -> %appdata% -> Enter
-   ```
-   - Nacházíš se ve složce **Roaming**.  
-   - Pokud zde existuje složka **.minecraft**, **zálohuj ji** a poté **smaž**.  
-3. Vlož do složky **Roaming** staženou složku **.minecraft**.  
-4. Do stejné složky vlož i složku **sklauncher**.  
-5. Ve složce **Roaming/sklauncher** si vytvoř zástupce **SKlauncher** a přesuň ho např. na **plochu**.  
-6. ✅ **Hotovo!** Teď můžeš hrát **Minecraft** přes **SKlauncher**.  
-   - V **SKlauncheru** se můžeš odhlásit a přihlásit se svým **(warez) jménem**.  
+1. **Stáhni** celý archiv (**Releases → Roaming.rar**) a **extrahuj ho**.  
+2. **Spusť `INSTALL.bat` jako správce** (pravým kliknutím → Spustit jako správce).  
+3. ✅ **Hotovo!** Teď můžeš hrát **Minecraft** přes **SKlauncher**.  
+
+> Pokud narazíš na problém, postupuj podle **manuální instalace** níže.  
 
 ---
 
@@ -65,12 +58,34 @@ Pokud máš systémový disk **D: / E: / apod.**, proveď navíc tento krok:
 3. Uprav řádek **Cíl** tak, aby obsahoval správné písmeno disku:  
    ```sh
    [DISK]:\Users\[UZIVATEL]\AppData\Roaming\sklauncher\jre\bin\javaw.exe -Xmx512M -jar "[DISK]:\Users\[UZIVATEL]\AppData\Roaming\sklauncher\SKlauncher.jar"
+
    ```
    Například pro **E:**  
    ```sh
    E:\Users\Skibidi\AppData\Roaming\sklauncher\jre\bin\javaw.exe -Xmx512M -jar "E:\Users\Skibidi\AppData\Roaming\sklauncher\SKlauncher.jar"
    ```
    - **Nezapomeň na dvojtečku a uvozovky!**  
+---
+
+## 🛠️ **Manuální instalace**  
+
+1. Stáhni celý **Archiv** (**Releases → Roaming.rar**) a extrahuj ho.  
+2. Otevři:  
+   ```sh
+   Start -> %appdata% -> Enter
+Nacházíš se ve složce Roaming.
+
+Pokud zde existuje složka .minecraft, zálohuj ji a poté smaž.
+
+Vlož do složky Roaming staženou složku .minecraft.
+
+Do stejné složky vlož i složku sklauncher.
+
+Ve složce Roaming/sklauncher si vytvoř zástupce SKlauncher a přesuň ho např. na plochu.
+
+✅ Hotovo! Teď můžeš hrát Minecraft přes SKlauncher.
+
+V SKlauncheru se můžeš odhlásit a přihlásit se svým (warez) jménem.
 
 ---
 
