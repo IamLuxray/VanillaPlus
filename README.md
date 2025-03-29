@@ -10,7 +10,7 @@
 ## 📌 **Prerekvizity**  
 
 ### ☕ **Java JDK 22+**  
-1. Otevři **CMD** a napiš:
+1. Otevři **CMD** (windows tlačítko -> napiš cmd a dej Enter) a napiš:
 
    ```sh
    java -version
@@ -21,7 +21,7 @@
 4. Otevři:
    
    ```sh
-   Start -> Upravit proměnné prostředí systému  
+   Start (windows tlačítko) -> napiš Upravit proměnné prostředí systému  
    ```
    
    - V **záložce Upřesnit** klikni na **Proměnné prostředí...**  
@@ -35,18 +35,19 @@
    java -version
    ```
    
-   - Pokud **neuvidíš 24**, napiš mi na **Messenger** a fixneme to.  
+   - Pokud **neuvidíš 24**, napiš mi na Messenger a fixneme to.  
 
 ---
 
 ## 🛠️ **Instalace**  
 
 1. **Stáhni** celý archiv (**Releases → 2.2.rar**) a **extrahuj ho**.  
-2. **Spusť `INSTALL.bat` jako správce** (pravým kliknutím → Spustit jako správce).
+2. Uvnitř extrahované složky 2.2/ spusť `INSTALL.bat` **jako správce** (pravým kliknutím → Spustit jako správce). - bez oprávnění správce automatizovaná instalace **nepůjde**.
 3. Postupuj v instalaci (např. se tě zeptá na zálohu apod.).
-4. ✅ **Hotovo!** Teď můžeš hrát **Minecraft** přes **SKlauncher**.  
+4. Zkontroluj, že máš složky na místě -> Start -> napiš **%appdata%** a dej Enter. ->Ve složce co se ti otevře by nahoře měla být složka .minecraft. Pokdu ano, jsi v suchu.
+5. ✅ **Hotovo!** Teď můžeš hrát **Minecraft** přes **SKlauncher** nově na tvé **ploše**.  
 
-> Pokud narazíš na problém, postupuj podle **manuální instalace** níže.  
+> Pokud narazíš na problém, postupuj podle **Manuální instalace** níže.  
 
 ---
 
@@ -54,21 +55,21 @@
 
 Pokud máš systémový disk **D: / E: / apod.**, proveď navíc tento krok:  
 
-1. Klikni **pravým tlačítkem** na zástupce **SKlauncher** (na ploše nebo v **%appdata%\Roaming\sklauncher**).  
-2. Otevři **Vlastnosti** → Přepni na záložku **Zástupce**.  
-3. Uprav řádek **Cíl** tak, aby obsahoval správné písmeno disku:  
+1. Klikni **pravým tlačítkem** na zástupce **SKlauncher** (který se po instalaci přesunul na **plochu** nebo ho teď už máš v **%appdata%\Roaming\sklauncher**).  
+2. Otevři **Vlastnosti** → Přepni na záložku **Zástupce** (nahoře).  
+3. Uprav (přepiš) řádek **Cíl** tak, aby obsahoval správné písmeno disku:  
    ```sh
    [DISK]:\Users\[UZIVATEL]\AppData\Roaming\sklauncher\jre\bin\javaw.exe -Xmx512M -jar "[DISK]:\Users\[UZIVATEL]\AppData\Roaming\sklauncher\SKlauncher.jar"
 
    ```
-   Například pro **E:**  
+   Například pro situaci, kdy mám Windows na disku **E:** a uživatel je Skibidi:
    ```sh
    E:\Users\Skibidi\AppData\Roaming\sklauncher\jre\bin\javaw.exe -Xmx512M -jar "E:\Users\Skibidi\AppData\Roaming\sklauncher\SKlauncher.jar"
    ```
-   - **Nezapomeň na dvojtečku a uvozovky!**  
+   - **Nezapomeň na dvojtečku a uvozovky!** (doporučuji to zkopírovat a jen upravit nezbytné) 
 ---
 
-## 🛠️ **Manuální instalace**  
+## 🛠️ **Manuální instalace**  (Ignoruj, pokud fungoval instalátor)
 
 1. Stáhni celý **Archiv** (**Releases → 2.2.rar**) a extrahuj ho.  
 2. Otevři:  
