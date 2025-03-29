@@ -52,8 +52,8 @@
 
 ## 🛠️ **Instalace (automatizovaná)**  
 
-1. **Stáhni** celý archiv (**Releases → 2.2.rar**) a **extrahuj ho**.  
-2. Uvnitř extrahované složky 2.2/ spusť `INSTALL.bat` **jako správce** (pravým kliknutím → Spustit jako správce). - bez oprávnění správce automatizovaná instalace **nepůjde**.
+1. **Stáhni** celý archiv (**Releases → 2.2_Stable.rar**) a **extrahuj ho**.  
+2. Uvnitř extrahované složky 2.2_Stable/ spusť `INSTALL.bat` **jako správce** (pravým kliknutím → Spustit jako správce). - bez oprávnění správce automatizovaná instalace **nepůjde**.
 3. Postupuj v instalaci (např. se tě zeptá na zálohu apod.).
 4. Zkontroluj, že máš složky na místě -> Start -> napiš **%appdata%** a dej Enter. ->Ve složce co se ti otevře by nahoře měla být složka .minecraft. Pokdu ano, jsi v suchu.
 5. ✅ **Hotovo!** Teď můžeš hrát **Minecraft** přes **SKlauncher** nově na tvé **ploše**.  
@@ -91,7 +91,7 @@ Pokud máš systémový disk **D: / E: / apod.**, proveď navíc tento krok:
 
 ## 🛠️ **Manuální instalace**  (Ignoruj, pokud fungoval instalátor)
 
-1. Stáhni celý **Archiv** (**Releases → 2.2.rar**) a extrahuj ho.  
+1. Stáhni celý **Archiv** (**Releases → 2.2_Stable.rar**) a extrahuj ho.  
 2. Otevři:  
    ```sh
    Start -> %appdata% -> Enter
