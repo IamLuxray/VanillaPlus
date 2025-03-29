@@ -17,7 +17,7 @@
    ```
    Stiskni **Enter**.  
 3. Pokud se zobrazí verze **nižší než 22**, pokračuj dalším krokem. Pokud vidíš **22 nebo vyšší** (screenshot), přeskoč na **Instalaci**.
- <img src="https://github.com/IamLuxray/VanillaPlus/blob/main/screen1.PNG?raw=true" alt="Správně">
+ <img src="https://github.com/IamLuxray/VanillaPlus/blob/main/screen3.PNG?raw=true" alt="Špatně">
 4. Otevři:
    
    ```sh
@@ -26,15 +26,15 @@
    
    - V **záložce Upřesnit** klikni na **Proměnné prostředí...**
   
-   
+   <img src="https://github.com/IamLuxray/VanillaPlus/blob/main/screen2.PNG?raw=true" alt="Správně">
    
    - Ve spodním okně najdi řádek začínající **Path** → Klikni na **Upravit...**
   
-   
+   <img src="https://github.com/IamLuxray/VanillaPlus/blob/main/screen4.PNG?raw=true" alt="Správně">
    
    - Najdi **jakoukoliv zmínku o Java nebo Oracle** (většinou na disku, kde je Windows, např. C:).
 
-
+<img src="https://github.com/IamLuxray/VanillaPlus/blob/main/screen5.PNG?raw=true" alt="Správně">
 
    - **Odstraň ji** → Klikni na **OK** → Zavři všechna okna.  
 5. Stáhni a nainstaluj **JDK 24**(https://download.oracle.com/java/24/latest/jdk-24_windows-x64_bin.exe).  
@@ -80,6 +80,8 @@ Pokud máš systémový disk **D: / E: / apod.**, proveď navíc tento krok:
    ```sh
    E:\Users\Skibidi\AppData\Roaming\sklauncher
    ```
+
+<img src="https://github.com/IamLuxray/VanillaPlus/blob/main/screen6.PNG?raw=true" alt="Správně">
    
    - **Nezapomeň na dvojtečky a uvozovky!** (doporučuji to zkopírovat a jen upravit nezbytné)
 5. Dej **Použít** a **OK**.
