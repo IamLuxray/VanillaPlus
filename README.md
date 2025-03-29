@@ -41,9 +41,10 @@
 
 ## 🛠️ **Instalace**  
 
-1. **Stáhni** celý archiv (**Releases → Roaming.rar**) a **extrahuj ho**.  
-2. **Spusť `INSTALL.bat` jako správce** (pravým kliknutím → Spustit jako správce).  
-3. ✅ **Hotovo!** Teď můžeš hrát **Minecraft** přes **SKlauncher**.  
+1. **Stáhni** celý archiv (**Releases → 2.2.rar**) a **extrahuj ho**.  
+2. **Spusť `INSTALL.bat` jako správce** (pravým kliknutím → Spustit jako správce).
+3. Postupuj v instalaci (např. se tě zeptá na zálohu apod.).
+4. ✅ **Hotovo!** Teď můžeš hrát **Minecraft** přes **SKlauncher**.  
 
 > Pokud narazíš na problém, postupuj podle **manuální instalace** níže.  
 
@@ -69,21 +70,21 @@ Pokud máš systémový disk **D: / E: / apod.**, proveď navíc tento krok:
 
 ## 🛠️ **Manuální instalace**  
 
-1. Stáhni celý **Archiv** (**Releases → Roaming.rar**) a extrahuj ho.  
+1. Stáhni celý **Archiv** (**Releases → 2.2.rar**) a extrahuj ho.  
 2. Otevři:  
    ```sh
    Start -> %appdata% -> Enter
-Nacházíš se ve složce Roaming.
+   ```
+- Nacházíš se ve složce Roaming.
+- Pokud zde existuje složka .minecraft, zálohuj ji a poté smaž.
 
-Pokud zde existuje složka .minecraft, zálohuj ji a poté smaž.
+3. Vlož do složky Roaming staženou složku .minecraft.
 
-Vlož do složky Roaming staženou složku .minecraft.
+4. Do stejné složky vlož i složku sklauncher.
 
-Do stejné složky vlož i složku sklauncher.
+5. Ve složce Roaming/sklauncher si vytvoř zástupce SKlauncher a přesuň ho např. na plochu.
 
-Ve složce Roaming/sklauncher si vytvoř zástupce SKlauncher a přesuň ho např. na plochu.
-
-✅ Hotovo! Teď můžeš hrát Minecraft přes SKlauncher.
+6. ✅ Hotovo! Teď můžeš hrát Minecraft přes SKlauncher.
 
 V SKlauncheru se můžeš odhlásit a přihlásit se svým (warez) jménem.
 
