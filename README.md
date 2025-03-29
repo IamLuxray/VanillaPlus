@@ -10,7 +10,7 @@
 ## 📌 **Prerekvizity**  
 
 ### ☕ **Java JDK 22+**  
-1. Otevři **CMD** (windows tlačítko -> napiš cmd a na **Příkazový řádek** klikni pravým -> **Spustit jako správce**) a napiš:
+1. Otevři **CMD** (windows tlačítko -> napiš **cmd** a na **Příkazový řádek** klikni pravým -> **Spustit jako správce**) a napiš:
 
    ```sh
    java -version
@@ -39,7 +39,7 @@
 
    - **Odstraň ji** → Klikni na **OK** → Zavři všechna okna.  
 5. Stáhni a nainstaluj **JDK 24**(https://download.oracle.com/java/24/latest/jdk-24_windows-x64_bin.exe).  
-6. Po instalaci znovu spusť **CMD** a napiš:
+6. Po instalaci znovu spusť **CMD** jako **Správce** a napiš:
    
    ```sh
    java -version
