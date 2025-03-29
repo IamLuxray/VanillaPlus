@@ -17,7 +17,7 @@
    ```
    Stiskni **Enter**.  
 3. Pokud se zobrazí verze **nižší než 22**, pokračuj dalším krokem. Pokud vidíš **22 nebo vyšší** (screenshot), přeskoč na **Instalaci**.
- <img src="https://github.com/IamLuxray/VanillaPlus/blob/main/screen3.PNG?raw=true" alt="Špatně">
+ <img src="https://github.com/IamLuxray/VanillaPlus/blob/main/screen3.png?raw=true" alt="Špatně">
 4. Otevři:
    
    ```sh
