@@ -1,7 +1,7 @@
 ---
 
 # **Vanilla+ Minecraft 1.21.4 (Fabric) – Modpack**  
-### Stabilní **Release 2.3** včetně **automatizovaného instalátoru** je venku!
+### Stabilní **Release 2.3_Stable** včetně **automatizovaného instalátoru** je venku!
 
 💎 **Více než 390 modů** zaměřených primárně na **vizuální stránku, QoL vylepšení a exploration**, přičemž zachovávají **Vanilla gameplay a feel**.  
 
