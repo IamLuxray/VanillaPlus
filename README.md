@@ -24,12 +24,21 @@
    Start (windows tlačítko) -> napiš Upravit proměnné prostředí systému  
    ```
    
-   - V **záložce Upřesnit** klikni na **Proměnné prostředí...**  
-   - Ve spodním okně najdi řádek začínající **Path** → Klikni na **Upravit...**  
-   - Najdi **jakoukoliv zmínku o Java nebo Oracle** (většinou na disku, kde je Windows, např. C:).  
+   - V **záložce Upřesnit** klikni na **Proměnné prostředí...**
+  
+   
+   
+   - Ve spodním okně najdi řádek začínající **Path** → Klikni na **Upravit...**
+  
+   
+   
+   - Najdi **jakoukoliv zmínku o Java nebo Oracle** (většinou na disku, kde je Windows, např. C:).
+
+
+
    - **Odstraň ji** → Klikni na **OK** → Zavři všechna okna.  
-6. Stáhni a nainstaluj **JDK 24**(https://download.oracle.com/java/24/latest/jdk-24_windows-x64_bin.exe).  
-7. Po instalaci znovu spusť **CMD** a napiš:
+5. Stáhni a nainstaluj **JDK 24**(https://download.oracle.com/java/24/latest/jdk-24_windows-x64_bin.exe).  
+6. Po instalaci znovu spusť **CMD** a napiš:
    
    ```sh
    java -version
@@ -66,7 +75,14 @@ Pokud máš systémový disk **D: / E: / apod.**, proveď navíc tento krok:
    ```sh
    E:\Users\Skibidi\AppData\Roaming\sklauncher\jre\bin\javaw.exe -Xmx512M -jar "E:\Users\Skibidi\AppData\Roaming\sklauncher\SKlauncher.jar"
    ```
-   - **Nezapomeň na dvojtečku a uvozovky!** (doporučuji to zkopírovat a jen upravit nezbytné) 
+
+   4. Uprav i řádek **Spustit v** aby také obsahoval správnou cestu na disk:
+  
+   ```sh
+   E:\Users\Skibidi\AppData\Roaming\sklauncher
+   ```
+   
+   - **Nezapomeň na dvojtečky a uvozovky!** (doporučuji to zkopírovat a jen upravit nezbytné) 
 ---
 
 ## 🛠️ **Manuální instalace**  (Ignoruj, pokud fungoval instalátor)
