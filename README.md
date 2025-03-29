@@ -10,7 +10,7 @@
 ## 📌 **Prerekvizity**  
 
 ### ☕ **Java JDK 22+**  
-1. Otevři **CMD** (windows tlačítko -> napiš cmd a dej Enter) a napiš:
+1. Otevři **CMD** (windows tlačítko -> napiš cmd a na **Příkazový řádek** klikni pravým -> **Spustit jako správce**) a napiš:
 
    ```sh
    java -version
