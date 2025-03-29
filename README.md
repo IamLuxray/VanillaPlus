@@ -46,6 +46,7 @@
    ```
    
    - Pokud **neuvidíš 24**, napiš mi na Messenger a fixneme to.  
+<img src="https://github.com/IamLuxray/VanillaPlus/blob/main/screen1.PNG?raw=true" alt="Správně">
 
 ---
 
