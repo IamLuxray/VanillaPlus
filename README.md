@@ -48,7 +48,7 @@
 
 ---
 
-## 🛠️ **Instalace**  
+## 🛠️ **Instalace (automatizovaná)**  
 
 1. **Stáhni** celý archiv (**Releases → 2.2.rar**) a **extrahuj ho**.  
 2. Uvnitř extrahované složky 2.2/ spusť `INSTALL.bat` **jako správce** (pravým kliknutím → Spustit jako správce). - bez oprávnění správce automatizovaná instalace **nepůjde**.
