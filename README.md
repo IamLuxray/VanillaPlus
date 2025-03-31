@@ -114,11 +114,11 @@ V SKlauncheru se můžeš odhlásit a přihlásit se svým (warez) jménem.
 ## 🎮 **Zlepšení výkonu**  
 
 - Pokud hra běží stabilně, zapni **Solas Shadery** pro lepší vizuál.
-- Udrží **60 FPS** i na starších sestavách:  
+- Udrží **50-60** i na starších sestavách:  
   - **GPU:** NVidia GeForce GTX 1060 (6GB GDDR5)  
   - **CPU:** Ryzen 5 1600X (6 jader, 3,6 GHz)  
   - **RAM:** DDR4 32GB (2666 MHz)
-- Nejlepší optimalizaci a performance mají **BSL shaders**, klidně i na High preset.
+- Nejlepší optimalizaci a performance použij **BSL shaders** (defaultně), klidně i na High preset.
 - Pokud máš **RTX GPU**, použij shadery **Rethinking Voxels** s **low-performance ray tracingem**.  
 
 ---
