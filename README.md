@@ -140,7 +140,10 @@ V SKlauncheru se můžeš odhlásit a přihlásit se svým (warez) jménem.
 - **První spawn** je **ve velké výšce**, což může znamenat **smrt pádem z  výšky**. Další respawny už jsou ale v pohodě.  
 - **Distant Horizons mod** (mod na větší vykreslovanou vzdálenost) **někdy přestane renderovat chunky** po změně jeho nastavení.  
   - **Fix:** Restartuj svět nebo hru.  
-- **Některé keybindy se kryjí**, ale to si můžeš snadno upravit.  
+- **Některé keybindy se kryjí**, ale to si můžeš snadno upravit.
+- **Modely postelí** jsou trochu broken. Důvod je mod better beds, který lze odstranit, ale zlepšuje performance díky JSON vykreslování místo 3D modelů, takže záleží na PC.
+- **Občasný FPS drop při načítání určitých chunků** - fix je jedině se otočit a nebo se přemístit jinam, aby se chunk updatoval.
+- **Změna resourcepacku = dočasný fps propad na ~10s** - po něm následuje ~3s lag spike než se RP změní a pak už je to OK. - Je to kvůli Remove Reloading Screen modu (rrls) který umožňuje hrát i během procesu změny RP.
 
 ---
 
