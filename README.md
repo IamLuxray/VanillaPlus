@@ -45,7 +45,7 @@
    java -version
    ```
    
-   - Pokud **neuvidíš 24**, napiš mi na Messenger a fixneme to.  
+   - Pokud **neuvidíš 24**, napiš mi na Mess/IG a fixneme to.  
 <img src="https://github.com/IamLuxray/VanillaPlus/blob/main/screen1.PNG?raw=true" alt="Správně">
 
 ---
@@ -58,7 +58,7 @@
 4. Zkontroluj, že máš složky na místě -> Start -> napiš **%appdata%** a dej Enter. ->Ve složce co se ti otevře by nahoře měla být složka .minecraft. Pokdu ano, jsi v suchu.
 5. ✅ **Hotovo!** Teď můžeš hrát **Minecraft** přes **SKlauncher** nově na tvé **ploše**.  
 
-> Pokud narazíš na problém, postupuj podle **Manuální instalace** níže.  
+> Pokud narazíš na problém, postupuj podle **Manuální instalace** níže / napiš mi na Mess/IG.  
 
 ---
 
